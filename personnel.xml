@@ -1,0 +1,9 @@
+<personnel>
+	<nom> </nom>
+	<prenom> </prenom>
+	<grade> </grade>
+	<bureau> </bureau>
+	<telephone> </telephone>
+	<email> </email>
+	<departement> </departement>
+</pesronnel>
