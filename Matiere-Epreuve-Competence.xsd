@@ -1,28 +1,34 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-<xsd:element name="Matiere_de_l_uf">
-	<xsd:sequence>
-		<xsd:element name="coef" type="xsd:string"/>
-		<xsd:element name="presentiel" type="xsd:string"/>
-		<xsd:element name="nbr_h_CM" type="xsd:string"/>
-		<xsd:element name="nbr_h_TD" type="xsd:string"/>
-		<xsd:element name="nbr_h_TP" type="xsd:string"/>
-		<xsd:element name="Competence" type="xsd:string" minOccurs="0"/>
-		<xsd:element name="Epreuve" type="xsd:string" minOccurs="0"/>
-	</xsd:sequence>
-	<xsd:attribute name="code_apogee" type="xsd:string"/>
-</xsd:element>
+	<xsd:element name="Matiere_de_l_uf">
+		<xsd:complexType>
+		<xsd:sequence>
+			<xsd:element name="coef" type="xsd:string"/>
+			<xsd:element name="presentiel" type="xsd:string"/>
+			<xsd:element name="nbr_h_CM" type="xsd:string"/>
+			<xsd:element name="nbr_h_TD" type="xsd:string"/>
+			<xsd:element name="nbr_h_TP" type="xsd:string"/>
+			<xsd:element name="Competence" type="CompetenceType" minOccurs="0"/>
+			<xsd:element name="Epreuve" type="EpreuveType" minOccurs="0"/>
+		</xsd:sequence>
+		<xsd:attribute name="code_apogee" type="xsd:string"/>
+		</xsd:complexType>
+	</xsd:element>
 
-<xsd:complexType name="Competence">
- 	<xsd:element name="description" type="xsd:string"/>
-	<xsd:attribute name="nom" type="xsd:string"/>
-</xsd:complexType>
+	<xsd:complexType name="CompetenceType">
+		<xsd:sequence>
+	 		<xsd:element name="description" type="xsd:string"/>
+		</xsd:sequence>
+		<xsd:attribute name="nom" type="xsd:string"/>
+	</xsd:complexType>
 
-<xsd:complexType name="Epreuve">
-	<xsd:sequence>
-	 	<xsd:element name="duree" type="xsd:string"/>
-		<xsd:element name="nature" type="xsd:string"/>
-		<xsd:element name="coef" type="xsd:string"/>
-	</xsd:sequence>
-	<xsd:attribute name="code_apogee" type="xsd:string"/>
-</xsd:complexType>
+	<xsd:complexType name="EpreuveType">
+		<xsd:sequence>
+		 	<xsd:element name="duree" type="xsd:string"/>
+			<xsd:element name="nature" type="xsd:string"/>
+			<xsd:element name="coef" type="xsd:string"/>
+		</xsd:sequence>
+		<xsd:attribute name="code_apogee" type="xsd:string"/>
+	</xsd:complexType>
+</xsd:schema>
+
