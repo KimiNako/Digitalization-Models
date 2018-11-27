@@ -5,17 +5,14 @@
 	<nbr_h_CM></nbr_h_CM>
 	<nbr_h_TD></nbr_h_TD>
 	<nbr_h_TP></nbr_h_TP>
-	<Competence nom=""></Competence>
-	<Epreuve code_apogee=""></Epreuve>
+	<Competence nom="">
+		<description></description>
+	</Competence>
+	<Epreuve code_apogee="">
+		<duree></duree>	
+		<nature></nature>
+		<coef></coef>
+	</Epreuve>
 </Matiere_de_l_uf>
 
-<Competence nom="">
-	<description></description>
-</Competence>
-
-<Epreuve code_apogee="">
-	<duree></duree>	
-	<nature></nature>
-	<coef></coef>
-</Epreuve>
 
