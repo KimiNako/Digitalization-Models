@@ -4,11 +4,13 @@
 	<acronyme></acronyme>
 	<nom></nom>
 	<dateCreation></dateCreation>
-	<PO></PO>
-	<Personnel></Personnel>
+	<Personnel></Personnel> <!-- Directeur du département-->
 </Departement>
 
 <PO id="">
+	<acronyme></acronyme>
 	<nom></nom>
+	<Departement></Departement>
 	<Semestre></Semestre>
+	<Personnel></Personnel> <!-- Responsable de PO -->
 </PO>
