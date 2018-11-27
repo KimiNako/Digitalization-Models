@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 <xsd:element name="UF">
+	<xsd:complexType>
 	<xsd:sequence>
 		<xsd:element name="Intitule" type="xsd:string"/>
 		<xsd:element name="Grands_Domaines" type="xsd:string"/>
@@ -17,9 +18,11 @@
 		<xsd:element name="Semestre" type="xsd:string" minOccurs="1"/>
 	</xsd:sequence>
 	<xsd:attribute name="code_apogee" type="xsd:string"/>
-</xsd:element>
+	</xsd:complexType>
+	</xsd:element>
 
 <xsd:complexType name="Semestre">
 	<xsd:attribute name="numero" type="xsd:string"/>
 </xsd:complexType>
+</xsd:schema>
 
