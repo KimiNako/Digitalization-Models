@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<xsd:element name="UF">
+	<xsd:sequence>
+		<xsd:element name="Intitule" type="xsd:string"/>
+		<xsd:element name="Grands_Domaines" type="xsd:string"/>
+		<xsd:element name="Facultatif" type="xsd:string"/>
+		<xsd:element name="Heterogene" type="xsd:string"/>
+		<xsd:element name="Eval_Par_Competences" type="xsd:string"/>
+		<xsd:element name="Continuite" type="xsd:string"/>
+		<xsd:element name="ECTS" type="xsd:string"/>
+		<xsd:element name="Mineur" type="xsd:string"/>
+		<xsd:element name="NbTotHeureUF" type="xsd:string"/>
+		<xsd:element name="NbTotHeureCM" type="xsd:string"/>
+		<xsd:element name="NbTotHeureTD" type="xsd:string"/>
+		<xsd:element name="NbTotHeureTP" type="xsd:string"/>
+		<xsd:element name="Semestre" type="xsd:string" minOccurs="1"/>
+	</xsd:sequence>
+	<xsd:attribute name="code_apogee" type="xsd:string"/>
+</xsd:element>
+
+<xsd:complexType name="Semestre">
+	<xsd:attribute name="numero" type="xsd:string"/>
+</xsd:complexType>
+
