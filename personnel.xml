@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<personnel>
+<personnel id="">
 	<nom> </nom>
 	<prenom> </prenom>
 	<grade> </grade>
@@ -8,4 +8,4 @@
 	<telephone> </telephone>
 	<email> </email>
 	<departement> </departement>
-</pesronnel>
+</personnel>
