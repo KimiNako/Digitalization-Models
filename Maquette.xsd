@@ -25,8 +25,7 @@
 		</xs:keyref>
 	</xs:element>
 
-	<xs:element name="Matiere_de_l_uf">
-		<xs:complexType>
+		<xs:complexType name="Matiere_de_l_ufType">
 		<xs:sequence>
 			<xs:element name="coef" type="xs:string"/>
 			<xs:element name="presentiel" type="xs:string"/>
@@ -37,7 +36,17 @@
 			<xs:element name="Epreuve" type="EpreuveType" minOccurs="0"/>
 		</xs:sequence>
 		<xs:attribute name="code_apogee" type="xs:string"/>
-		</xs:complexType>
+	</xs:complexType>
+
+	<xs:element name="Matiere_de_l_uf" type="Matiere_de_l_ufType">
+		<xs:key name="keyUF">
+		    <xs:selector xpath="UF"/>
+		    <xs:field xpath="@code_apogee"/>
+		</xs:key>
+		<xs:keyref name="refUF" refer="keyUF">
+		    <xs:selector xpath="Matiere_de_l_uf"/>
+		    <xs:field xpath="UF"/>
+		</xs:keyref>
 	</xs:element>
 
 	<xs:complexType name="CompetenceType">
@@ -56,8 +65,7 @@
 		<xs:attribute name="code_apogee" type="xs:string"/>
 	</xs:complexType>
 
-	<xs:element name="UF">
-		<xs:complexType>
+	<xs:complexType name="UFType">
 		<xs:sequence>
 			<xs:element name="Intitule" type="xs:string"/>
 			<xs:element name="Grands_Domaines" type="xs:string"/>
@@ -75,7 +83,17 @@
 		</xs:sequence>
 		<xs:attribute name="code_apogee" type="xs:string"/>
 		</xs:complexType>
-		</xs:element>
+
+		<xs:element name="UF" type="UFType">
+			<xs:key name="keySemestre">
+					 <xs:selector xpath="Semestre"/>
+					 <xs:field xpath="@code_apogee"/>
+				</xs:key>
+				<xs:keyref name="refSemestre" refer="keySemestre">
+					 <xs:selector xpath="UF"/>
+					 <xs:field xpath="Semestre"/>
+				</xs:keyref>
+			</xs:element>
 
 	<xs:complexType name="Semestre">
 		<xs:attribute name="numero" type="xsd:string"/>
