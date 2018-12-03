@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Matiere_de_l_uf code_apogee="AnanumIMT11">
+    <nom> Analyse Numérique, Optimisation</nom>
+    <UF>I3MIMT11</UF>
+    <Responsable> </Responsable>
+	<coef>0.7</coef>
+	<presentiel></presentiel>
+	<nbr_CM>17</nbr_CM>
+	<nbr_TD>14</nbr_TD>
+	<nbr_TP>7</nbr_TP>
+	<Epreuve nom="CC1">
+		<nature>CC</nature>
+		<coef>0.15</coef>
+	</Epreuve>
+    <Epreuve nom="CC2">
+		<nature>CC</nature>
+		<coef>0.40</coef>
+	</Epreuve>
+    <Epreuve nom="TP">
+		<nature>TP</nature>
+		<coef>0.15</coef>
+	</Epreuve>
+</Matiere_de_l_uf>
+
+<Matiere_de_l_uf code_apogee="">
+    <nom>Chaines de Markov</nom>
+    <UF>I3MIMT11</UF>
+    <Responsable> </Responsable>
+	<coef>0.3</coef>
+	<presentiel></presentiel>
+	<nbr_CM>7</nbr_CM>
+	<nbr_TD>7</nbr_TD>
+	<nbr_TP>1</nbr_TP>
+	<Epreuve nom="CC">
+		<nature>CC</nature>
+		<coef>0.3</coef>
+	</Epreuve>
+</Matiere_de_l_uf>
+
+<Matiere_de_l_uf code_apogee="Syst.IF11">
+    <nom>Système d'exploitation</nom>
+    <UF>I3MIIF11</UF>
+    <Responsable> </Responsable>
+	<coef>0.4</coef>
+	<presentiel></presentiel>
+	<nbr_CM>7</nbr_CM>
+	<nbr_TD>3</nbr_TD>
+	<nbr_TP>0</nbr_TP>
+	<Epreuve nom="CC">
+		<nature>CC</nature>
+		<coef>0.4</coef>
+	</Epreuve>
+</Matiere_de_l_uf>

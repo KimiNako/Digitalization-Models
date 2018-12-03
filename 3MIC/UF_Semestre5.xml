@@ -69,4 +69,59 @@
 	<NbTotTP></NbTotTP>
 	<Semestre numero="MIC_S5"></Semestre>
 </UF>
-
+<UF code_apogee="I3MIOI21">
+	<Intitule>Outils théoriques pour l'informatique</Intitule>
+    <Responsable></Responsable>
+	<Grands_Domaines>Option Informatique et Réseaux</Grands_Domaines>
+	<Heterogene>true</Heterogene>
+	<Eval_Par_Competences>false</Eval_Par_Competences>
+	<Continuite>false</Continuite>
+	<ECTS>4</ECTS>
+	<NbTotHeureUF></NbTotHeureUF>
+	<NbTotCM></NbTotCM>
+	<NbTotTD></NbTotTD>
+	<NbTotTP></NbTotTP>
+	<Semestre numero="MIC_S5"></Semestre>
+</UF>
+<UF code_apogee="I3CCGE11">
+	<Intitule>Technique de recherche d'emploi et langues</Intitule>
+    <Responsable></Responsable>
+	<Grands_Domaines>Transverse</Grands_Domaines>
+	<Heterogene>true</Heterogene>
+	<Eval_Par_Competences>false</Eval_Par_Competences>
+	<Continuite>false</Continuite>
+	<ECTS>5</ECTS>
+	<NbTotHeureUF></NbTotHeureUF>
+	<NbTotCM></NbTotCM>
+	<NbTotTD></NbTotTD>
+	<NbTotTP></NbTotTP>
+	<Semestre numero="MIC_S5"></Semestre>
+</UF>
+<UF code_apogee="I3CCIE11">
+	<Intitule>Ingénieurie et Enjeux écologiques</Intitule>
+    <Responsable></Responsable>
+	<Grands_Domaines>Transverse</Grands_Domaines>
+	<Heterogene>true</Heterogene>
+	<Eval_Par_Competences>true</Eval_Par_Competences>
+	<Continuite>false</Continuite>
+	<ECTS>3</ECTS>
+	<NbTotHeureUF></NbTotHeureUF>
+	<NbTotCM></NbTotCM>
+	<NbTotTD></NbTotTD>
+	<NbTotTP></NbTotTP>
+	<Semestre numero="MIC_S5"></Semestre>
+</UF>
+<UF code_apogee="I3CCGA12">
+	<Intitule>Grandir en autonomie et construire son projet prof. III</Intitule>
+    <Responsable></Responsable>
+	<Grands_Domaines>Transverse</Grands_Domaines>
+	<Heterogene>true</Heterogene>
+	<Eval_Par_Competences>true</Eval_Par_Competences>
+	<Continuite>false</Continuite>
+	<ECTS>2</ECTS>
+	<NbTotHeureUF></NbTotHeureUF>
+	<NbTotCM></NbTotCM>
+	<NbTotTD></NbTotTD>
+	<NbTotTP></NbTotTP>
+	<Semestre numero="MIC_S5"></Semestre>
+</UF>
