@@ -17,7 +17,7 @@
 	</Semestre>
 </UF>
 
-<personnel id="">
+<Personnel id="">
 	<nom> </nom>
 	<prenom> </prenom>
 	<grade> </grade>
@@ -25,7 +25,7 @@
 	<telephone> </telephone>
 	<email> </email>
 	<departement> </departement>
-</personnel>
+</Personnel>
 
 <Matiere_de_l_uf code_apogee="">
 	<UF></UF>
