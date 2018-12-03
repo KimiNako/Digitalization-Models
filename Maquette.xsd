@@ -19,7 +19,7 @@
 		    <xs:selector xpath="."/>
 		    <xs:field xpath="@id"/>
 		</xs:key>
-		<xs:keyref name="refDepartement" refer="keyDepartement">
+		<xs:keyref name="refDepPer" refer="keyDepartement">
 		    <xs:selector xpath="."/>
 		    <xs:field xpath="Departement"/>
 		</xs:keyref>
@@ -42,11 +42,11 @@
 	</xs:complexType>
 
 	<xs:element name="Matiere_de_l_uf" type="Matiere_de_l_ufType">
-		<xs:keyref name="refUF" refer="keyUF">
+		<xs:keyref name="refUFMat" refer="keyUF">
 		    <xs:selector xpath="."/>
 		    <xs:field xpath="UF"/>
 		</xs:keyref>
-		<xs:keyref name="refPersonnel" refer="keyPersonnel">
+		<xs:keyref name="refPerMat" refer="keyPersonnel">
 		    <xs:selector xpath="."/>
 		    <xs:field xpath="Responsable"/>
 		</xs:keyref>
@@ -92,11 +92,11 @@
 				<xs:selector xpath="."/>
 				<xs:field xpath="@code_apogee"/>
 			</xs:key>
-			<xs:keyref name="refSemestre" refer="keySemestre">
+			<xs:keyref name="refSemUF" refer="keySemestre">
 				 <xs:selector xpath="."/>
 				 <xs:field xpath="Semestre"/>
 			</xs:keyref>
-			<xs:keyref name="refPersonnel2" refer="keyPersonnel">
+			<xs:keyref name="refPerUF" refer="keyPersonnel">
 		    	<xs:selector xpath="."/>
 		    	<xs:field xpath="Responsable"/>
 			</xs:keyref>
@@ -114,7 +114,7 @@
 			 <xs:selector xpath="."/>
 			 <xs:field xpath="@numero"/>
 		</xs:key>
-		<xs:keyref name="refPO" refer="keyPO">
+		<xs:keyref name="refPOSem" refer="keyPO">
 		    <xs:selector xpath="."/>
 		    <xs:field xpath="PO"/>
 		</xs:keyref>
@@ -135,7 +135,7 @@
 		    <xs:selector xpath="."/>
 		    <xs:field xpath="@acronyme"/>
 		</xs:key>
-		<xs:keyref name="refPersonnel3" refer="keyPersonnel">
+		<xs:keyref name="refPerDep" refer="keyPersonnel">
 		    <xs:selector xpath="."/>
 		    <xs:field xpath="Directeur"/>
 		</xs:keyref>
@@ -156,11 +156,11 @@
 		    <xs:selector xpath="."/>
 		    <xs:field xpath="@acronyme"/>
 		</xs:key>
-		<xs:keyref name="refDepartement2" refer="keyDepartement">
+		<xs:keyref name="refDepPO" refer="keyDepartement">
 		    <xs:selector xpath="."/>
 		    <xs:field xpath="Departement"/>
 		</xs:keyref>
-		<xs:keyref name="refPersonnel4" refer="keyPersonnel">
+		<xs:keyref name="refPerPO" refer="keyPersonnel">
 		    <xs:selector xpath="."/>
 		    <xs:field xpath="Responsable"/>
 		</xs:keyref>
