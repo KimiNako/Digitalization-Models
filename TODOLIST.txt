@@ -6,7 +6,7 @@ Note :
 
 On a remplacé les NbTotHeure CM/TP/TD en NbTot CM/TP/TD.
 
-Dans Uf :   facultatif, continuite, mineur -> les mettre en boolean 
+Dans Uf :   facultatif, continuite, mineur, heterogene -> les mettre en boolean 
 			NbTotHeureUF -> à mettre en float
 			NbTot CM/TP/TD -> à mettre en int
 
