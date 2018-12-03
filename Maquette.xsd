@@ -15,8 +15,8 @@
 	</xs:complexType>
 
 	<xs:element name="Personnel" type="PersonnelType">
-		<xs:key name="keyDepartement">
-		    <xs:selector xpath="Departement"/>
+		<xs:key name="keyPersonnel">
+		    <xs:selector xpath="Personnel"/>
 		    <xs:field xpath="@id"/>
 		</xs:key>
 		<xs:keyref name="refDepartement" refer="keyDepartement">
@@ -28,6 +28,7 @@
 		<xs:complexType name="Matiere_de_l_ufType">
 		<xs:sequence>
 			<xs:element name="coef" type="xs:string"/>
+			<xs:element name="Facultatif" type="xs:string"/>
 			<xs:element name="presentiel" type="xs:string"/>
 			<xs:element name="nbr_h_CM" type="xs:string"/>
 			<xs:element name="nbr_h_TD" type="xs:string"/>
@@ -39,13 +40,13 @@
 	</xs:complexType>
 
 	<xs:element name="Matiere_de_l_uf" type="Matiere_de_l_ufType">
-		<xs:key name="keyUF">
-		    <xs:selector xpath="UF"/>
-		    <xs:field xpath="@code_apogee"/>
-		</xs:key>
 		<xs:keyref name="refUF" refer="keyUF">
 		    <xs:selector xpath="Matiere_de_l_uf"/>
 		    <xs:field xpath="UF"/>
+		</xs:keyref>
+		<xs:keyref name="refPersonnel" refer="keyPersonnel">
+		    <xs:selector xpath="Matiere_de_l_uf"/>
+		    <xs:field xpath="Personnel"/>
 		</xs:keyref>
 	</xs:element>
 
@@ -68,45 +69,72 @@
 	<xs:complexType name="UFType">
 		<xs:sequence>
 			<xs:element name="Intitule" type="xs:string"/>
+			<xs:element name="Responsable" type="PersonnelType" minOccurs="1"/>
 			<xs:element name="Grands_Domaines" type="xs:string"/>
-			<xs:element name="Facultatif" type="xs:string"/>
 			<xs:element name="Heterogene" type="xs:string"/>
 			<xs:element name="Eval_Par_Competences" type="xs:string"/>
 			<xs:element name="Continuite" type="xs:string"/>
 			<xs:element name="ECTS" type="xs:string"/>
 			<xs:element name="Mineur" type="xs:string"/>
 			<xs:element name="NbTotHeureUF" type="xs:string"/>
-			<xs:element name="NbTotHeureCM" type="xs:string"/>
-			<xs:element name="NbTotHeureTD" type="xs:string"/>
-			<xs:element name="NbTotHeureTP" type="xs:string"/>
-			<xs:element name="Semestre" type="xs:string" minOccurs="1"/>
+			<xs:element name="NbTotCM" type="xs:string"/>
+			<xs:element name="NbTotTD" type="xs:string"/>
+			<xs:element name="NbTotTP" type="xs:string"/>
+			<xs:element name="Semestre" type="xs:SemestreType" minOccurs="1"/>
 		</xs:sequence>
 		<xs:attribute name="code_apogee" type="xs:string"/>
 		</xs:complexType>
 
 		<xs:element name="UF" type="UFType">
-			<xs:key name="keySemestre">
-					 <xs:selector xpath="Semestre"/>
-					 <xs:field xpath="@code_apogee"/>
-				</xs:key>
-				<xs:keyref name="refSemestre" refer="keySemestre">
-					 <xs:selector xpath="UF"/>
-					 <xs:field xpath="Semestre"/>
-				</xs:keyref>
-			</xs:element>
+			<xs:key name="keyUF">
+				<xs:selector xpath="UF"/>
+				<xs:field xpath="@code_apogee"/>
+			</xs:key>
+			<xs:keyref name="refSemestre" refer="keySemestre">
+				 <xs:selector xpath="UF"/>
+				 <xs:field xpath="Semestre"/>
+			</xs:keyref>
+			<xs:keyref name="refPersonnel" refer="keyPersonnel">
+		    	<xs:selector xpath="Matiere_de_l_uf"/>
+		    	<xs:field xpath="Personnel"/>
+			</xs:keyref>
+		</xs:element>
 
-	<xs:complexType name="Semestre">
+	<xs:complexType name="SemestreType">
 		<xs:attribute name="numero" type="xsd:string"/>
 	</xs:complexType>
+
+	<xs:element name="Semestre" type="SemestreType">
+		<xs:key name="keySemestre">
+			 <xs:selector xpath="Semestre"/>
+			 <xs:field xpath="@code_apogee"/>
+		</xs:key>
+		<xs:keyref name="refPO" refer="keyPO">
+		    <xs:selector xpath="Semestre"/>
+		    <xs:field xpath="PO"/>
+		</xs:keyref>
+	</xs:element>
 
 	<xs:complexType name="DepartementType">
 		<xs:sequence>
 			<xs:element name="acronyme" type="xs:string"/>
 			<xs:element name="nom" type="xs:string"/>
 			<xs:element name="dateCreation" type="xs:date"/>
-			<xs:element name="personnel" type="xs:personnelType"/>
+			<xs:element name="Directeur" type="xs:PersonnelType"/>
 		</xs:sequence>
 	</xs:complexType>
+
+
+	<xs:element name="Departement" type="DepartementType">
+		<xs:key name="keyDepartement">
+		    <xs:selector xpath="Departement"/>
+		    <xs:field xpath="@id"/>
+		</xs:key>
+		<xs:keyref name="refPersonnel" refer="keyPersonnel">
+		    <xs:selector xpath="Departement"/>
+		    <xs:field xpath="Personnel"/>
+		</xs:keyref>
+	</xs:element>
 
 
 	<xs:complexType name="POType">
@@ -114,24 +142,19 @@
 			<xs:element name="acronyme" type="xs:string"/>
 			<xs:element name="nom" type="xs:string"/>
 			<xs:element name="Departement" type="xs:DepartementType"/>
-			<xs:element name="semestre" type="xs:string"/>	
-			<xs:element name="Personnel" type="xs:PersonnelType"/>
+			<xs:element name="Responsable" type="xs:PersonnelType"/>
 		</xs:sequence>
 	</xs:complexType>
 
 	<xs:element name="PO" type="POType">
-		<xs:key name="keyDepartement">
-		    <xs:selector xpath="Departement"/>
+		<xs:key name="keyPO">
+		    <xs:selector xpath="PO"/>
 		    <xs:field xpath="@id"/>
 		</xs:key>
 		<xs:keyref name="refDepartement" refer="keyDepartement">
 		    <xs:selector xpath="PO"/>
 		    <xs:field xpath="Departement"/>
 		</xs:keyref>
-			<xs:key name="keyPersonnel">
-		    <xs:selector xpath="Personnel"/>
-		    <xs:field xpath="@id"/>
-		</xs:key>
 		<xs:keyref name="refPersonnel" refer="keyPersonnel">
 		    <xs:selector xpath="PO"/>
 		    <xs:field xpath="Personnel"/>
