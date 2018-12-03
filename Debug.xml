@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<UF code_apogee="">
+	<Intitule></Intitule>
+	<Grands_Domaines></Grands_Domaines>
+	<Heterogene></Heterogene>
+	<Eval_Par_Competences></Eval_Par_Competences>
+	<Continuite> </Continuite>
+	<ECTS> </ECTS>
+	<Mineur> </Mineur>
+	<NbTotHeureUF> </NbTotHeureUF>
+	<NbTotCM> </NbTotHeureCM>
+	<NbTotTD> </NbTotHeureTD>
+	<NbTotTP> </NbTotHeureTP>
+	<Semestre numero=""></Semestre>
+</UF>
+
+<personnel id="">
+	<nom> </nom>
+	<prenom> </prenom>
+	<grade> </grade>
+	<bureau> </bureau>
+	<telephone> </telephone>
+	<email> </email>
+	<departement> </departement>
+</personnel>
+
+<Matiere_de_l_uf code_apogee="">
+	<coef></coef>
+	<Facultatif></Facultatif>
+	<presentiel></presentiel>
+	<nbr_h_CM></nbr_h_CM>
+	<nbr_h_TD></nbr_h_TD>
+	<nbr_h_TP></nbr_h_TP>
+	<Competence nom="">
+		<description></description>
+	</Competence>
+	<Epreuve code_apogee="">
+		<duree></duree>	
+		<nature></nature>
+		<coef></coef>
+	</Epreuve>
+</Matiere_de_l_uf>
+
+<Departement id="">
+	<acronyme></acronyme>
+	<nom></nom>
+	<dateCreation></dateCreation>
+	<Personnel></Personnel> <!-- Directeur du département-->
+</Departement>
+
+<PO id="">
+	<acronyme></acronyme>
+	<nom></nom>
+	<Departement></Departement>
+	<Semestre></Semestre>
+	<Personnel></Personnel> <!-- Responsable de PO -->
+</PO>
+
+
+
