@@ -6,10 +6,6 @@ Note :
 
 On a remplacé les NbTotHeure CM/TP/TD en NbTot CM/TP/TD.
 
-Dans Uf :   facultatif, continuite, mineur, heterogene -> les mettre en boolean 
-			NbTotHeureUF -> à mettre en float
-			NbTot CM/TP/TD -> à mettre en int
 
 A faire  sous forme de calculs : TotHeures
 
-Mettre : 	<Facultatif>false</Facultatif> dans Matiere et non UF
