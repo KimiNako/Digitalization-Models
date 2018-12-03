@@ -10,3 +10,4 @@ Dans Uf :   facultatif, continuite, mineur -> les mettre en boolean
 			NbTotHeureUF -> à mettre en float
 			NbTot CM/TP/TD -> à mettre en int
 
+A faire  sous forme de calculs : TotHeures
