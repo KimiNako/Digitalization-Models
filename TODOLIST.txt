@@ -1,2 +1,12 @@
 - Fusion de tous les xsd ------------------> Maxence / Pierre
 - Faire les exemples de data/maquettes ----> Kim-Anh / Alicia
+
+
+Note :
+
+On a remplacé les NbTotHeure CM/TP/TD en NbTot CM/TP/TD.
+
+Dans Uf :   facultatif, continuite, mineur -> les mettre en boolean 
+			NbTotHeureUF -> à mettre en float
+			NbTot CM/TP/TD -> à mettre en int
+
