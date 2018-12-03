@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<UF code_apogee="I3MIMT11">
+	<Intitule>Analyse Numérique, Optimisation, chaînes de Markov</Intitule>
+    <Responsable></Responsable>
+	<Grands_Domaines>Tronc Commun</Grands_Domaines>
+	<Heterogene>true</Heterogene>
+	<Eval_Par_Competences>false</Eval_Par_Competences>
+	<Continuite>false</Continuite>
+	<ECTS>6</ECTS>
+	<NbTotHeureUF></NbTotHeureUF>
+	<NbTotCM></NbTotCM>
+	<NbTotTD></NbTotTD>
+	<NbTotTP></NbTotTP>
+	<Semestre numero="MIC_S5"></Semestre>
+</UF>
+<UF code_apogee="I3MIIF11">
+	<Intitule>Système d'exploitation, C, Réseaux, Base de données</Intitule>
+    <Responsable></Responsable>
+	<Grands_Domaines>Tronc Commun</Grands_Domaines>
+	<Heterogene>true</Heterogene>
+	<Eval_Par_Competences>false</Eval_Par_Competences>
+	<Continuite>false</Continuite>
+	<ECTS>6</ECTS>
+	<NbTotHeureUF></NbTotHeureUF>
+	<NbTotCM></NbTotCM>
+	<NbTotTD></NbTotTD>
+	<NbTotTP></NbTotTP>
+	<Semestre numero="MIC_S5"></Semestre>
+</UF>
+<UF code_apogee="I3MIOM11">
+	<Intitule>EDO et leur résolution numérique</Intitule>
+    <Responsable></Responsable>
+	<Grands_Domaines>Option Math Appliquées</Grands_Domaines>
+	<Heterogene>true</Heterogene>
+	<Eval_Par_Competences>false</Eval_Par_Competences>
+	<Continuite>false</Continuite>
+	<ECTS>4</ECTS>
+	<NbTotHeureUF></NbTotHeureUF>
+	<NbTotCM></NbTotCM>
+	<NbTotTD></NbTotTD>
+	<NbTotTP></NbTotTP>
+	<Semestre numero="MIC_S5"></Semestre>
+</UF>
+<UF code_apogee="I3MIOM21">
+	<Intitule>Calcul intégral et probabilités</Intitule>
+    <Responsable></Responsable>
+	<Grands_Domaines>Option Math Appliquées</Grands_Domaines>
+	<Heterogene>true</Heterogene>
+	<Eval_Par_Competences>false</Eval_Par_Competences>
+	<Continuite>false</Continuite>
+	<ECTS>4</ECTS>
+	<NbTotHeureUF></NbTotHeureUF>
+	<NbTotCM></NbTotCM>
+	<NbTotTD></NbTotTD>
+	<NbTotTP></NbTotTP>
+	<Semestre numero="MIC_S5"></Semestre>
+</UF>
+<UF code_apogee="I3MIOI11">
+	<Intitule>Bases de données et programmation web</Intitule>
+    <Responsable></Responsable>
+	<Grands_Domaines>Option Informatique et Réseaux</Grands_Domaines>
+	<Heterogene>true</Heterogene>
+	<Eval_Par_Competences>false</Eval_Par_Competences>
+	<Continuite>false</Continuite>
+	<ECTS>4</ECTS>
+	<NbTotHeureUF></NbTotHeureUF>
+	<NbTotCM></NbTotCM>
+	<NbTotTD></NbTotTD>
+	<NbTotTP></NbTotTP>
+	<Semestre numero="MIC_S5"></Semestre>
+</UF>
+
