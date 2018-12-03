@@ -13,3 +13,5 @@ Dans Uf :   facultatif, continuite, mineur, heterogene -> les mettre en boolean
 A faire  sous forme de calculs : TotHeures
 
 Mettre : 	<Facultatif>false</Facultatif> dans Matiere et non UF
+
+A voir : comment faire quand il n'y a pas de code apogée pour une matière ?
