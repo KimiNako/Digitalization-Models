@@ -1,11 +1,89 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<personnel id="">
-	<nom> </nom>
-	<prenom> </prenom>
-	<grade> </grade>
-	<bureau> </bureau>
-	<telephone> </telephone>
-	<email> </email>
-	<departement> </departement>
-</personnel>
+<Personnel id="E01">
+	<nom>Pic</nom>
+	<prenom>Jean-Stéphane</prenom>
+	<grade>Enseignant-chercheur</grade>
+	<bureau>B01</bureau>
+	<telephone>05 61 55 97 47</telephone>
+	<email>jean-stephane.pic@insa-toulouse.fr</email>
+	<departement>GB</departement>
+</Personnel>
+
+<Personnel id="E02">
+	<nom>Roussier-Michon</nom>
+	<prenom>Violaine</prenom>
+	<grade>Enseignant-chercheur</grade>
+	<bureau>B113</bureau>
+	<telephone>05 61 55 93 29</telephone>
+	<email>roussier@insa-toulouse.fr</email>
+	<departement>GMM</departement>
+</Personnel>
+
+
+<Personnel id="E03">
+	<nom>Ressier</nom>
+	<prenom>Laurence</prenom>
+	<grade>Enseignant-chercheur</grade>
+	<bureau>B140</bureau>
+	<telephone>05 61 55 96 72</telephone>
+	<email>laurence.ressier@insa-toulouse.fr</email>
+	<departement>GP</departement>
+</Personnel>
+
+
+<Personnel id="E04">
+	<nom>Nicomette</nom>
+	<prenom>Vincent</prenom>
+	<grade>Enseignant-chercheur</grade>
+	<bureau>B124</bureau>
+	<telephone>05 61 55 98 20</telephone>
+	<email>nicomett @ laas.fr</email>
+	<departement>GEI</departement>
+</Personnel>
+
+
+<Personnel id="E05">
+	<nom>Chanthery</nom>
+	<prenom>Elodie</prenom>
+	<grade>Enseignant-chercheur</grade>
+	<bureau>B218</bureau>
+	<telephone>05 61 55 98 06</telephone>
+	<email>elodie.chanthery@laas.fr </email>
+	<departement>GEI</departement>
+</Personnel>
+
+
+<Personnel id="E06">
+	<nom>Escriba</nom>
+	<prenom>Christophe</prenom>
+	<grade>Maître de conférences</grade>
+	<bureau>B120</bureau>
+	<telephone>05 61 33 79 83</telephone>
+	<email>christophe.escriba@laas.fr</email>
+	<departement>GEI</departement>
+</Personnel>
+
+
+<Personnel id="E07">
+	<nom>Fabre</nom>
+	<prenom>Laure</prenom>
+	<grade>Enseignant</grade>
+	<bureau>B21</bureau>
+	<telephone>05 61 55 92 81</telephone>
+	<email>laure.fabre@insa-toulouse.fr</email>
+	<departement>CSH</departement>
+</Personnel>
+
+
+<Personnel id="E08">
+	<nom>Baup</nom>
+	<prenom>Jean-Luc</prenom>
+	<grade>Enseignant</grade>
+	<bureau>Centre des APS</bureau>
+	<telephone>05 61 55 93 57</telephone>
+	<email>jean-luc.baup @ insa-toulouse.fr</email>
+	<departement>APS</departement>
+</Personnel>
+
+
