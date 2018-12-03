@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<UF code_apogee="I2MIMT11">
+	<Intitule>Analyse et Algèbre</Intitule>
+	<Reponsable id="E02"></Reponsable>
+	<Grands_Domaines>UF Scientifiques</Grands_Domaines>
+	<Heterogene>true</Heterogene>
+	<Eval_Par_Competences>false</Eval_Par_Competences>
+	<Continuite>false</Continuite>
+	<ECTS>7</ECTS>
+	<NbTotHeureUF></NbTotHeureUF>
+	<NbTotCM></NbTotCM>
+	<NbTotTD></NbTotTD>
+	<NbTotTP></NbTotTP>
+	<Semestre numero="3"></Semestre>
+</UF>
+
+<UF code_apogee="I2MIPH11">
+	<Intitule>Electromagnétisme</Intitule>
+	<Reponsable id="E03"></Reponsable>
+	<Grands_Domaines>UF Scientifiques</Grands_Domaines>
+	<Heterogene>true</Heterogene>
+	<Eval_Par_Competences>false</Eval_Par_Competences>
+	<Continuite>false</Continuite>
+	<ECTS>4</ECTS>
+	<NbTotHeureUF></NbTotHeureUF>
+	<NbTotCM></NbTotCM>
+	<NbTotTD></NbTotTD>
+	<NbTotTP></NbTotTP>
+	<Semestre numero="3"></Semestre>
+</UF>
+
+
+<UF code_apogee="I2MIIF11">
+	<Intitule>Algorithme Programmation Unix</Intitule>
+	<Reponsable id="E04"></Reponsable>
+	<Grands_Domaines>UF Scientifiques</Grands_Domaines>
+	<Heterogene>true</Heterogene>
+	<Eval_Par_Competences>false</Eval_Par_Competences>
+	<Continuite>false</Continuite>
+	<ECTS>4</ECTS>
+	<NbTotHeureUF></NbTotHeureUF>
+	<NbTotCM></NbTotCM>
+	<NbTotTD></NbTotTD>
+	<NbTotTP></NbTotTP>
+	<Semestre numero="MIC_S3"></Semestre>
+</UF>
+
+
+<UF code_apogee="I2MIIM11">
+	<Intitule>Logique et SFO</Intitule>
+	<Reponsable id="E05"></Reponsable>
+	<Grands_Domaines>UF Scientifiques</Grands_Domaines>
+	<Heterogene>false</Heterogene>
+	<Eval_Par_Competences>true</Eval_Par_Competences>
+	<Continuite>false</Continuite>
+	<ECTS>4</ECTS>
+	<NbTotHeureUF></NbTotHeureUF>
+	<NbTotCM></NbTotCM>
+	<NbTotTD></NbTotTD>
+	<NbTotTP></NbTotTP>
+	<Semestre numero="MIC_S3"></Semestre>
+</UF>
+
+<UF code_apogee="I2MIEN11">
+	<Intitule>Electronique</Intitule>
+	<Reponsable id="E06"></Reponsable>
+	<Grands_Domaines>UF Scientifiques</Grands_Domaines>
+	<Heterogene>true</Heterogene>
+	<Eval_Par_Competences>false</Eval_Par_Competences>
+	<Continuite>false</Continuite>
+	<ECTS>4</ECTS>
+	<NbTotHeureUF></NbTotHeureUF>
+	<NbTotCM></NbTotCM>
+	<NbTotTD></NbTotTD>
+	<NbTotTP></NbTotTP>
+	<Semestre numero="MIC_S3"></Semestre>
+</UF>
+
+<UF code_apogee="I2CCGE31">
+	<Intitule>L'environnement de l'entreprise et ses modes de communication</Intitule>
+	<Reponsable id="E07"></Reponsable>
+	<Grands_Domaines>UF Transversales</Grands_Domaines>
+	<Heterogene>true</Heterogene>
+	<Eval_Par_Competences>false</Eval_Par_Competences>
+	<Continuite>false</Continuite>
+	<ECTS>5</ECTS>
+	<NbTotHeureUF></NbTotHeureUF>
+	<NbTotCM></NbTotCM>
+	<NbTotTD></NbTotTD>
+	<NbTotTP></NbTotTP>
+	<Semestre numero="MIC_S3"></Semestre>
+</UF>
+
+<UF code_apogee="I2CCGA12">
+	<Intitule>Grandir en autonomie et construire son projet professionnel II</Intitule>
+	<Reponsable id="E08"></Reponsable>
+	<Grands_Domaines>UF Transversales</Grands_Domaines>
+	<Heterogene>true</Heterogene>
+	<Eval_Par_Competences>false</Eval_Par_Competences>
+	<Continuite>false</Continuite>
+	<ECTS>2</ECTS>
+	<NbTotHeureUF></NbTotHeureUF>
+	<NbTotCM></NbTotCM>
+	<NbTotTD></NbTotTD>
+	<NbTotTP></NbTotTP>
+	<Semestre numero="MIC_S3"></Semestre>
+</UF>
