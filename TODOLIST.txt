@@ -9,4 +9,30 @@ On a remplacé les NbTotHeure CM/TP/TD en NbTot CM/TP/TD.
 
 A faire  sous forme de calculs : TotHeures
 
+
 A voir : comment faire quand il n'y a pas de code apogée pour une matière ?
+
+Mettre : 	<Facultatif>false</Facultatif> dans Matiere et non UF
+
+
+-----------------
+BDD APS :
+http://www.aps.insa-toulouse.fr/fr/contact/equipe-pedagogique.html
+
+BDD GMM : 
+http://www.math.insa-toulouse.fr/fr/le-gmm/annuaire_des_enseignants.html
+
+BDD CSH :
+http://csh.insa-toulouse.fr/fr/annuaire-du-csh/l-equipe-pedagogique.html
+
+BDD GEI : 
+http://gei.insa-toulouse.fr/fr/departement/people.html
+
+--------------
+POUR XSLT
+1. Pour chaque PO, le nombre total d'UFs
+2. Pour chaque PO, le nombre total de cours + Infos sur cours (nom, responsable)
+3. Pour chaque cours, liste des épreuves
+4. Pour chaque personne, liste de ses responsabilités (Département, UFs, Cours)
+5. Pour chaque PO, liste des compétences 
+
