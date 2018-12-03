@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<Departement id="">
-	<acronyme></acronyme>
-	<nom></nom>
-	<dateCreation></dateCreation>
-	<Personnel></Personnel> <!-- Directeur du département-->
+<Departement id="STPI">
+	<acronyme>STPI</acronyme>
+	<nom>Sciences et Techniques Pour l'Ingénieur</nom>
+	<dateCreation>01/03/1957</dateCreation>
+	<Personnel id="E01"></Personnel> <!-- Directeur du département-->
 </Departement>
 
-<PO id="">
-	<acronyme></acronyme>
-	<nom></nom>
-	<Departement></Departement>
-	<Semestre></Semestre>
-	<Personnel></Personnel> <!-- Responsable de PO -->
+<PO id="MIC">
+	<acronyme>MIC</acronyme>
+	<nom>Modélisation, informatique, communications</nom>
+	<Departement id="STPI"></Departement>
+	<Semestre numero="3"></Semestre>
+	<Semestre numero="4"></Semestre>
+	<Personnel id="E02"></Personnel> <!-- Responsable de PO -->
 </PO>
