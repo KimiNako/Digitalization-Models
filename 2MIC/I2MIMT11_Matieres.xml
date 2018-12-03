@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Matiere_de_l_uf code_apogee="">
 	<coef></coef>
+	<Facultatif>false</Facultatif>
 	<presentiel></presentiel>
 	<nbr_h_CM></nbr_h_CM>
 	<nbr_h_TD></nbr_h_TD>

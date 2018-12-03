@@ -9,10 +9,10 @@
 	<ECTS> </ECTS>
 	<Mineur> </Mineur>
 	<NbTotHeureUF> </NbTotHeureUF>
-	<NbTotHeureCM> </NbTotHeureCM>
-	<NbTotHeureTD> </NbTotHeureTD>
-	<NbTotHeureTP> </NbTotHeureTP>
-	<Semestre numero=""></Semestre>
+	<NbTotCM> </NbTotCM>
+	<NbTotTD> </NbTotTD>
+	<NbTotTP> </NbTotTP>
+	<Semestre numero="MIC_S4"></Semestre>
 </UF>
 
 
