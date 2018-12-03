@@ -86,55 +86,53 @@
 	<departement>APS</departement>
 </Personnel>
 
-
-
-
-
-
-
-
 <Personnel id="E09">
-	<nom>Baup</nom>
-	<prenom>Jean-Luc</prenom>
-	<grade>Enseignant</grade>
-	<bureau>Centre des APS</bureau>
-	<telephone>05 61 55 93 57</telephone>
-	<email>jean-luc.baup @ insa-toulouse.fr</email>
-	<departement>APS</departement>
+	<nom>Lacouture</nom>
+	<prenom>Loïc </prenom>
+	<grade>Professeur agrégé</grade>
+	<bureau>B118</bureau>
+	<telephone>05 61 55 93 39</telephone>
+	<email>lacoutur@insa-toulouse.fr</email>
+	<departement>GMM</departement>
 </Personnel>
+
 <Personnel id="E10">
-	<nom>Baup</nom>
-	<prenom>Jean-Luc</prenom>
-	<grade>Enseignant</grade>
-	<bureau>Centre des APS</bureau>
-	<telephone>05 61 55 93 57</telephone>
-	<email>jean-luc.baup @ insa-toulouse.fr</email>
-	<departement>APS</departement>
+	<nom>Lachaize</nom>
+	<prenom>Sébastien</prenom>
+	<grade>Enseignant-chercheur</grade>
+	<bureau>B234</bureau>
+	<telephone>05 61 55 96 63</telephone>
+	<email>slachaiz@insa-toulouse.fr</email>
+	<departement>GP</departement>
 </Personnel>
+
+
 <Personnel id="E11">
-	<nom>Baup</nom>
-	<prenom>Jean-Luc</prenom>
-	<grade>Enseignant</grade>
-	<bureau>Centre des APS</bureau>
-	<telephone>05 61 55 93 57</telephone>
-	<email>jean-luc.baup @ insa-toulouse.fr</email>
-	<departement>APS</departement>
+	<nom>Esquirol</nom>
+	<prenom>Patrick</prenom>
+	<grade>Maître de conférences </grade>
+	<bureau>B108</bureau>
+	<telephone> 05 61 33 62 90</telephone>
+	<email>patrick.esquirol@laas.fr</email>
+	<departement>GEI</departement>
 </Personnel>
+
 <Personnel id="E12">
-	<nom>Baup</nom>
-	<prenom>Jean-Luc</prenom>
-	<grade>Enseignant</grade>
-	<bureau>Centre des APS</bureau>
-	<telephone>05 61 55 93 57</telephone>
-	<email>jean-luc.baup @ insa-toulouse.fr</email>
-	<departement>APS</departement>
+	<nom>Le Corre</nom>
+	<prenom>Gwendoline</prenom>
+	<grade>Enseignant-chercheur</grade>
+	<bureau>B218</bureau>
+	<telephone>05 61 55 98 06</telephone>
+	<email>lecorre@insa-toulouse.fr</email>
+	<departement>GEI</departement>
 </Personnel>
+
 <Personnel id="E13">
-	<nom>Baup</nom>
-	<prenom>Jean-Luc</prenom>
-	<grade>Enseignant</grade>
-	<bureau>Centre des APS</bureau>
-	<telephone>05 61 55 93 57</telephone>
-	<email>jean-luc.baup @ insa-toulouse.fr</email>
-	<departement>APS</departement>
+	<nom>Scott</nom>
+	<prenom>Sandrine</prenom>
+	<grade>Professeur agrégé</grade>
+	<bureau>B118</bureau>
+	<telephone>05 61 55 93 43</telephone>
+	<email>sandrine.scott@insa-toulouse.fr</email>
+	<departement>GMM</departement>
 </Personnel>
