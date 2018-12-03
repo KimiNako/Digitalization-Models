@@ -96,7 +96,7 @@
 				 <xs:selector xpath="."/>
 				 <xs:field xpath="Semestre"/>
 			</xs:keyref>
-			<xs:keyref name="refPersonnel" refer="keyPersonnel">
+			<xs:keyref name="refPersonnel2" refer="keyPersonnel">
 		    	<xs:selector xpath="."/>
 		    	<xs:field xpath="Responsable"/>
 			</xs:keyref>
@@ -135,7 +135,7 @@
 		    <xs:selector xpath="."/>
 		    <xs:field xpath="@acronyme"/>
 		</xs:key>
-		<xs:keyref name="refPersonnel" refer="keyPersonnel">
+		<xs:keyref name="refPersonnel3" refer="keyPersonnel">
 		    <xs:selector xpath="."/>
 		    <xs:field xpath="Directeur"/>
 		</xs:keyref>
@@ -156,11 +156,11 @@
 		    <xs:selector xpath="."/>
 		    <xs:field xpath="@acronyme"/>
 		</xs:key>
-		<xs:keyref name="refDepartement" refer="keyDepartement">
+		<xs:keyref name="refDepartement2" refer="keyDepartement">
 		    <xs:selector xpath="."/>
 		    <xs:field xpath="Departement"/>
 		</xs:keyref>
-		<xs:keyref name="refPersonnel" refer="keyPersonnel">
+		<xs:keyref name="refPersonnel4" refer="keyPersonnel">
 		    <xs:selector xpath="."/>
 		    <xs:field xpath="Responsable"/>
 		</xs:keyref>
