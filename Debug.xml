@@ -12,7 +12,9 @@
 	<NbTotCM> </NbTotHeureCM>
 	<NbTotTD> </NbTotHeureTD>
 	<NbTotTP> </NbTotHeureTP>
-	<Semestre numero=""></Semestre>
+	<Semestre numero="">
+		<PO></PO>
+	</Semestre>
 </UF>
 
 <personnel id="">
