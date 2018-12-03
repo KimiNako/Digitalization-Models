@@ -87,3 +87,54 @@
 </Personnel>
 
 
+
+
+
+
+
+
+<Personnel id="E09">
+	<nom>Baup</nom>
+	<prenom>Jean-Luc</prenom>
+	<grade>Enseignant</grade>
+	<bureau>Centre des APS</bureau>
+	<telephone>05 61 55 93 57</telephone>
+	<email>jean-luc.baup @ insa-toulouse.fr</email>
+	<departement>APS</departement>
+</Personnel>
+<Personnel id="E10">
+	<nom>Baup</nom>
+	<prenom>Jean-Luc</prenom>
+	<grade>Enseignant</grade>
+	<bureau>Centre des APS</bureau>
+	<telephone>05 61 55 93 57</telephone>
+	<email>jean-luc.baup @ insa-toulouse.fr</email>
+	<departement>APS</departement>
+</Personnel>
+<Personnel id="E11">
+	<nom>Baup</nom>
+	<prenom>Jean-Luc</prenom>
+	<grade>Enseignant</grade>
+	<bureau>Centre des APS</bureau>
+	<telephone>05 61 55 93 57</telephone>
+	<email>jean-luc.baup @ insa-toulouse.fr</email>
+	<departement>APS</departement>
+</Personnel>
+<Personnel id="E12">
+	<nom>Baup</nom>
+	<prenom>Jean-Luc</prenom>
+	<grade>Enseignant</grade>
+	<bureau>Centre des APS</bureau>
+	<telephone>05 61 55 93 57</telephone>
+	<email>jean-luc.baup @ insa-toulouse.fr</email>
+	<departement>APS</departement>
+</Personnel>
+<Personnel id="E13">
+	<nom>Baup</nom>
+	<prenom>Jean-Luc</prenom>
+	<grade>Enseignant</grade>
+	<bureau>Centre des APS</bureau>
+	<telephone>05 61 55 93 57</telephone>
+	<email>jean-luc.baup @ insa-toulouse.fr</email>
+	<departement>APS</departement>
+</Personnel>
