@@ -19,7 +19,7 @@
 		    <xs:selector xpath="."/>
 		    <xs:field xpath="@id"/>
 		</xs:key>
-		<xs:keyref name="refDepartement" refer="keyDepartement">
+		<xs:keyref name="refDepPer" refer="keyDepartement">
 		    <xs:selector xpath="."/>
 		    <xs:field xpath="Departement"/>
 		</xs:keyref>
@@ -27,26 +27,26 @@
 
 		<xs:complexType name="Matiere_de_l_ufType">
 		<xs:sequence>
-			<xs:element name="UF" type=xs:"string"/>
+			<xs:element name="UF" type="xs:string"/>
 			<xs:element name="Responsable" type="xs:string" minOccurs="1"/>
 			<xs:element name="coef" type="xs:string"/>
-			<xs:element name="Facultatif" type="xs:string"/>
+			<xs:element name="Facultatif" type="xs:boolean"/>
 			<xs:element name="presentiel" type="xs:string"/>
-			<xs:element name="nbr_h_CM" type="xs:string"/>
-			<xs:element name="nbr_h_TD" type="xs:string"/>
-			<xs:element name="nbr_h_TP" type="xs:string"/>
+			<xs:element name="nbr_CM" type="xs:integer"/>
+			<xs:element name="nbr_TD" type="xs:integer"/>
+			<xs:element name="nbr_TP" type="xs:integer"/>
 			<xs:element name="Competence" type="CompetenceType" minOccurs="0"/>
-			<xs:element name="Epreuve" type="EpreuveType" minOccurs="0"/>
+			<xs:element name="Epreuve" type="EpreuveType" minOccurs="0" maxOccurs="unbounded"/>
 		</xs:sequence>
 		<xs:attribute name="code_apogee" type="xs:string"/>
 	</xs:complexType>
 
 	<xs:element name="Matiere_de_l_uf" type="Matiere_de_l_ufType">
-		<xs:keyref name="refUF" refer="keyUF">
+		<xs:keyref name="refUFMat" refer="keyUF">
 		    <xs:selector xpath="."/>
 		    <xs:field xpath="UF"/>
 		</xs:keyref>
-		<xs:keyref name="refPersonnel" refer="keyPersonnel">
+		<xs:keyref name="refPerMat" refer="keyPersonnel">
 		    <xs:selector xpath="."/>
 		    <xs:field xpath="Responsable"/>
 		</xs:keyref>
@@ -73,15 +73,15 @@
 			<xs:element name="Intitule" type="xs:string"/>
 			<xs:element name="Responsable" type="xs:string" minOccurs="1"/>
 			<xs:element name="Grands_Domaines" type="xs:string"/>
-			<xs:element name="Heterogene" type="xs:string"/>
+			<xs:element name="Heterogene" type="xs:boolean"/>
 			<xs:element name="Eval_Par_Competences" type="xs:string"/>
-			<xs:element name="Continuite" type="xs:string"/>
+			<xs:element name="Continuite" type="xs:boolean"/>
 			<xs:element name="ECTS" type="xs:string"/>
-			<xs:element name="Mineur" type="xs:string"/>
-			<xs:element name="NbTotHeureUF" type="xs:string"/>
-			<xs:element name="NbTotCM" type="xs:string"/>
-			<xs:element name="NbTotTD" type="xs:string"/>
-			<xs:element name="NbTotTP" type="xs:string"/>
+			<xs:element name="Mineur" type="xs:boolean"/>
+			<xs:element name="NbTotHeureUF" type="xs:float"/>
+			<xs:element name="NbTotCM" type="xs:integer"/>
+			<xs:element name="NbTotTD" type="xs:integer"/>
+			<xs:element name="NbTotTP" type="xs:integer"/>
 			<xs:element name="Semestre" type="xs:string" minOccurs="1"/>
 		</xs:sequence>
 		<xs:attribute name="code_apogee" type="xs:string"/>
@@ -92,11 +92,11 @@
 				<xs:selector xpath="."/>
 				<xs:field xpath="@code_apogee"/>
 			</xs:key>
-			<xs:keyref name="refSemestre" refer="keySemestre">
+			<xs:keyref name="refSemUF" refer="keySemestre">
 				 <xs:selector xpath="."/>
 				 <xs:field xpath="Semestre"/>
 			</xs:keyref>
-			<xs:keyref name="refPersonnel" refer="keyPersonnel">
+			<xs:keyref name="refPerUF" refer="keyPersonnel">
 		    	<xs:selector xpath="."/>
 		    	<xs:field xpath="Responsable"/>
 			</xs:keyref>
@@ -114,7 +114,7 @@
 			 <xs:selector xpath="."/>
 			 <xs:field xpath="@numero"/>
 		</xs:key>
-		<xs:keyref name="refPO" refer="keyPO">
+		<xs:keyref name="refPOSem" refer="keyPO">
 		    <xs:selector xpath="."/>
 		    <xs:field xpath="PO"/>
 		</xs:keyref>
@@ -135,7 +135,7 @@
 		    <xs:selector xpath="."/>
 		    <xs:field xpath="@acronyme"/>
 		</xs:key>
-		<xs:keyref name="refPersonnel" refer="keyPersonnel">
+		<xs:keyref name="refPerDep" refer="keyPersonnel">
 		    <xs:selector xpath="."/>
 		    <xs:field xpath="Directeur"/>
 		</xs:keyref>
@@ -156,15 +156,14 @@
 		    <xs:selector xpath="."/>
 		    <xs:field xpath="@acronyme"/>
 		</xs:key>
-		<xs:keyref name="refDepartement" refer="keyDepartement">
+		<xs:keyref name="refDepPO" refer="keyDepartement">
 		    <xs:selector xpath="."/>
 		    <xs:field xpath="Departement"/>
 		</xs:keyref>
-		<xs:keyref name="refPersonnel" refer="keyPersonnel">
+		<xs:keyref name="refPerPO" refer="keyPersonnel">
 		    <xs:selector xpath="."/>
 		    <xs:field xpath="Responsable"/>
 		</xs:keyref>
 	</xs:element>
-	</xs:key>
 
 </xs:schema>

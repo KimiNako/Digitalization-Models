@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
+<debug>
 <UF code_apogee="">
 	<Intitule></Intitule>
 	<Responsable></Responsable>
@@ -17,7 +18,7 @@
 	</Semestre>
 </UF>
 
-<personnel id="">
+<Personnel id="">
 	<nom> </nom>
 	<prenom> </prenom>
 	<grade> </grade>
@@ -25,7 +26,7 @@
 	<telephone> </telephone>
 	<email> </email>
 	<departement> </departement>
-</personnel>
+</Personnel>
 
 <Matiere_de_l_uf code_apogee="">
 	<UF></UF>
@@ -60,6 +61,7 @@
 	<Semestre></Semestre>
 	<Personnel></Personnel> <!-- Responsable de PO -->
 </PO>
+</debug>
 
 
 
