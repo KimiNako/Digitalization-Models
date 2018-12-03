@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Departement id="">
+	<acronyme></acronyme>
+	<nom></nom>
+	<dateCreation></dateCreation>
+	<Personnel></Personnel> <!-- Directeur du département-->
+</Departement>
+
+<PO id="">
+	<acronyme></acronyme>
+	<nom></nom>
+	<Departement></Departement>
+	<Semestre></Semestre>
+	<Personnel></Personnel> <!-- Responsable de PO -->
+</PO>
