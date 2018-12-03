@@ -9,3 +9,4 @@ On a remplacé les NbTotHeure CM/TP/TD en NbTot CM/TP/TD.
 
 A faire  sous forme de calculs : TotHeures
 
+A voir : comment faire quand il n'y a pas de code apogée pour une matière ?
