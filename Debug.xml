@@ -28,6 +28,7 @@
 </personnel>
 
 <Matiere_de_l_uf code_apogee="">
+	<UF></UF>
 	<coef></coef>
 	<Facultatif></Facultatif>
 	<presentiel></presentiel>
