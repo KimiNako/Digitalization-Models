@@ -9,9 +9,9 @@
 	<ECTS> </ECTS>
 	<Mineur> </Mineur>
 	<NbTotHeureUF> </NbTotHeureUF>
-	<NbTotCM> </NbTotHeureCM>
-	<NbTotTD> </NbTotHeureTD>
-	<NbTotTP> </NbTotHeureTP>
+	<NbTotCM> </NbTotCM>
+	<NbTotTD> </NbTotTD>
+	<NbTotTP> </NbTotTP>
 	<Semestre numero="">
 		<PO></PO>
 	</Semestre>
@@ -33,9 +33,9 @@
 	<coef></coef>
 	<Facultatif></Facultatif>
 	<presentiel></presentiel>
-	<nbr_h_CM></nbr_h_CM>
-	<nbr_h_TD></nbr_h_TD>
-	<nbr_h_TP></nbr_h_TP>
+	<nbr_CM></nbr_CM>
+	<nbr_TD></nbr_TD>
+	<nbr_TP></nbr_TP>
 	<Competence nom="">
 		<description></description>
 	</Competence>
