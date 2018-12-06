@@ -1,72 +1,114 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <UF code_apogee="I3MIPH12">
 	<Intitule>Mécanique et matériaux</Intitule>
-    <Responsable></Responsable>
-	<Grands_Domaines>Tronc Commun</Grands_Domaines>
+    <Responsable>Robin Bouclier</Responsable>
+	<Grands_Domaines>UF Scientifiques</Grands_Domaines>
 	<Heterogene>true</Heterogene>
 	<Eval_Par_Competences>false</Eval_Par_Competences>
 	<Continuite>false</Continuite>
-	<ECTS>6</ECTS>
-	<NbTotHeureUF></NbTotHeureUF>
-	<NbTotCM></NbTotCM>
-	<NbTotTD></NbTotTD>
-	<NbTotTP></NbTotTP>
-	<Semestre numero="MIC_S5"></Semestre>
+	<ECTS>3</ECTS>
+	<NbTotHeureUF>46.25</NbTotHeureUF>
+	<NbTotCM>18</NbTotCM>
+	<NbTotTD>19</NbTotTD>
+	<NbTotTP>0</NbTotTP>
+	<Semestre numero="MIC_GMM_S6"></Semestre>
 </UF>
-<UF code_apogee="I3MIIF11">
-	<Intitule>Système d'exploitation, C, Réseaux, Base de données</Intitule>
-    <Responsable></Responsable>
-	<Grands_Domaines>Tronc Commun</Grands_Domaines>
+<UF code_apogee="I3MIMT21">
+	<Intitule>Introduction à la modélisation numérique</Intitule>
+    <Responsable>Philippe Villedieu</Responsable>
+	<Grands_Domaines>UF Scientifiques</Grands_Domaines>
 	<Heterogene>true</Heterogene>
 	<Eval_Par_Competences>false</Eval_Par_Competences>
 	<Continuite>false</Continuite>
-	<ECTS>6</ECTS>
-	<NbTotHeureUF></NbTotHeureUF>
-	<NbTotCM></NbTotCM>
-	<NbTotTD></NbTotTD>
-	<NbTotTP></NbTotTP>
-	<Semestre numero="MIC_S5"></Semestre>
+	<ECTS>3</ECTS>
+	<NbTotHeureUF>29.75</NbTotHeureUF>
+	<NbTotCM>11</NbTotCM>
+	<NbTotTD>4</NbTotTD>
+	<NbTotTP>4</NbTotTP>
+	<Semestre numero="MIC_GMM_S6"></Semestre>
 </UF>
-<UF code_apogee="I3MIOM11">
-	<Intitule>EDO et leur résolution numérique</Intitule>
-    <Responsable></Responsable>
-	<Grands_Domaines>Option Math Appliquées</Grands_Domaines>
+<UF code_apogee="I3MIMT31">
+	<Intitule>Calcul matriciel et géométrie</Intitule>
+    <Responsable>Romain Duboscq</Responsable>
+	<Grands_Domaines>UF Scientifiques</Grands_Domaines>
 	<Heterogene>true</Heterogene>
 	<Eval_Par_Competences>false</Eval_Par_Competences>
 	<Continuite>false</Continuite>
-	<ECTS>4</ECTS>
-	<NbTotHeureUF></NbTotHeureUF>
-	<NbTotCM></NbTotCM>
-	<NbTotTD></NbTotTD>
-	<NbTotTP></NbTotTP>
-	<Semestre numero="MIC_S5"></Semestre>
+	<ECTS>3</ECTS>
+	<NbTotHeureUF>51.75</NbTotHeureUF>
+	<NbTotCM>13</NbTotCM>
+	<NbTotTD>13</NbTotTD>
+	<NbTotTP>7</NbTotTP>
+	<Semestre numero="MIC_GMM_S6"></Semestre>
 </UF>
-<UF code_apogee="I3MIOM21">
-	<Intitule>Calcul intégral et probabilités</Intitule>
-    <Responsable></Responsable>
-	<Grands_Domaines>Option Math Appliquées</Grands_Domaines>
+<UF code_apogee="I3MIPJ11">
+	<Intitule>Projet modélisation</Intitule>
+    <Responsable>Florent Chazel</Responsable>
+	<Grands_Domaines>UF Scientifiques</Grands_Domaines>
 	<Heterogene>true</Heterogene>
 	<Eval_Par_Competences>false</Eval_Par_Competences>
 	<Continuite>false</Continuite>
-	<ECTS>4</ECTS>
-	<NbTotHeureUF></NbTotHeureUF>
-	<NbTotCM></NbTotCM>
-	<NbTotTD></NbTotTD>
-	<NbTotTP></NbTotTP>
-	<Semestre numero="MIC_S5"></Semestre>
+	<ECTS>3</ECTS>
+	<NbTotHeureUF>30.25</NbTotHeureUF>
+	<NbTotCM>0</NbTotCM>
+	<NbTotTD>0</NbTotTD>
+	<NbTotTP>11</NbTotTP>
+	<Semestre numero="MIC_GMM_S6"></Semestre>
 </UF>
-<UF code_apogee="I3MIOI11">
-	<Intitule>Bases de données et programmation web</Intitule>
-    <Responsable></Responsable>
-	<Grands_Domaines>Option Informatique et Réseaux</Grands_Domaines>
+<UF code_apogee="I3MIMT41">
+	<Intitule>Statistiques</Intitule>
+    <Responsable>Mélisande Albert</Responsable>
+	<Grands_Domaines>UF Scientifiques</Grands_Domaines>
 	<Heterogene>true</Heterogene>
 	<Eval_Par_Competences>false</Eval_Par_Competences>
 	<Continuite>false</Continuite>
-	<ECTS>4</ECTS>
-	<NbTotHeureUF></NbTotHeureUF>
-	<NbTotCM></NbTotCM>
-	<NbTotTD></NbTotTD>
-	<NbTotTP></NbTotTP>
-	<Semestre numero="MIC_S5"></Semestre>
+	<ECTS>5</ECTS>
+	<NbTotHeureUF>68.75</NbTotHeureUF>
+	<NbTotCM>25</NbTotCM>
+	<NbTotTD>19</NbTotTD>
+	<NbTotTP>5</NbTotTP>
+	<Semestre numero="MIC_GMM_S6"></Semestre>
+</UF>
+<UF code_apogee="I3MIIL21">
+	<Intitule>Programmation orientée objet</Intitule>
+    <Responsable>Jean-Yves Plantec</Responsable>
+	<Grands_Domaines>UF Scientifiques</Grands_Domaines>
+	<Heterogene>true</Heterogene>
+	<Eval_Par_Competences>false</Eval_Par_Competences>
+	<Continuite>false</Continuite>
+	<ECTS>3</ECTS>
+	<NbTotHeureUF>42.5</NbTotHeureUF>
+	<NbTotCM>12</NbTotCM>
+	<NbTotTD>0</NbTotTD>
+	<NbTotTP>10</NbTotTP>
+	<Semestre numero="MIC_GMM_S6"></Semestre>
+</UF>
+<UF code_apogee="I3CCGE41">
+	<Intitule>Gestion de l'entrerise et business english</Intitule>
+    <Responsable>Michel Lomi</Responsable>
+	<Grands_Domaines>UF Transversales</Grands_Domaines>
+	<Heterogene>true</Heterogene>
+	<Eval_Par_Competences>false</Eval_Par_Competences>
+	<Continuite>false</Continuite>
+	<ECTS>5</ECTS>
+	<NbTotHeureUF>88</NbTotHeureUF>
+	<NbTotCM>4</NbTotCM>
+	<NbTotTD>28</NbTotTD>
+	<NbTotTP>0</NbTotTP>
+	<Semestre numero="MIC_GMM_S6"></Semestre>
+</UF>
+<UF code_apogee="I3CCGA21">
+	<Intitule>Statistiques</Intitule>
+    <Responsable>Jean-Luc Baup</Responsable>
+	<Grands_Domaines>UF Scientifiques</Grands_Domaines>
+	<Heterogene>true</Heterogene>
+	<Eval_Par_Competences>false</Eval_Par_Competences>
+	<Continuite>false</Continuite>
+	<ECTS>5</ECTS>
+	<NbTotHeureUF>60.25</NbTotHeureUF>
+	<NbTotCM>0</NbTotCM>
+	<NbTotTD>27</NbTotTD>
+	<NbTotTP>0</NbTotTP>
+	<Semestre numero="MIC_GMM_S6"></Semestre>
 </UF>
 
