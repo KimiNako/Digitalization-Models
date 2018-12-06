@@ -1,67 +1,67 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<debug>
-<UF code_apogee="">
-	<Intitule></Intitule>
-	<Responsable></Responsable>
-	<Grands_Domaines></Grands_Domaines>
-	<Heterogene></Heterogene>
-	<Eval_Par_Competences></Eval_Par_Competences>
-	<Continuite> </Continuite>
-	<ECTS> </ECTS>
-	<Mineur> </Mineur>
-	<NbTotHeureUF> </NbTotHeureUF>
-	<NbTotCM> </NbTotCM>
-	<NbTotTD> </NbTotTD>
-	<NbTotTP> </NbTotTP>
-	<Semestre numero="">
-		<PO></PO>
-	</Semestre>
-</UF>
+<Maquette>
+	<UF code_apogee="">
+		<Intitule></Intitule>
+		<Responsable></Responsable>
+		<Grands_Domaines></Grands_Domaines>
+		<Heterogene></Heterogene>
+		<Eval_Par_Competences></Eval_Par_Competences>
+		<Continuite> </Continuite>
+		<ECTS> </ECTS>
+		<Mineur> </Mineur>
+		<NbTotHeureUF> </NbTotHeureUF>
+		<NbTotCM> </NbTotCM>
+		<NbTotTD> </NbTotTD>
+		<NbTotTP> </NbTotTP>
+		<Semestre numero="">
+			<PO></PO>
+		</Semestre>
+	</UF>
 
-<Personnel id="">
-	<nom> </nom>
-	<prenom> </prenom>
-	<grade> </grade>
-	<bureau> </bureau>
-	<telephone> </telephone>
-	<email> </email>
-	<departement> </departement>
-</Personnel>
+	<Personnel id="">
+		<nom> </nom>
+		<prenom> </prenom>
+		<grade> </grade>
+		<bureau> </bureau>
+		<telephone> </telephone>
+		<email> </email>
+		<departement> </departement>
+	</Personnel>
 
-<Matiere_de_l_uf code_apogee="">
-	<UF></UF>
-	<Responsable></Responsable>
-	<coef></coef>
-	<Facultatif></Facultatif>
-	<presentiel></presentiel>
-	<nbr_CM></nbr_CM>
-	<nbr_TD></nbr_TD>
-	<nbr_TP></nbr_TP>
-	<Competence nom="">
-		<description></description>
-	</Competence>
-	<Epreuve code_apogee="">
-		<duree></duree>	
-		<nature></nature>
+	<Matiere_de_l_uf code_apogee="">
+		<UF></UF>
+		<Responsable></Responsable>
 		<coef></coef>
-	</Epreuve>
-</Matiere_de_l_uf>
+		<Facultatif></Facultatif>
+		<presentiel></presentiel>
+		<nbr_CM></nbr_CM>
+		<nbr_TD></nbr_TD>
+		<nbr_TP></nbr_TP>
+		<Competence nom="">
+			<description></description>
+		</Competence>
+		<Epreuve code_apogee="">
+			<duree></duree>	
+			<nature></nature>
+			<coef></coef>
+		</Epreuve>
+	</Matiere_de_l_uf>
 
-<Departement id="">
-	<acronyme></acronyme>
-	<nom></nom>
-	<dateCreation></dateCreation>
-	<Personnel></Personnel> <!-- Directeur du département-->
-</Departement>
+	<Departement id="">
+		<acronyme></acronyme>
+		<nom></nom>
+		<dateCreation></dateCreation>
+		<Personnel></Personnel> <!-- Directeur du département-->
+	</Departement>
 
-<PO id="">
-	<acronyme></acronyme>
-	<nom></nom>
-	<Departement></Departement>
-	<Semestre></Semestre>
-	<Personnel></Personnel> <!-- Responsable de PO -->
-</PO>
-</debug>
+	<PO id="">
+		<acronyme></acronyme>
+		<nom></nom>
+		<Departement></Departement>
+		<Semestre></Semestre>
+		<Personnel></Personnel> <!-- Responsable de PO -->
+	</PO>
+</Maquette>
 
 
 

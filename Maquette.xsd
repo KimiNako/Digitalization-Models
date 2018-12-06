@@ -25,6 +25,7 @@
 		</xs:keyref>
 	</xs:element>
 
+
 		<xs:complexType name="Matiere_de_l_ufType">
 		<xs:sequence>
 			<xs:element name="UF" type="xs:string"/>
@@ -52,6 +53,7 @@
 		</xs:keyref>
 	</xs:element>
 
+
 	<xs:complexType name="CompetenceType">
 		<xs:sequence>
 	 		<xs:element name="description" type="xs:string"/>
@@ -67,6 +69,7 @@
 		</xs:sequence>
 		<xs:attribute name="code_apogee" type="xs:string"/>
 	</xs:complexType>
+
 
 	<xs:complexType name="UFType">
 		<xs:sequence>
@@ -102,6 +105,7 @@
 			</xs:keyref>
 		</xs:element>
 
+
 	<xs:complexType name="SemestreType">
 		<xs:sequence>
 			<xs:element name="PO" type="xs:string"/>
@@ -119,6 +123,7 @@
 		    <xs:field xpath="PO"/>
 		</xs:keyref>
 	</xs:element>
+
 
 	<xs:complexType name="DepartementType">
 		<xs:sequence>
@@ -165,5 +170,6 @@
 		    <xs:field xpath="Responsable"/>
 		</xs:keyref>
 	</xs:element>
+
 
 </xs:schema>
