@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Matiere_de_l_uf code_apogee="">
+    <nom>Introduction à la POO</nom>
+    <UF>I3MIIL11</UF>
+    <Responsable></Responsable>
+	<coef>0.33</coef>
+	<presentiel></presentiel>
+	<nbr_CM>5</nbr_CM>
+	<nbr_TD>8</nbr_TD>
+	<nbr_TP>0</nbr_TP>
+	<Epreuve nom="CC">
+		<nature>CC</nature>
+		<coef>0.33</coef>
+	</Epreuve>
+</Matiere_de_l_uf>
+
+<Matiere_de_l_uf code_apogee="">
+    <nom>Graphes</nom>
+    <UF>I3MIIL11</UF>
+    <Responsable></Responsable>
+	<coef>0.33</coef>
+	<presentiel></presentiel>
+	<nbr_CM>8</nbr_CM>
+	<nbr_TD>7</nbr_TD>
+	<nbr_TP>0</nbr_TP>
+	<Epreuve nom="CC">
+		<nature>CC</nature>
+		<coef>0.33</coef>
+	</Epreuve>
+</Matiere_de_l_uf>
+
+<Matiere_de_l_uf code_apogee="">
+    <nom>BE Graphes</nom>
+    <UF>I3MIIL11</UF>
+    <Responsable></Responsable>
+	<coef>0.33</coef>
+	<presentiel></presentiel>
+	<nbr_CM>0</nbr_CM>
+	<nbr_TD>0</nbr_TD>
+	<nbr_TP>7</nbr_TP>
+	<Epreuve nom="CC">
+		<nature>CC</nature>
+		<coef>0.33</coef>
+	</Epreuve>
+</Matiere_de_l_uf>
+

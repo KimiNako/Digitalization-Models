@@ -1,90 +1,90 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <UF code_apogee="I3MIIF21">
 	<Intitule>Programmation système et réseaux</Intitule>
-    <Responsable>Christophe Chassot</Responsable>
+    <Responsable></Responsable>
 	<Grands_Domaines>UF Scientifique</Grands_Domaines>
 	<Heterogene>true</Heterogene>
 	<Eval_Par_Competences>false</Eval_Par_Competences>
 	<Continuite>false</Continuite>
 	<ECTS>5</ECTS>
-	<NbTotHeureUF>59</NbTotHeureUF>
-	<NbTotCM>16</NbTotCM>
-	<NbTotTD>7</NbTotTD>
-	<NbTotTP>11</NbTotTP>
+	<NbTotHeureUF></NbTotHeureUF>
+	<NbTotCM></NbTotCM>
+	<NbTotTD></NbTotTD>
+	<NbTotTP></NbTotTP>
 	<Semestre numero="MIC_IR_S6"></Semestre>
 </UF>
 
 <UF code_apogee="I3MIIL11">
 	<Intitule>POO et Graphes</Intitule>
-    <Responsable>Marie-Jo Huguet</Responsable>
+    <Responsable></Responsable>
 	<Grands_Domaines>UF Scientifique</Grands_Domaines>
 	<Heterogene>true</Heterogene>
 	<Eval_Par_Competences>false</Eval_Par_Competences>
 	<Continuite>false</Continuite>
 	<ECTS>4</ECTS>
-	<NbTotHeureUF>54.25</NbTotHeureUF>
-	<NbTotCM>13</NbTotCM>
-	<NbTotTD>15</NbTotTD>
-	<NbTotTP>7</NbTotTP>
+	<NbTotHeureUF></NbTotHeureUF>
+	<NbTotCM></NbTotCM>
+	<NbTotTD></NbTotTD>
+	<NbTotTP></NbTotTP>
 	<Semestre numero="MIC_IR_S6"></Semestre>
 </UF>
 
 <UF code_apogee="I3MITS11">
 	<Intitule>Signaux et télécommunications</Intitule>
-    <Responsable>Jean-Marie Dilhac</Responsable>
+    <Responsable></Responsable>
 	<Grands_Domaines>UF Scientifique</Grands_Domaines>
 	<Heterogene>true</Heterogene>
 	<Eval_Par_Competences>false</Eval_Par_Competences>
 	<Continuite>false</Continuite>
 	<ECTS>5</ECTS>
-	<NbTotHeureUF>68.5</NbTotHeureUF>
-	<NbTotCM>23</NbTotCM>
-	<NbTotTD>23</NbTotTD>
-	<NbTotTP>4</NbTotTP>
+	<NbTotHeureUF></NbTotHeureUF>
+	<NbTotCM></NbTotCM>
+	<NbTotTD></NbTotTD>
+	<NbTotTP></NbTotTP>
 	<Semestre numero="MIC_IR_S6"></Semestre>
 </UF>
 
 <UF code_apogee="I3MIIM11">
 	<Intitule>Concepts hardware pour la transmission d'informations</Intitule>
-    <Responsable>Thierry Rocacher</Responsable>
+    <Responsable></Responsable>
 	<Grands_Domaines>UF Scientifique</Grands_Domaines>
 	<Heterogene>true</Heterogene>
 	<Eval_Par_Competences>false</Eval_Par_Competences>
 	<Continuite>false</Continuite>
 	<ECTS>6</ECTS>
-	<NbTotHeureUF>83.75</NbTotHeureUF>
-	<NbTotCM>8</NbTotCM>
-	<NbTotTD>4</NbTotTD>
-	<NbTotTP>25</NbTotTP>
+	<NbTotHeureUF></NbTotHeureUF>
+	<NbTotCM></NbTotCM>
+	<NbTotTD></NbTotTD>
+	<NbTotTP></NbTotTP>
 	<Semestre numero="MIC_IR_S6"></Semestre>
 </UF>
 
 <UF code_apogee="I3CCGE41">
 	<Intitule>Gestion de l'entreprise et business english</Intitule>
-    <Responsable>Michel Lomi</Responsable>
+    <Responsable></Responsable>
 	<Grands_Domaines>UF Transverses</Grands_Domaines>
 	<Heterogene>true</Heterogene>
 	<Eval_Par_Competences>false</Eval_Par_Competences>
 	<Continuite>false</Continuite>
 	<ECTS>5</ECTS>
-	<NbTotHeureUF>88</NbTotHeureUF>
-	<NbTotCM>4</NbTotCM>
-	<NbTotTD>28</NbTotTD>
-	<NbTotTP>0</NbTotTP>
+	<NbTotHeureUF></NbTotHeureUF>
+	<NbTotCM></NbTotCM>
+	<NbTotTD></NbTotTD>
+	<NbTotTP></NbTotTP>
 	<Semestre numero="MIC_IR_S6"></Semestre>
 </UF>
 
 <UF code_apogee="I3CCGA21">
 	<Intitule>Grandir en autonomie et construire son projet prof. III</Intitule>
-    <Responsable>Jean-Luc Baup</Responsable>
+    <Responsable></Responsable>
 	<Grands_Domaines>UF Transverses</Grands_Domaines>
 	<Heterogene>true</Heterogene>
 	<Eval_Par_Competences>false</Eval_Par_Competences>
 	<Continuite>false</Continuite>
 	<ECTS>5</ECTS>
-	<NbTotHeureUF>60.25</NbTotHeureUF>
-	<NbTotCM>0</NbTotCM>
-	<NbTotTD>17</NbTotTD>
-	<NbTotTP>0</NbTotTP>
+	<NbTotHeureUF></NbTotHeureUF>
+	<NbTotCM></NbTotCM>
+	<NbTotTD></NbTotTD>
+	<NbTotTP></NbTotTP>
 	<Semestre numero="MIC_IR_S6"></Semestre>
 </UF>
