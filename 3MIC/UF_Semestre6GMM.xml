@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<UF code_apogee="I3MIPH12">
+	<Intitule>Mécanique et matériaux</Intitule>
+    <Responsable></Responsable>
+	<Grands_Domaines>UF Scientifiques</Grands_Domaines>
+	<Heterogene>true</Heterogene>
+	<Eval_Par_Competences>false</Eval_Par_Competences>
+	<Continuite>false</Continuite>
+	<ECTS>3</ECTS>
+	<NbTotHeureUF></NbTotHeureUF>
+	<NbTotCM></NbTotCM>
+	<NbTotTD></NbTotTD>
+	<NbTotTP></NbTotTP>
+	<Semestre numero="MIC_GMM_S6"></Semestre>
+</UF>
+<UF code_apogee="I3MIMT21">
+	<Intitule>Introduction à la modélisation numérique</Intitule>
+    <Responsable></Responsable>
+	<Grands_Domaines>UF Scientifiques</Grands_Domaines>
+	<Heterogene>true</Heterogene>
+	<Eval_Par_Competences>false</Eval_Par_Competences>
+	<Continuite>false</Continuite>
+	<ECTS>3</ECTS>
+	<NbTotHeureUF></NbTotHeureUF>
+	<NbTotCM></NbTotCM>
+	<NbTotTD></NbTotTD>
+	<NbTotTP></NbTotTP>
+	<Semestre numero="MIC_GMM_S6"></Semestre>
+</UF>
+<UF code_apogee="I3MIMT31">
+	<Intitule>Calcul matriciel et géométrie</Intitule>
+   <Responsable></Responsable>
+	<Grands_Domaines>UF Scientifiques</Grands_Domaines>
+	<Heterogene>true</Heterogene>
+	<Eval_Par_Competences>false</Eval_Par_Competences>
+	<Continuite>false</Continuite>
+	<ECTS>3</ECTS>
+	<NbTotHeureUF></NbTotHeureUF>
+	<NbTotCM></NbTotCM>
+	<NbTotTD></NbTotTD>
+	<NbTotTP></NbTotTP>
+	<Semestre numero="MIC_GMM_S6"></Semestre>
+</UF>
+<UF code_apogee="I3MIPJ11">
+	<Intitule>Projet modélisation</Intitule>
+    <Responsable></Responsable>
+	<Grands_Domaines>UF Scientifiques</Grands_Domaines>
+	<Heterogene>true</Heterogene>
+	<Eval_Par_Competences>false</Eval_Par_Competences>
+	<Continuite>false</Continuite>
+	<ECTS>3</ECTS>
+	<NbTotHeureUF></NbTotHeureUF>
+	<NbTotCM></NbTotCM>
+	<NbTotTD></NbTotTD>
+	<NbTotTP></NbTotTP>
+	<Semestre numero="MIC_GMM_S6"></Semestre>
+</UF>
+<UF code_apogee="I3MIMT41">
+	<Intitule>Statistiques</Intitule>
+    <Responsable></Responsable>
+	<Grands_Domaines>UF Scientifiques</Grands_Domaines>
+	<Heterogene>true</Heterogene>
+	<Eval_Par_Competences>false</Eval_Par_Competences>
+	<Continuite>false</Continuite>
+	<ECTS>5</ECTS>
+	<NbTotHeureUF></NbTotHeureUF>
+	<NbTotCM></NbTotCM>
+	<NbTotTD></NbTotTD>
+	<NbTotTP></NbTotTP>
+	<Semestre numero="MIC_GMM_S6"></Semestre>
+</UF>
+<UF code_apogee="I3MIIL21">
+	<Intitule>Programmation orientée objet</Intitule>
+    <Responsable></Responsable>
+	<Grands_Domaines>UF Scientifiques</Grands_Domaines>
+	<Heterogene>true</Heterogene>
+	<Eval_Par_Competences>false</Eval_Par_Competences>
+	<Continuite>false</Continuite>
+	<ECTS>3</ECTS>
+	<NbTotHeureUF></NbTotHeureUF>
+	<NbTotCM></NbTotCM>
+	<NbTotTD></NbTotTD>
+	<NbTotTP></NbTotTP>
+	<Semestre numero="MIC_GMM_S6"></Semestre>
+</UF>
+<UF code_apogee="I3CCGE41">
+	<Intitule>Gestion de l'entrerise et business english</Intitule>
+    <Responsable></Responsable>
+	<Grands_Domaines>UF Transversales</Grands_Domaines>
+	<Heterogene>true</Heterogene>
+	<Eval_Par_Competences>false</Eval_Par_Competences>
+	<Continuite>false</Continuite>
+	<ECTS>5</ECTS>
+	<NbTotHeureUF></NbTotHeureUF>
+	<NbTotCM></NbTotCM>
+	<NbTotTD></NbTotTD>
+	<NbTotTP></NbTotTP>
+	<Semestre numero="MIC_GMM_S6"></Semestre>
+</UF>
+<UF code_apogee="I3CCGA21">
+	<Intitule>Statistiques</Intitule>
+    <Responsable></Responsable>
+	<Grands_Domaines>UF Scientifiques</Grands_Domaines>
+	<Heterogene>true</Heterogene>
+	<Eval_Par_Competences>false</Eval_Par_Competences>
+	<Continuite>false</Continuite>
+	<ECTS>5</ECTS>
+	<NbTotHeureUF></NbTotHeureUF>
+	<NbTotCM></NbTotCM>
+	<NbTotTD></NbTotTD>
+	<NbTotTP></NbTotTP>
+	<Semestre numero="MIC_GMM_S6"></Semestre>
+</UF>
+
