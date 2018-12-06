@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<Matiere_de_l_uf code_apogee="AnanumIMT11">
+<Matiere_de_l_uf code_apogee="">
     <nom> Analyse Numérique, Optimisation</nom>
     <UF>I3MIMT11</UF>
     <Responsable> </Responsable>
@@ -34,5 +34,81 @@
 	<Epreuve nom="CC">
 		<nature>CC</nature>
 		<coef>0.3</coef>
+	</Epreuve>
+</Matiere_de_l_uf>
+<Matiere_de_l_uf code_apogee="">
+    <nom>Langage C</nom>
+    <UF>I3MIIF11</UF>
+    <Responsable> </Responsable>
+	<coef>0.25</coef>
+	<presentiel></presentiel>
+	<nbr_CM>8</nbr_CM>
+	<nbr_TD>5</nbr_TD>
+	<nbr_TP>4</nbr_TP>
+	<Epreuve nom="CC">
+		<nature>CC</nature>
+		<coef>0.25</coef>
+	</Epreuve>
+</Matiere_de_l_uf>
+<Matiere_de_l_uf code_apogee="">
+    <nom>Système d'exploitation</nom>
+    <UF>I3MIIF11</UF>
+    <Responsable> </Responsable>
+	<coef>0.25</coef>
+	<presentiel></presentiel>
+	<nbr_CM>7</nbr_CM>
+	<nbr_TD>3</nbr_TD>
+	<nbr_TP>0</nbr_TP>
+	<Epreuve nom="CC">
+		<nature>CC</nature>
+		<coef>0.25</coef>
+	</Epreuve>
+</Matiere_de_l_uf>
+<Matiere_de_l_uf code_apogee="">
+    <nom>Réseaux</nom>
+    <UF>I3MIIF11</UF>
+    <Responsable> </Responsable>
+	<coef>0.25</coef>
+	<presentiel></presentiel>
+	<nbr_CM>15</nbr_CM>
+	<nbr_TD>4</nbr_TD>
+	<nbr_TP>1</nbr_TP>
+	<Epreuve nom="CC">
+		<nature>CC</nature>
+		<coef>0.25</coef>
+	</Epreuve>
+</Matiere_de_l_uf>
+<Matiere_de_l_uf code_apogee="">
+    <nom>Base de donée 2</nom>
+    <UF>I3MIIF11</UF>
+    <Responsable> </Responsable>
+	<coef>0.25</coef>
+	<presentiel></presentiel>
+	<nbr_CM>4</nbr_CM>
+	<nbr_TD>6</nbr_TD>
+	<nbr_TP>3</nbr_TP>
+	<Epreuve nom="CC">
+		<nature>CC</nature>
+		<coef>0.25</coef>
+	</Epreuve>
+</Matiere_de_l_uf>
+<Matiere_de_l_uf code_apogee="">
+    <nom>EDO et leur résolution numérique</nom>
+    <UF>I3MIOM11</UF>
+    <Responsable> </Responsable>
+	<coef>0.25</coef>
+	<presentiel></presentiel>
+	<nbr_CM>14</nbr_CM>
+	<nbr_TD>12</nbr_TD>
+	<nbr_TP>5</nbr_TP>
+	<Epreuve nom="CC1">
+		<nature>CC</nature>
+		<coef>0.25</coef>
+	<Epreuve nom="CC2">
+		<nature>CC</nature>
+		<coef>0.50</coef>
+	<Epreuve nom="TP">
+		<nature>CC</nature>
+		<coef>0.25</coef>
 	</Epreuve>
 </Matiere_de_l_uf>
