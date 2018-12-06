@@ -4,15 +4,14 @@
 		<Intitule></Intitule>
 		<Responsable></Responsable>
 		<Grands_Domaines></Grands_Domaines>
-		<Heterogene></Heterogene>
+		<Heterogene>true</Heterogene>
 		<Eval_Par_Competences></Eval_Par_Competences>
-		<Continuite> </Continuite>
+		<Continuite>false</Continuite>
 		<ECTS> </ECTS>
-		<Mineur> </Mineur>
-		<NbTotHeureUF> </NbTotHeureUF>
-		<NbTotCM> </NbTotCM>
-		<NbTotTD> </NbTotTD>
-		<NbTotTP> </NbTotTP>
+		<NbTotHeureUF>0.0</NbTotHeureUF>
+		<NbTotCM>0</NbTotCM>
+		<NbTotTD>0</NbTotTD>
+		<NbTotTP>0</NbTotTP>
 		<Semestre numero="">
 			<PO></PO>
 		</Semestre>
@@ -29,6 +28,7 @@
 	</Personnel>
 
 	<Matiere_de_l_uf code_apogee="">
+        <nom></nom>
 		<UF></UF>
 		<Responsable></Responsable>
 		<coef></coef>
@@ -47,15 +47,13 @@
 		</Epreuve>
 	</Matiere_de_l_uf>
 
-	<Departement id="">
-		<acronyme></acronyme>
+	<Departement acronyme="">
 		<nom></nom>
 		<dateCreation></dateCreation>
 		<Personnel></Personnel> <!-- Directeur du département-->
 	</Departement>
 
-	<PO id="">
-		<acronyme></acronyme>
+	<PO acronyme="">
 		<nom></nom>
 		<Departement></Departement>
 		<Semestre></Semestre>
