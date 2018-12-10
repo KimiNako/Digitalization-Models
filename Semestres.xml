@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Semestres>
+	<Semestre numero="MIC_S3">
+		<PO>MIC</PO>
+	</Semestre>
+
+	<Semestre numero="MIC_S4">
+		<PO>MIC</PO>
+	</Semestre>
+
+	<Semestre numero="MIC_S5">
+		<PO>MIC</PO>
+	</Semestre>
+
+	<Semestre numero="MIC_IR_S6">
+		<PO>MIC</PO>
+	</Semestre>
+
+	<Semestre numero="MIC_GMM_S6">
+		<PO>MIC</PO>
+	</Semestre>
+</Semestres>
