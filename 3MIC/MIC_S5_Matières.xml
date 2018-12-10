@@ -96,7 +96,7 @@
     <nom>EDO et leur résolution numérique</nom>
     <UF>I3MIOM11</UF>
     <Responsable> </Responsable>
-	<coef>0.25</coef>
+	<coef>1</coef>
 	<presentiel></presentiel>
 	<nbr_CM>14</nbr_CM>
 	<nbr_TD>12</nbr_TD>
@@ -108,7 +108,168 @@
 		<nature>CC</nature>
 		<coef>0.50</coef>
 	<Epreuve nom="TP">
-		<nature>CC</nature>
+		<nature>TP</nature>
 		<coef>0.25</coef>
+	</Epreuve>
+</Matiere_de_l_uf>
+<Matiere_de_l_uf code_apogee="">
+    <nom>calcul intégral et probabilités</nom>
+    <UF>I3MIOM21</UF>
+    <Responsable> </Responsable>
+	<coef>1</coef>
+	<presentiel></presentiel>
+	<nbr_CM>15</nbr_CM>
+	<nbr_TD>20</nbr_TD>
+	<nbr_TP>0</nbr_TP>
+	<Epreuve nom="CC1">
+		<nature>CC</nature>
+		<coef>0.40</coef>
+	</Epreuve>
+	<Epreuve nom="CC2">
+		<nature>CC</nature>
+		<coef>0.60</coef>
+	</Epreuve>
+</Matiere_de_l_uf>
+<Matiere_de_l_uf code_apogee="">
+    <nom>Bases de données 1</nom>
+    <UF>I3MIOI11</UF>
+    <Responsable> </Responsable>
+	<coef>0.7</coef>
+	<presentiel></presentiel>
+	<nbr_CM>8</nbr_CM>
+	<nbr_TD>8</nbr_TD>
+	<nbr_TP>0</nbr_TP>
+	<Epreuve nom="CC">
+		<nature>CC</nature>
+		<coef>0.56</coef>
+	<Epreuve nom="projet">
+		<nature>Projet</nature>
+		<coef>0.14</coef>
+	</Epreuve>
+</Matiere_de_l_uf>
+<Matiere_de_l_uf code_apogee="">
+    <nom>Programmation web</nom>
+    <UF>I3MIOI11</UF>
+    <Responsable> </Responsable>
+	<coef>0.3</coef>
+	<presentiel></presentiel>
+	<nbr_CM>3</nbr_CM>
+	<nbr_TD>7</nbr_TD>
+	<nbr_TP>3</nbr_TP>
+	<Epreuve nom="projet">
+		<nature>Projet</nature>
+		<coef>0.3</coef>
+	</Epreuve>
+</Matiere_de_l_uf>
+<Matiere_de_l_uf code_apogee="">
+    <nom>Calculabilité, complexité</nom>
+    <UF>I3MIOI21</UF>
+    <Responsable> </Responsable>
+	<coef>0.34</coef>
+	<presentiel></presentiel>
+	<nbr_CM>9</nbr_CM>
+	<nbr_TD>8</nbr_TD>
+	<nbr_TP>0</nbr_TP>
+	<Epreuve nom="CC">
+		<nature>CC</nature>
+		<coef>0.34</coef>
+	</Epreuve>
+</Matiere_de_l_uf>
+<Matiere_de_l_uf code_apogee="">
+    <nom>Expression régulière</nom>
+    <UF>I3MIOI21</UF>
+    <Responsable> </Responsable>
+	<coef>0.03</coef>
+	<presentiel></presentiel>
+	<nbr_CM>1</nbr_CM>
+	<nbr_TD>2</nbr_TD>
+	<nbr_TP>0</nbr_TP>
+	<Epreuve nom="CC">
+		<nature>CC</nature>
+		<coef>0.03</coef>
+	</Epreuve>
+</Matiere_de_l_uf>
+<Matiere_de_l_uf code_apogee="">
+    <nom>Programmation linéaire</nom>
+    <UF>I3MIOI21</UF>
+    <Responsable> </Responsable>
+	<coef>0.3</coef>
+	<presentiel></presentiel>
+	<nbr_CM>5</nbr_CM>
+	<nbr_TD>4</nbr_TD>
+	<nbr_TP>2</nbr_TP>
+	<Epreuve nom="CC">
+		<nature>CC</nature>
+		<coef>0.3</coef>
+	</Epreuve>
+</Matiere_de_l_uf>
+<Matiere_de_l_uf code_apogee="">
+    <nom>Théorie de l'information et codages</nom>
+    <UF>I3MIOI21</UF>
+    <Responsable> </Responsable>
+	<coef>0.33</coef>
+	<presentiel></presentiel>
+	<nbr_CM>10</nbr_CM>
+	<nbr_TD>5</nbr_TD>
+	<nbr_TP>0</nbr_TP>
+	<Epreuve nom="CC">
+		<nature>CC</nature>
+		<coef>0.33</coef>
+	</Epreuve>
+</Matiere_de_l_uf>
+<Matiere_de_l_uf code_apogee="">
+    <nom>TRE</nom>
+    <UF>I3CCGE11</UF>
+    <Responsable> </Responsable>
+	<coef>0.5</coef>
+	<presentiel></presentiel>
+	<nbr_CM>0</nbr_CM>
+	<nbr_TD>11</nbr_TD>
+	<nbr_TP>0</nbr_TP>
+	<Epreuve nom="CC">
+		<nature>CC</nature>
+		<coef>0.5</coef>
+	</Epreuve>
+</Matiere_de_l_uf>
+<Matiere_de_l_uf code_apogee="">
+    <nom>LV1 Job search</nom>
+    <UF>I3CCGE11</UF>
+    <Responsable> </Responsable>
+	<coef>0.5</coef>
+	<presentiel></presentiel>
+	<nbr_CM>0</nbr_CM>
+	<nbr_TD>8</nbr_TD>
+	<nbr_TP>0</nbr_TP>
+	<Epreuve nom="CC">
+		<nature>CC</nature>
+		<coef>0.5</coef>
+	</Epreuve>
+</Matiere_de_l_uf>
+<Matiere_de_l_uf code_apogee="">
+    <nom>Ingénierie et Enjeux écologiques</nom>
+    <UF>I3CCIE11</UF>
+    <Responsable> </Responsable>
+	<coef>1</coef>
+	<presentiel></presentiel>
+	<nbr_CM>18</nbr_CM>
+	<nbr_TD>6</nbr_TD>
+	<nbr_TP>1</nbr_TP>
+	<Epreuve nom="CC">
+		<nature>CC</nature>
+		<coef>1</coef>
+	</Epreuve>
+</Matiere_de_l_uf>
+<Matiere_de_l_uf code_apogee="">
+    <nom>Activités Physiques et Sportives</nom>
+    <UF>I3CCGE11</UF>
+    <Responsable> </Responsable>
+	<coef>1</coef>
+	<presentiel></presentiel>
+	<nbr_CM>0</nbr_CM>
+	<nbr_TD>13</nbr_TD>
+	<nbr_TP>0</nbr_TP>
+	<Epreuve nom="CC">
+		<nature>CC</nature>
+		<coef>1</coef>
 	</Epreuve>
 </Matiere_de_l_uf>
