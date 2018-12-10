@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Matiere_de_l_uf code_apogee="">
+	<nom>Expresion</nom>
+	<UF>I2CCGE31</UF>
+	<Responsable>E45</Responsable>
+	<coef>0.25</coef>
+	<Facultatif>false</Facultatif>
+	<presentiel></presentiel>
+	<nbr_CM>0</nbr_CM>
+	<nbr_TD>7</nbr_TD>
+	<nbr_TP>0</nbr_TP>
+	<Epreuve nom="CC">
+		<nature>CC</nature>
+		<coef>1</coef>
+	</Epreuve>
+</Matiere_de_l_uf>
+
+<Matiere_de_l_uf code_apogee="">
+	<nom>Economie</nom>
+	<UF>I2CCGE31</UF>
+	<Responsable>E46</Responsable>
+	<coef>0.3</coef>
+	<Facultatif>false</Facultatif>
+	<presentiel></presentiel>
+	<nbr_CM>7.5</nbr_CM>
+	<nbr_TD>0</nbr_TD>
+	<nbr_TP>0</nbr_TP>
+	<Epreuve nom="CC">
+		<nature>CC</nature>
+		<coef>1</coef>
+	</Epreuve>
+</Matiere_de_l_uf>
+
+<Matiere_de_l_uf code_apogee="">
+	<nom>LV1</nom>
+	<UF>I2CCGE31</UF>
+	<Responsable  id="E07"></Responsable>
+	<coef>0.25</coef>
+	<Facultatif>false</Facultatif>
+	<presentiel></presentiel>
+	<nbr_CM>0</nbr_CM>
+	<nbr_TD>12</nbr_TD>
+	<nbr_TP>0</nbr_TP>
+	<Epreuve nom="CC">
+		<nature>CC</nature>
+		<coef>1</coef>
+	</Epreuve>
+</Matiere_de_l_uf>
+
+<Matiere_de_l_uf code_apogee="">
+	<nom>Stage ouvrier</nom>
+	<UF>I2CCGE31</UF>
+	<Responsable></Responsable>
+	<coef>0.2</coef>
+	<Facultatif>false</Facultatif>
+	<presentiel></presentiel>
+	<nbr_CM>0</nbr_CM>
+	<nbr_TD>1</nbr_TD>
+	<nbr_TP>0</nbr_TP>
+	<Epreuve nom="Rapport">
+		<nature>Rapport</nature>
+		<coef>0.5</coef>
+	</Epreuve>
+	<Epreuve nom="Soutenance">
+		<nature>Oral</nature>
+		<coef>0.5</coef>
+	</Epreuve>
+</Matiere_de_l_uf>
+

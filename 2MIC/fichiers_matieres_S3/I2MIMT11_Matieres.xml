@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Matiere_de_l_uf code_apogee="">
+	<nom>Analyse et Algèbre</nom>
+	<UF>I2MIMT11</UF>
+	<Responsable id="E02"></Responsable>
+	<coef>1</coef>
+	<Facultatif>false</Facultatif>
+	<presentiel></presentiel>
+	<nbr_CM>28</nbr_CM>
+	<nbr_TD>32</nbr_TD>
+	<nbr_TP>0</nbr_TP>
+	<Epreuve nom="CC1">
+		<nature>CC</nature>
+		<coef>0.2</coef>
+	</Epreuve>
+	<Epreuve nom="CC2">
+		<nature>CC</nature>
+		<coef>0.3</coef>
+	</Epreuve>
+	<Epreuve nom="CC3">
+		<nature>CC</nature>
+		<coef>0.5</coef>
+	</Epreuve>
+</Matiere_de_l_uf>
+
+

@@ -72,3 +72,9 @@ Pierre : Fini correspondre Matiere <-> Respo
 Kimi & Maxou : XSLT (+ CSS)  
 
 
+code apogé pour les sous-uf ? -> on laisse ""
+
+	<nom></nom> dans matiere uf
+
+dans presentiel matiere uf faire calcul
+

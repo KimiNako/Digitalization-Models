@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Matiere_de_l_uf code_apogee="">
+	<nom>Activités Physiques et Sportives</nom>
+	<UF>I2CCGA12</UF>
+	<Responsable>E08</Responsable>
+	<coef>1</coef>
+	<Facultatif>false</Facultatif>
+	<presentiel></presentiel>
+	<nbr_CM>0</nbr_CM>
+	<nbr_TD>13</nbr_TD>
+	<nbr_TP>0</nbr_TP>
+	<Competence nom="APS">
+		<description>APS</description>
+	</Competence>
+</Matiere_de_l_uf>
+
+

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Matiere_de_l_uf code_apogee="">
+	<nom>Logique combinatoire</nom>
+	<UF>I2MIIM11</UF>
+	<Responsable id="E05"></Responsable>
+	<Facultatif>false</Facultatif>
+	<presentiel></presentiel>
+	<nbr_CM>4</nbr_CM>
+	<nbr_TD>2</nbr_TD>
+	<nbr_TP>0</nbr_TP>
+	<Competence nom="Logique combinatoire"/>
+	<Epreuve nom="CC">
+		<nature>CC</nature>
+		<coef>1</coef>
+	</Epreuve>
+</Matiere_de_l_uf>
+
+<Matiere_de_l_uf code_apogee="">
+	<nom>Logique séquentielle</nom>
+	<UF>I2MIIM11</UF>
+	<Responsable id="E05"></Responsable>
+	<Facultatif>false</Facultatif>
+	<presentiel></presentiel>
+	<nbr_CM>4</nbr_CM>
+	<nbr_TD>2</nbr_TD>
+	<nbr_TP>0</nbr_TP>
+	<Competence nom="Logique séquentielle"/>
+	<Epreuve nom="CC1">
+		<nature>CC</nature>
+		<coef>0.5</coef>
+	</Epreuve>
+	<Epreuve nom="CC2">
+		<nature>CC</nature>
+		<coef>0.5</coef>
+	</Epreuve>
+</Matiere_de_l_uf>
+
+<Matiere_de_l_uf code_apogee="">
+	<nom>SFO</nom>
+	<UF>I2MIIM11</UF>
+	<Responsable id="E05"></Responsable>
+	<Facultatif>false</Facultatif>
+	<presentiel></presentiel>
+	<nbr_CM>8</nbr_CM>
+	<nbr_TD>4</nbr_TD>
+	<nbr_TP>2</nbr_TP>
+	<Competence nom="SFO"/>
+	<Epreuve nom="CC">
+		<nature>CC</nature>
+		<coef>1</coef>
+	</Epreuve>
+</Matiere_de_l_uf>
+
+

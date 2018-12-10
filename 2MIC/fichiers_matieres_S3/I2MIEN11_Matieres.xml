@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Matiere_de_l_uf code_apogee="">
+	<nom>Electronique analogique</nom>
+	<UF>I2MIEN11</UF>
+	<Responsable id="E14"></Responsable>
+	<coef>0.5</coef>
+	<Facultatif>false</Facultatif>
+	<presentiel></presentiel>
+	<nbr_CM>9</nbr_CM>
+	<nbr_TD>7</nbr_TD>
+	<nbr_TP>4</nbr_TP>
+	<Epreuve nom="CC1">
+		<nature>CC</nature>
+		<coef>0.5</coef>
+	</Epreuve>
+	<Epreuve nom="CC2">
+		<nature>CC</nature>
+		<coef>0.5</coef>
+	</Epreuve>
+</Matiere_de_l_uf>
+
+<Matiere_de_l_uf code_apogee="">
+	<nom>Electronique numérique</nom>
+	<UF>I2MIEN11</UF>
+	<Responsable id="E06"></Responsable>
+	<coef>0.5</coef>
+	<Facultatif>false</Facultatif>
+	<presentiel></presentiel>
+	<nbr_CM>7</nbr_CM>
+	<nbr_TD>7</nbr_TD>
+	<nbr_TP>3</nbr_TP>
+	<Epreuve nom="CC">
+		<nature>CC</nature>
+		<coef>0.5</coef>
+	</Epreuve>
+	<Epreuve nom="TP">
+		<nature>CC</nature>
+		<coef>0.5</coef>
+	</Epreuve>
+</Matiere_de_l_uf>

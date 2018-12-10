@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Matiere_de_l_uf code_apogee="">
+	<nom>Algorithmique et Programmation</nom>
+	<UF>I2MIIF11</UF>
+	<Responsable id="E11"></Responsable>
+	<coef>0.5</coef>
+	<Facultatif>false</Facultatif>
+	<presentiel></presentiel>
+	<nbr_CM>5</nbr_CM>
+	<nbr_TD>10</nbr_TD>
+	<nbr_TP>5</nbr_TP>
+	<Epreuve nom="CC">
+		<nature>CC</nature>
+		<coef>1</coef>
+	</Epreuve>
+</Matiere_de_l_uf>
+
+<Matiere_de_l_uf code_apogee="">
+	<nom>Unix</nom>
+	<UF>I2MIIF11</UF>
+	<Responsable id="E04"></Responsable>
+	<coef>0.5</coef>
+	<Facultatif>false</Facultatif>
+	<presentiel></presentiel>
+	<nbr_CM>6</nbr_CM>
+	<nbr_TD>9</nbr_TD>
+	<nbr_TP>0</nbr_TP>
+	<Epreuve nom="CC">
+		<nature>CC</nature>
+		<coef>1</coef>
+	</Epreuve>
+</Matiere_de_l_uf>
+
+
