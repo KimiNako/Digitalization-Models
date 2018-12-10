@@ -12,6 +12,8 @@ A faire  sous forme de calculs : TotHeures
 
 A voir : comment faire quand il n'y a pas de code apogée pour une matière ?
 
+    minOccurs pour duree d'une epruve, OK ?
+
 Mettre : 	<Facultatif>false</Facultatif> dans Matiere et non UF
 
 
@@ -36,3 +38,6 @@ POUR XSLT
 4. Pour chaque personne, liste de ses responsabilités (Département, UFs, Cours)
 5. Pour chaque PO, liste des compétences 
 
+
+------------
+Pour le projet on fait du xslt et css

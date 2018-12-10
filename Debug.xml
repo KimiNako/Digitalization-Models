@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Maquette>
-	<UF code_apogee="">
+	<UF code_apogee="UF1">
 		<Intitule></Intitule>
-		<Responsable></Responsable>
+		<Responsable>P1</Responsable>
 		<Grands_Domaines></Grands_Domaines>
 		<Heterogene>true</Heterogene>
 		<Eval_Par_Competences></Eval_Par_Competences>
@@ -12,52 +12,52 @@
 		<NbTotCM>0</NbTotCM>
 		<NbTotTD>0</NbTotTD>
 		<NbTotTP>0</NbTotTP>
-		<Semestre numero="">
-			<PO></PO>
-		</Semestre>
+		<Semestre>MIC_S3</Semestre>
 	</UF>
 
-	<Personnel id="">
+    <Semestre numero="MIC_S3">
+        <PO>MIC</PO>
+    </Semestre>
+
+	<Personnel id="P1">
 		<nom> </nom>
 		<prenom> </prenom>
 		<grade> </grade>
 		<bureau> </bureau>
 		<telephone> </telephone>
 		<email> </email>
-		<departement> </departement>
+		<Departement>STPI</Departement>
 	</Personnel>
 
-	<Matiere_de_l_uf code_apogee="">
+	<Matiere_de_l_uf code_apogee="M1">
         <nom></nom>
-		<UF></UF>
-		<Responsable></Responsable>
+		<UF>UF1</UF>
+		<Responsable>P1</Responsable>
 		<coef></coef>
-		<Facultatif></Facultatif>
+		<Facultatif>false</Facultatif>
 		<presentiel></presentiel>
-		<nbr_CM></nbr_CM>
-		<nbr_TD></nbr_TD>
-		<nbr_TP></nbr_TP>
+		<nbr_CM>0</nbr_CM>
+		<nbr_TD>0</nbr_TD>
+		<nbr_TP>0</nbr_TP>
 		<Competence nom="">
 			<description></description>
 		</Competence>
-		<Epreuve code_apogee="">
-			<duree></duree>	
+		<Epreuve nom="">
 			<nature></nature>
 			<coef></coef>
 		</Epreuve>
 	</Matiere_de_l_uf>
 
-	<Departement acronyme="">
+	<Departement acronyme="STPI">
 		<nom></nom>
-		<dateCreation></dateCreation>
-		<Personnel></Personnel> <!-- Directeur du département-->
+		<dateCreation>1950-05-20</dateCreation>
+		<Directeur>P1</Directeur> <!-- Directeur du département-->
 	</Departement>
 
-	<PO acronyme="">
-		<nom></nom>
-		<Departement></Departement>
-		<Semestre></Semestre>
-		<Personnel></Personnel> <!-- Responsable de PO -->
+	<PO acronyme="MIC">
+		<nom>Math, Info et Com</nom>
+		<Departement>STPI</Departement>
+		<Responsable>P1</Responsable> <!-- Responsable de PO -->
 	</PO>
 </Maquette>
 

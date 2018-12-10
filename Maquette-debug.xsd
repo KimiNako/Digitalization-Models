@@ -39,11 +39,11 @@
 
 	<xs:complexType name="EpreuveType">
 		<xs:sequence>
-		 	<xs:element name="duree" type="xs:string"/>
+		 	<xs:element name="duree" type="xs:string" minOccurs="0"/>
 			<xs:element name="nature" type="xs:string"/>
 			<xs:element name="coef" type="xs:string"/>
 		</xs:sequence>
-		<xs:attribute name="code_apogee" type="xs:string"/>
+		<xs:attribute name="nom" type="xs:string"/>
 	</xs:complexType>
 
 	<xs:complexType name="UFType">
@@ -100,12 +100,7 @@
 				</xs:key>
 			</xs:element>
 
-			<xs:element name="Matiere_de_l_uf" type="Matiere_de_l_ufType">
-				<xs:keyref name="refUFMat" refer="keyUF">
-					<xs:selector xpath="."/>
-					<xs:field xpath="UF"/>
-				</xs:keyref>
-			</xs:element>
+			<xs:element name="Matiere_de_l_uf" type="Matiere_de_l_ufType"/>
 
 			<xs:element name="UF" type="UFType">
 				<xs:key name="keyUF">
@@ -177,6 +172,11 @@
 		    <xs:selector xpath="PO"/>
 		    <xs:field xpath="Responsable"/>
 	    </xs:keyref>
+
+        <xs:keyref name="refUFMat" refer="keyUF">
+			<xs:selector xpath="Matiere_de_l_uf"/>
+			<xs:field xpath="UF"/>
+		</xs:keyref>
 
 	</xs:element>
 
