@@ -25,7 +25,7 @@
 	<NbTotCM></NbTotCM>
 	<NbTotTD></NbTotTD>
 	<NbTotTP></NbTotTP>
-	<Semestre numero="MIC_S5"></Semestre>
+	<Semestre>MIC_S5</Semestre>
 </UF>
 <UF code_apogee="I3MIOM11">
 	<Intitule>EDO et leur résolution numérique</Intitule>
