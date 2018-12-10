@@ -1,0 +1,547 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<UFs>
+	<UF code_apogee="I2MIMT11">
+		<Intitule>Analyse et Algèbre</Intitule>
+		<Reponsable>E02</Reponsable>
+		<Grands_Domaines>UF Scientifiques</Grands_Domaines>
+		<Heterogene>true</Heterogene>
+		<Eval_Par_Competences>false</Eval_Par_Competences>
+		<Continuite>false</Continuite>
+		<ECTS>7</ECTS>
+		<NbTotHeureUF>0.0</NbTotHeureUF>
+		<NbTotCM>0</NbTotCM>
+		<NbTotTD>0</NbTotTD>
+		<NbTotTP>0</NbTotTP>
+		<Semestre>MIC_S3</Semestre>
+	</UF>
+
+	<UF code_apogee="I2MIPH11">
+		<Intitule>Electromagnétisme</Intitule>
+		<Reponsable>E03</Reponsable>
+		<Grands_Domaines>UF Scientifiques</Grands_Domaines>
+		<Heterogene>true</Heterogene>
+		<Eval_Par_Competences>false</Eval_Par_Competences>
+		<Continuite>false</Continuite>
+		<ECTS>4</ECTS>
+		<NbTotHeureUF>0.0</NbTotHeureUF>
+		<NbTotCM>0</NbTotCM>
+		<NbTotTD>0</NbTotTD>
+		<NbTotTP>0</NbTotTP>
+		<Semestre>MIC_S3</Semestre>
+	</UF>
+
+
+	<UF code_apogee="I2MIIF11">
+		<Intitule>Algorithme Programmation Unix</Intitule>
+		<Reponsable>E04</Reponsable>
+		<Grands_Domaines>UF Scientifiques</Grands_Domaines>
+		<Heterogene>true</Heterogene>
+		<Eval_Par_Competences>false</Eval_Par_Competences>
+		<Continuite>false</Continuite>
+		<ECTS>4</ECTS>
+		<NbTotHeureUF>0.0</NbTotHeureUF>
+		<NbTotCM>0</NbTotCM>
+		<NbTotTD>0</NbTotTD>
+		<NbTotTP>0</NbTotTP>
+		<Semestre>MIC_S3</Semestre>
+	</UF>
+
+
+	<UF code_apogee="I2MIIM11">
+		<Intitule>Logique et SFO</Intitule>
+		<Reponsable>E05</Reponsable>
+		<Grands_Domaines>UF Scientifiques</Grands_Domaines>
+		<Heterogene>false</Heterogene>
+		<Eval_Par_Competences>true</Eval_Par_Competences>
+		<Continuite>false</Continuite>
+		<ECTS>4</ECTS>
+		<NbTotHeureUF>0.0</NbTotHeureUF>
+		<NbTotCM>0</NbTotCM>
+		<NbTotTD>0</NbTotTD>
+		<NbTotTP>0</NbTotTP>
+		<Semestre>MIC_S3</Semestre>
+	</UF>
+
+	<UF code_apogee="I2MIEN11">
+		<Intitule>Electronique</Intitule>
+		<Reponsable id="E06"></Reponsable>
+		<Grands_Domaines>UF Scientifiques</Grands_Domaines>
+		<Heterogene>true</Heterogene>
+		<Eval_Par_Competences>false</Eval_Par_Competences>
+		<Continuite>false</Continuite>
+		<ECTS>4</ECTS>
+		<NbTotHeureUF>0.0</NbTotHeureUF>
+		<NbTotCM>0</NbTotCM>
+		<NbTotTD>0</NbTotTD>
+		<NbTotTP>0</NbTotTP>
+		<Semestre>MIC_S3</Semestre>
+	</UF>
+
+	<UF code_apogee="I2CCGE31">
+		<Intitule>L'environnement de l'entreprise et ses modes de communication</Intitule>
+		<Reponsable>E07</Reponsable>
+		<Grands_Domaines>UF Transversales</Grands_Domaines>
+		<Heterogene>true</Heterogene>
+		<Eval_Par_Competences>false</Eval_Par_Competences>
+		<Continuite>false</Continuite>
+		<ECTS>5</ECTS>
+		<NbTotHeureUF>0.0</NbTotHeureUF>
+		<NbTotCM>0</NbTotCM>
+		<NbTotTD>0</NbTotTD>
+		<NbTotTP>0</NbTotTP>
+		<Semestre>MIC_S3</Semestre>
+	</UF>
+
+	<UF code_apogee="I2CCGA12">
+		<Intitule>Grandir en autonomie et construire son projet professionnel II</Intitule>
+		<Reponsable>E08</Reponsable>
+		<Grands_Domaines>UF Transversales</Grands_Domaines>
+		<Heterogene>true</Heterogene>
+		<Eval_Par_Competences>false</Eval_Par_Competences>
+		<Continuite>false</Continuite>
+		<ECTS>2</ECTS>
+		<NbTotHeureUF>0.0</NbTotHeureUF>
+		<NbTotCM>0</NbTotCM>
+		<NbTotTD>0</NbTotTD>
+		<NbTotTP>0</NbTotTP>
+		<Semestre>MIC_S3</Semestre>
+	</UF>
+
+	<UF code_apogee="I2MIMT21">
+		<Intitule>Analyse et Signal</Intitule>
+		<Reponsable>E09</Reponsable>
+		<Grands_Domaines>UF Scientifiques</Grands_Domaines>
+		<Heterogene>true</Heterogene>
+		<Eval_Par_Competences>false</Eval_Par_Competences>
+		<Continuite>false</Continuite>
+		<ECTS>5</ECTS>
+		<NbTotHeureUF>0.0</NbTotHeureUF>
+		<NbTotCM>0</NbTotCM>
+		<NbTotTD>0</NbTotTD>
+		<NbTotTP>0</NbTotTP>
+		<Semestre>MIC_S4</Semestre>
+	</UF>
+
+	<UF code_apogee="I2MIPH21">
+		<Intitule>Ondes et optique ondulatoire</Intitule>
+		<Reponsable>E10</Reponsable>
+		<Grands_Domaines>UF Scientifiques</Grands_Domaines>
+		<Heterogene>true</Heterogene>
+		<Eval_Par_Competences>false</Eval_Par_Competences>
+		<Continuite>false</Continuite>
+		<ECTS>4</ECTS>
+		<NbTotHeureUF>0.0</NbTotHeureUF>
+		<NbTotCM>0</NbTotCM>
+		<NbTotTD>0</NbTotTD>
+		<NbTotTP>0</NbTotTP>
+		<Semestre>MIC_S4</Semestre>
+	</UF>
+
+
+	<UF code_apogee="I2MIIF21">
+		<Intitule>Algorithme Programmation II</Intitule>
+		<Reponsable>E11</Reponsable>
+		<Grands_Domaines>UF Scientifiques</Grands_Domaines>
+		<Heterogene>true</Heterogene>
+		<Eval_Par_Competences>false</Eval_Par_Competences>
+		<Continuite>false</Continuite>
+		<ECTS>4</ECTS>
+		<NbTotHeureUF>0.0</NbTotHeureUF>
+		<NbTotCM>0</NbTotCM>
+		<NbTotTD>0</NbTotTD>
+		<NbTotTP>0</NbTotTP>
+		<Semestre>MIC_S4</Semestre>
+	</UF>
+
+
+	<UF code_apogee="I2MIAU11">
+		<Intitule>Systèmes Automatiques</Intitule>
+		<Reponsable>E12</Reponsable>
+		<Grands_Domaines>UF Scientifiques</Grands_Domaines>
+		<Heterogene>false</Heterogene>
+		<Eval_Par_Competences>true</Eval_Par_Competences>
+		<Continuite>false</Continuite>
+		<ECTS>3</ECTS>
+		<NbTotHeureUF>0.0</NbTotHeureUF>
+		<NbTotCM>0</NbTotCM>
+		<NbTotTD>0</NbTotTD>
+		<NbTotTP>0</NbTotTP>
+		<Semestre>MIC_S4</Semestre>
+	</UF>
+
+
+	<UF code_apogee="I2MIMT31">
+		<Intitule>Probabilités et statistiques</Intitule>
+		<Reponsable>E13</Reponsable>
+		<Grands_Domaines>UF Scientifiques</Grands_Domaines>
+		<Heterogene>true</Heterogene>
+		<Eval_Par_Competences>false</Eval_Par_Competences>
+		<Continuite>false</Continuite>
+		<ECTS>3</ECTS>
+		<NbTotHeureUF>0.0</NbTotHeureUF>
+		<NbTotCM>0</NbTotCM>
+		<NbTotTD>0</NbTotTD>
+		<NbTotTP>0</NbTotTP>
+		<Semestre>MIC_S4</Semestre>
+	</UF>
+
+	<UF code_apogee="I2CCLA31">
+		<Intitule>L'environnement de l'entreprise et ses modes de communication</Intitule>
+		<Reponsable>E07</Reponsable>
+		<Grands_Domaines>UF Transversales</Grands_Domaines>
+		<Heterogene>true</Heterogene>
+		<Eval_Par_Competences>false</Eval_Par_Competences>
+		<Continuite>false</Continuite>
+		<ECTS>5</ECTS>
+		<NbTotHeureUF>0.0</NbTotHeureUF>
+		<NbTotCM>0</NbTotCM>
+		<NbTotTD>0</NbTotTD>
+		<NbTotTP>0</NbTotTP>
+		<Semestre>MIC_S4</Semestre>
+	</UF>
+
+	<UF code_apogee="I2CCGA25">
+		<Intitule>Grandir en autonomie et construire son projet professionnel II</Intitule>
+		<Reponsable>E08</Reponsable>
+		<Grands_Domaines>UF Transversales</Grands_Domaines>
+		<Heterogene>true</Heterogene>
+		<Eval_Par_Competences>false</Eval_Par_Competences>
+		<Continuite>false</Continuite>
+		<ECTS>6</ECTS>
+		<NbTotHeureUF>0.0</NbTotHeureUF>
+		<NbTotCM>0</NbTotCM>
+		<NbTotTD>0</NbTotTD>
+		<NbTotTP>0</NbTotTP>
+		<Semestre>MIC_S4</Semestre>
+	</UF>
+
+	<UF code_apogee="I3MIMT11">
+		<Intitule>Analyse Numérique, Optimisation, chaînes de Markov</Intitule>
+		<Responsable></Responsable>
+		<Grands_Domaines>Tronc Commun</Grands_Domaines>
+		<Heterogene>true</Heterogene>
+		<Eval_Par_Competences>false</Eval_Par_Competences>
+		<Continuite>false</Continuite>
+		<ECTS>6</ECTS>
+		<NbTotHeureUF>0.0</NbTotHeureUF>
+		<NbTotCM>0</NbTotCM>
+		<NbTotTD>0</NbTotTD>
+		<NbTotTP>0</NbTotTP>
+		<Semestre>MIC_S5</Semestre>
+	</UF>
+	<UF code_apogee="I3MIIF11">
+		<Intitule>Système d'exploitation, C, Réseaux, Base de données</Intitule>
+		<Responsable></Responsable>
+		<Grands_Domaines>Tronc Commun</Grands_Domaines>
+		<Heterogene>true</Heterogene>
+		<Eval_Par_Competences>false</Eval_Par_Competences>
+		<Continuite>false</Continuite>
+		<ECTS>6</ECTS>
+		<NbTotHeureUF>0.0</NbTotHeureUF>
+		<NbTotCM>0</NbTotCM>
+		<NbTotTD>0</NbTotTD>
+		<NbTotTP>0</NbTotTP>
+		<Semestre>MIC_S5</Semestre>
+	</UF>
+	<UF code_apogee="I3MIOM11">
+		<Intitule>EDO et leur résolution numérique</Intitule>
+		<Responsable></Responsable>
+		<Grands_Domaines>Option Math Appliquées</Grands_Domaines>
+		<Heterogene>true</Heterogene>
+		<Eval_Par_Competences>false</Eval_Par_Competences>
+		<Continuite>false</Continuite>
+		<ECTS>4</ECTS>
+		<NbTotHeureUF>0.0</NbTotHeureUF>
+		<NbTotCM>0</NbTotCM>
+		<NbTotTD>0</NbTotTD>
+		<NbTotTP>0</NbTotTP>
+		<Semestre>MIC_S5</Semestre>
+	</UF>
+	<UF code_apogee="I3MIOM21">
+		<Intitule>Calcul intégral et probabilités</Intitule>
+		<Responsable></Responsable>
+		<Grands_Domaines>Option Math Appliquées</Grands_Domaines>
+		<Heterogene>true</Heterogene>
+		<Eval_Par_Competences>false</Eval_Par_Competences>
+		<Continuite>false</Continuite>
+		<ECTS>4</ECTS>
+		<NbTotHeureUF>0.0</NbTotHeureUF>
+		<NbTotCM>0</NbTotCM>
+		<NbTotTD>0</NbTotTD>
+		<NbTotTP>0</NbTotTP>
+		<Semestre>MIC_S5</Semestre>
+	</UF>
+	<UF code_apogee="I3MIOI11">
+		<Intitule>Bases de données et programmation web</Intitule>
+		<Responsable></Responsable>
+		<Grands_Domaines>Option Informatique et Réseaux</Grands_Domaines>
+		<Heterogene>true</Heterogene>
+		<Eval_Par_Competences>false</Eval_Par_Competences>
+		<Continuite>false</Continuite>
+		<ECTS>4</ECTS>
+		<NbTotHeureUF>0.0</NbTotHeureUF>
+		<NbTotCM>0</NbTotCM>
+		<NbTotTD>0</NbTotTD>
+		<NbTotTP>0</NbTotTP>
+		<Semestre>MIC_S5</Semestre>
+	</UF>
+	<UF code_apogee="I3MIOI21">
+		<Intitule>Outils théoriques pour l'informatique</Intitule>
+		<Responsable></Responsable>
+		<Grands_Domaines>Option Informatique et Réseaux</Grands_Domaines>
+		<Heterogene>true</Heterogene>
+		<Eval_Par_Competences>false</Eval_Par_Competences>
+		<Continuite>false</Continuite>
+		<ECTS>4</ECTS>
+		<NbTotHeureUF>0.0</NbTotHeureUF>
+		<NbTotCM>0</NbTotCM>
+		<NbTotTD>0</NbTotTD>
+		<NbTotTP>0</NbTotTP>
+		<Semestre>MIC_S5</Semestre>
+	</UF>
+	<UF code_apogee="I3CCGE11">
+		<Intitule>Technique de recherche d'emploi et langues</Intitule>
+		<Responsable></Responsable>
+		<Grands_Domaines>Transverse</Grands_Domaines>
+		<Heterogene>true</Heterogene>
+		<Eval_Par_Competences>false</Eval_Par_Competences>
+		<Continuite>false</Continuite>
+		<ECTS>5</ECTS>
+		<NbTotHeureUF>0.0</NbTotHeureUF>
+		<NbTotCM>0</NbTotCM>
+		<NbTotTD>0</NbTotTD>
+		<NbTotTP>0</NbTotTP>
+		<Semestre>MIC_S5</Semestre>
+	</UF>
+	<UF code_apogee="I3CCIE11">
+		<Intitule>Ingénieurie et Enjeux écologiques</Intitule>
+		<Responsable></Responsable>
+		<Grands_Domaines>Transverse</Grands_Domaines>
+		<Heterogene>true</Heterogene>
+		<Eval_Par_Competences>true</Eval_Par_Competences>
+		<Continuite>false</Continuite>
+		<ECTS>3</ECTS>
+		<NbTotHeureUF>0.0</NbTotHeureUF>
+		<NbTotCM>0</NbTotCM>
+		<NbTotTD>0</NbTotTD>
+		<NbTotTP>0</NbTotTP>
+		<Semestre>MIC_S5</Semestre>
+	</UF>
+	<UF code_apogee="I3CCGA12">
+		<Intitule>Grandir en autonomie et construire son projet prof. III</Intitule>
+		<Responsable></Responsable>
+		<Grands_Domaines>Transverse</Grands_Domaines>
+		<Heterogene>true</Heterogene>
+		<Eval_Par_Competences>true</Eval_Par_Competences>
+		<Continuite>false</Continuite>
+		<ECTS>2</ECTS>
+		<NbTotHeureUF>0.0</NbTotHeureUF>
+		<NbTotCM>0</NbTotCM>
+		<NbTotTD>0</NbTotTD>
+		<NbTotTP>0</NbTotTP>
+		<Semestre>MIC_S5</Semestre>
+	</UF>
+
+	<UF code_apogee="I3MIIF21">
+		<Intitule>Programmation système et réseaux</Intitule>
+		<Responsable></Responsable>
+		<Grands_Domaines>UF Scientifique</Grands_Domaines>
+		<Heterogene>true</Heterogene>
+		<Eval_Par_Competences>false</Eval_Par_Competences>
+		<Continuite>false</Continuite>
+		<ECTS>5</ECTS>
+		<NbTotHeureUF>0.0</NbTotHeureUF>
+		<NbTotCM>0</NbTotCM>
+		<NbTotTD>0</NbTotTD>
+		<NbTotTP>0</NbTotTP>
+		<Semestre>MIC_IR_S6</Semestre>
+	</UF>
+
+	<UF code_apogee="I3MIIL11">
+		<Intitule>POO et Graphes</Intitule>
+		<Responsable></Responsable>
+		<Grands_Domaines>UF Scientifique</Grands_Domaines>
+		<Heterogene>true</Heterogene>
+		<Eval_Par_Competences>false</Eval_Par_Competences>
+		<Continuite>false</Continuite>
+		<ECTS>4</ECTS>
+		<NbTotHeureUF>0.0</NbTotHeureUF>
+		<NbTotCM>0</NbTotCM>
+		<NbTotTD>0</NbTotTD>
+		<NbTotTP>0</NbTotTP>
+		<Semestre>MIC_IR_S6</Semestre>
+	</UF>
+
+	<UF code_apogee="I3MITS11">
+		<Intitule>Signaux et télécommunications</Intitule>
+		<Responsable></Responsable>
+		<Grands_Domaines>UF Scientifique</Grands_Domaines>
+		<Heterogene>true</Heterogene>
+		<Eval_Par_Competences>false</Eval_Par_Competences>
+		<Continuite>false</Continuite>
+		<ECTS>5</ECTS>
+		<NbTotHeureUF>0.0</NbTotHeureUF>
+		<NbTotCM>0</NbTotCM>
+		<NbTotTD>0</NbTotTD>
+		<NbTotTP>0</NbTotTP>
+		<Semestre>MIC_IR_S6</Semestre>
+	</UF>
+
+	<UF code_apogee="I3MIIM11">
+		<Intitule>Concepts hardware pour la transmission d'informations</Intitule>
+		<Responsable></Responsable>
+		<Grands_Domaines>UF Scientifique</Grands_Domaines>
+		<Heterogene>true</Heterogene>
+		<Eval_Par_Competences>false</Eval_Par_Competences>
+		<Continuite>false</Continuite>
+		<ECTS>6</ECTS>
+		<NbTotHeureUF>0.0</NbTotHeureUF>
+		<NbTotCM>0</NbTotCM>
+		<NbTotTD>0</NbTotTD>
+		<NbTotTP>0</NbTotTP>
+		<Semestre>MIC_IR_S6</Semestre>
+	</UF>
+
+	<UF code_apogee="I3CCGE41">
+		<Intitule>Gestion de l'entreprise et business english</Intitule>
+		<Responsable></Responsable>
+		<Grands_Domaines>UF Transverses</Grands_Domaines>
+		<Heterogene>true</Heterogene>
+		<Eval_Par_Competences>false</Eval_Par_Competences>
+		<Continuite>false</Continuite>
+		<ECTS>5</ECTS>
+		<NbTotHeureUF>0.0</NbTotHeureUF>
+		<NbTotCM>0</NbTotCM>
+		<NbTotTD>0</NbTotTD>
+		<NbTotTP>0</NbTotTP>
+		<Semestre>MIC_IR_S6</Semestre>
+	</UF>
+
+	<UF code_apogee="I3CCGA21">
+		<Intitule>Grandir en autonomie et construire son projet prof. III</Intitule>
+		<Responsable></Responsable>
+		<Grands_Domaines>UF Transverses</Grands_Domaines>
+		<Heterogene>true</Heterogene>
+		<Eval_Par_Competences>false</Eval_Par_Competences>
+		<Continuite>false</Continuite>
+		<ECTS>5</ECTS>
+		<NbTotHeureUF>0.0</NbTotHeureUF>
+		<NbTotCM>0</NbTotCM>
+		<NbTotTD>0</NbTotTD>
+		<NbTotTP>0</NbTotTP>
+		<Semestre>MIC_IR_S6</Semestre>
+	</UF>
+
+	<UF code_apogee="I3MIPH12">
+		<Intitule>Mécanique et matériaux</Intitule>
+		<Responsable></Responsable>
+		<Grands_Domaines>UF Scientifiques</Grands_Domaines>
+		<Heterogene>true</Heterogene>
+		<Eval_Par_Competences>false</Eval_Par_Competences>
+		<Continuite>false</Continuite>
+		<ECTS>3</ECTS>
+		<NbTotHeureUF>0.0</NbTotHeureUF>
+		<NbTotCM>0</NbTotCM>
+		<NbTotTD>0</NbTotTD>
+		<NbTotTP>0</NbTotTP>
+		<Semestre>MIC_GMM_S6</Semestre>
+	</UF>
+	<UF code_apogee="I3MIMT21">
+		<Intitule>Introduction à la modélisation numérique</Intitule>
+		<Responsable></Responsable>
+		<Grands_Domaines>UF Scientifiques</Grands_Domaines>
+		<Heterogene>true</Heterogene>
+		<Eval_Par_Competences>false</Eval_Par_Competences>
+		<Continuite>false</Continuite>
+		<ECTS>3</ECTS>
+		<NbTotHeureUF>0.0</NbTotHeureUF>
+		<NbTotCM>0</NbTotCM>
+		<NbTotTD>0</NbTotTD>
+		<NbTotTP>0</NbTotTP>
+		<Semestre>MIC_GMM_S6</Semestre>
+	</UF>
+	<UF code_apogee="I3MIMT31">
+		<Intitule>Calcul matriciel et géométrie</Intitule>
+	   <Responsable></Responsable>
+		<Grands_Domaines>UF Scientifiques</Grands_Domaines>
+		<Heterogene>true</Heterogene>
+		<Eval_Par_Competences>false</Eval_Par_Competences>
+		<Continuite>false</Continuite>
+		<ECTS>3</ECTS>
+		<NbTotHeureUF>0.0</NbTotHeureUF>
+		<NbTotCM>0</NbTotCM>
+		<NbTotTD>0</NbTotTD>
+		<NbTotTP>0</NbTotTP>
+		<Semestre>MIC_GMM_S6</Semestre>
+	</UF>
+	<UF code_apogee="I3MIPJ11">
+		<Intitule>Projet modélisation</Intitule>
+		<Responsable></Responsable>
+		<Grands_Domaines>UF Scientifiques</Grands_Domaines>
+		<Heterogene>true</Heterogene>
+		<Eval_Par_Competences>false</Eval_Par_Competences>
+		<Continuite>false</Continuite>
+		<ECTS>3</ECTS>
+		<NbTotHeureUF></NbTotHeureUF>
+		<NbTotCM>0</NbTotCM>
+		<NbTotTD>0</NbTotTD>
+		<NbTotTP>0</NbTotTP>
+		<Semestre>MIC_GMM_S6</Semestre>
+	</UF>
+	<UF code_apogee="I3MIMT41">
+		<Intitule>Statistiques</Intitule>
+		<Responsable></Responsable>
+		<Grands_Domaines>UF Scientifiques</Grands_Domaines>
+		<Heterogene>true</Heterogene>
+		<Eval_Par_Competences>false</Eval_Par_Competences>
+		<Continuite>false</Continuite>
+		<ECTS>5</ECTS>
+		<NbTotHeureUF>0.0</NbTotHeureUF>
+		<NbTotCM>0</NbTotCM>
+		<NbTotTD>0</NbTotTD>
+		<NbTotTP>0</NbTotTP>
+		<Semestre>MIC_GMM_S6</Semestre>
+	</UF>
+	<UF code_apogee="I3MIIL21">
+		<Intitule>Programmation orientée objet</Intitule>
+		<Responsable></Responsable>
+		<Grands_Domaines>UF Scientifiques</Grands_Domaines>
+		<Heterogene>true</Heterogene>
+		<Eval_Par_Competences>false</Eval_Par_Competences>
+		<Continuite>false</Continuite>
+		<ECTS>3</ECTS>
+		<NbTotHeureUF>0.0</NbTotHeureUF>
+		<NbTotCM>0</NbTotCM>
+		<NbTotTD>0</NbTotTD>
+		<NbTotTP>0</NbTotTP>
+		<Semestre>MIC_GMM_S6</Semestre>
+	</UF>
+	<UF code_apogee="I3CCGE41">
+		<Intitule>Gestion de l'entrerise et business english</Intitule>
+		<Responsable></Responsable>
+		<Grands_Domaines>UF Transversales</Grands_Domaines>
+		<Heterogene>true</Heterogene>
+		<Eval_Par_Competences>false</Eval_Par_Competences>
+		<Continuite>false</Continuite>
+		<ECTS>5</ECTS>
+		<NbTotHeureUF>0.0</NbTotHeureUF>
+		<NbTotCM>0</NbTotCM>
+		<NbTotTD>0</NbTotTD>
+		<NbTotTP>0</NbTotTP>
+		<Semestre>MIC_GMM_S6</Semestre>
+	</UF>
+	<UF code_apogee="I3CCGA21">
+		<Intitule>Statistiques</Intitule>
+		<Responsable></Responsable>
+		<Grands_Domaines>UF Scientifiques</Grands_Domaines>
+		<Heterogene>true</Heterogene>
+		<Eval_Par_Competences>false</Eval_Par_Competences>
+		<Continuite>false</Continuite>
+		<ECTS>5</ECTS>
+		<NbTotHeureUF>0.0</NbTotHeureUF>
+		<NbTotCM>0</NbTotCM>
+		<NbTotTD>0</NbTotTD>
+		<NbTotTP>0</NbTotTP>
+		<Semestre>MIC_GMM_S6</Semestre>
+	</UF>
+</UFs>
