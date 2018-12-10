@@ -7,10 +7,10 @@
 	<Eval_Par_Competences>false</Eval_Par_Competences>
 	<Continuite>false</Continuite>
 	<ECTS>3</ECTS>
-	<NbTotHeureUF></NbTotHeureUF>
-	<NbTotCM></NbTotCM>
-	<NbTotTD></NbTotTD>
-	<NbTotTP></NbTotTP>
+	<NbTotHeureUF>0.0</NbTotHeureUF>
+	<NbTotCM>0</NbTotCM>
+	<NbTotTD>0</NbTotTD>
+	<NbTotTP>0</NbTotTP>
 	<Semestre>MIC_GMM_S6</Semestre>
 </UF>
 <UF code_apogee="I3MIMT21">
@@ -21,10 +21,10 @@
 	<Eval_Par_Competences>false</Eval_Par_Competences>
 	<Continuite>false</Continuite>
 	<ECTS>3</ECTS>
-	<NbTotHeureUF></NbTotHeureUF>
-	<NbTotCM></NbTotCM>
-	<NbTotTD></NbTotTD>
-	<NbTotTP></NbTotTP>
+	<NbTotHeureUF>0.0</NbTotHeureUF>
+	<NbTotCM>0</NbTotCM>
+	<NbTotTD>0</NbTotTD>
+	<NbTotTP>0</NbTotTP>
 	<Semestre>MIC_GMM_S6</Semestre>
 </UF>
 <UF code_apogee="I3MIMT31">
@@ -35,10 +35,10 @@
 	<Eval_Par_Competences>false</Eval_Par_Competences>
 	<Continuite>false</Continuite>
 	<ECTS>3</ECTS>
-	<NbTotHeureUF></NbTotHeureUF>
-	<NbTotCM></NbTotCM>
-	<NbTotTD></NbTotTD>
-	<NbTotTP></NbTotTP>
+	<NbTotHeureUF>0.0</NbTotHeureUF>
+	<NbTotCM>0</NbTotCM>
+	<NbTotTD>0</NbTotTD>
+	<NbTotTP>0</NbTotTP>
 	<Semestre>MIC_GMM_S6</Semestre>
 </UF>
 <UF code_apogee="I3MIPJ11">
@@ -50,9 +50,9 @@
 	<Continuite>false</Continuite>
 	<ECTS>3</ECTS>
 	<NbTotHeureUF></NbTotHeureUF>
-	<NbTotCM></NbTotCM>
-	<NbTotTD></NbTotTD>
-	<NbTotTP></NbTotTP>
+	<NbTotCM>0</NbTotCM>
+	<NbTotTD>0</NbTotTD>
+	<NbTotTP>0</NbTotTP>
 	<Semestre>MIC_GMM_S6</Semestre>
 </UF>
 <UF code_apogee="I3MIMT41">
@@ -63,10 +63,10 @@
 	<Eval_Par_Competences>false</Eval_Par_Competences>
 	<Continuite>false</Continuite>
 	<ECTS>5</ECTS>
-	<NbTotHeureUF></NbTotHeureUF>
-	<NbTotCM></NbTotCM>
-	<NbTotTD></NbTotTD>
-	<NbTotTP></NbTotTP>
+	<NbTotHeureUF>0.0</NbTotHeureUF>
+	<NbTotCM>0</NbTotCM>
+	<NbTotTD>0</NbTotTD>
+	<NbTotTP>0</NbTotTP>
 	<Semestre>MIC_GMM_S6</Semestre>
 </UF>
 <UF code_apogee="I3MIIL21">
@@ -77,10 +77,10 @@
 	<Eval_Par_Competences>false</Eval_Par_Competences>
 	<Continuite>false</Continuite>
 	<ECTS>3</ECTS>
-	<NbTotHeureUF></NbTotHeureUF>
-	<NbTotCM></NbTotCM>
-	<NbTotTD></NbTotTD>
-	<NbTotTP></NbTotTP>
+	<NbTotHeureUF>0.0</NbTotHeureUF>
+	<NbTotCM>0</NbTotCM>
+	<NbTotTD>0</NbTotTD>
+	<NbTotTP>0</NbTotTP>
 	<Semestre>MIC_GMM_S6</Semestre>
 </UF>
 <UF code_apogee="I3CCGE41">
@@ -91,10 +91,10 @@
 	<Eval_Par_Competences>false</Eval_Par_Competences>
 	<Continuite>false</Continuite>
 	<ECTS>5</ECTS>
-	<NbTotHeureUF></NbTotHeureUF>
-	<NbTotCM></NbTotCM>
-	<NbTotTD></NbTotTD>
-	<NbTotTP></NbTotTP>
+	<NbTotHeureUF>0.0</NbTotHeureUF>
+	<NbTotCM>0</NbTotCM>
+	<NbTotTD>0</NbTotTD>
+	<NbTotTP>0</NbTotTP>
 	<Semestre>MIC_GMM_S6</Semestre>
 </UF>
 <UF code_apogee="I3CCGA21">
@@ -105,10 +105,10 @@
 	<Eval_Par_Competences>false</Eval_Par_Competences>
 	<Continuite>false</Continuite>
 	<ECTS>5</ECTS>
-	<NbTotHeureUF></NbTotHeureUF>
-	<NbTotCM></NbTotCM>
-	<NbTotTD></NbTotTD>
-	<NbTotTP></NbTotTP>
+	<NbTotHeureUF>0.0</NbTotHeureUF>
+	<NbTotCM>0</NbTotCM>
+	<NbTotTD>0</NbTotTD>
+	<NbTotTP>0</NbTotTP>
 	<Semestre>MIC_GMM_S6</Semestre>
 </UF>
 
