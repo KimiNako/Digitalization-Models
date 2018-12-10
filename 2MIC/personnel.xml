@@ -260,6 +260,114 @@ Jean-Louis Noullet
 -->
 
 
+<!-- S5 est dans 3 MIC, on peut jeter le fichier personnel qui est dans la racine -->
 
+<Personnel id="E">
+	<nom>Bouclier</nom>
+	<prenom>Robin</prenom>
+	<grade>Maître de conférences</grade>
+	<bureau>B123</bureau>
+	<telephone>05 61 55 93 04</telephone>
+	<email>bouclier@insa-toulouse.fr</email>
+	<departement>GMM</departement>
+</Personnel>
 
+<Personnel id="E">
+	<nom>Fazzini</nom>
+	<prenom>Pier-Francesco</prenom>
+	<grade>Maître de conférences</grade>
+	<bureau></bureau>
+	<telephone>05 61 55 96 48</telephone>
+	<email>fazzini@insa-toulouse.fr</email>
+	<departement>GP</departement>
+</Personnel>
 
+<Personnel id="E">
+	<nom>Villedieu</nom>
+	<prenom>Philippe</prenom>
+	<grade>Professeur associé</grade>
+	<bureau>B126</bureau>
+	<telephone>05 61 55 93 37</telephone>
+	<email>philippe.villedieu@insa-toulouse.fr</email>
+	<departement>GMM</departement>
+</Personnel>
+
+<Personnel id="E">
+	<nom>Duboscq</nom>
+	<prenom>Romain</prenom>
+	<grade>Maître de conférences</grade>
+	<bureau>B124</bureau>
+	<telephone>05 61 55 93 16</telephone>
+	<email>romain.duboscq@insa-toulouse.fr</email>
+	<departement>GMM</departement>
+</Personnel>
+
+<Personnel id="E">
+	<nom>Chazel</nom>
+	<prenom>Florent</prenom>
+	<grade>Maître de conférences</grade>
+	<bureau>B117</bureau>
+	<telephone>05 61 55 93 34</telephone>
+	<email>florent.chazel@insa-toulouse.fr</email>
+	<departement>GMM</departement>
+</Personnel>
+
+<Personnel id="E">
+	<nom>Albert</nom>
+	<prenom>Mélisande</prenom>
+	<grade>Maître de conférences</grade>
+	<bureau>B115</bureau>
+	<telephone>05 61 55 93 32</telephone>
+	<email>melisande.albert@insa-toulouse.fr</email>
+	<departement>GMM</departement>
+</Personnel>
+
+<Personnel id="E">
+	<nom>Lomi</nom>
+	<prenom>Michel</prenom>
+	<grade>Professeur associé</grade>
+	<bureau>B18</bureau>
+	<telephone>05 61 55 94 72</telephone>
+	<email>michel.lomi@insa-toulouse.fr</email>
+	<departement>CSH</departement>
+</Personnel>
+
+<Personnel id="E">
+	<nom>Huguet</nom>
+	<prenom>Marie-Jo</prenom>
+	<grade>Enseignant</grade>
+	<bureau></bureau>
+	<telephone>05 61 33 69 14</telephone>
+	<email>huguet@laas.fr</email>
+	<departement>GEI</departement>
+</Personnel>
+
+<Personnel id="E">
+	<nom>Dilhac</nom>
+	<prenom>Jean-Marie</prenom>
+	<grade>Enseignant</grade>
+	<bureau></bureau>
+	<telephone>05 61 33 63 74</telephone>
+	<email>jean-marie.dilhac@laas.fr</email>
+	<departement>GEI</departement>
+</Personnel>
+
+<Personnel id="E">
+	<nom>Rocacher</nom>
+	<prenom>Thierry</prenom>
+	<grade>Professeur agrégé</grade>
+	<bureau></bureau>
+	<telephone></telephone>
+	<email>trocache@insa-toulouse.fr</email>
+	<departement>GEI</departement>
+</Personnel>
+
+<Personnel id="E">
+	<nom>Noullet</nom>
+	<prenom>Jean-Louis</prenom>
+	<grade>Maître de conférences</grade>
+	<bureau></bureau>
+	<telephone></telephone>
+	<email>noullet@insa-toulouse.fr</email>
+	<departement>GEI</departement>
+</Personnel>
