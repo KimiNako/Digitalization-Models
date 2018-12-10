@@ -89,48 +89,50 @@
 		<xs:attribute name="acronyme" type="xs:string"/>
 	</xs:complexType>
 
-	<xs:element name="Maquette">
+	<xs:element name="Maquettes">
         <xs:complexType>
+            
+		    <xs:sequence>
+			    <xs:element name="Personnel" type="PersonnelType" maxOccurs="unbounded">
+                    <xs:key name="keyPersonnel">
+					    <xs:selector xpath="."/>
+					    <xs:field xpath="@id"/>
+				    </xs:key>
+			    </xs:element>
 
-		    <xs:all>
-			<xs:element name="Personnel" type="PersonnelType">
-                <xs:key name="keyPersonnel">
-					<xs:selector xpath="."/>
-					<xs:field xpath="@id"/>
-				</xs:key>
-			</xs:element>
+                <xs:element name="Departement" type="DepartementType" maxOccurs="unbounded">
+				    <xs:key name="keyDepartement">
+					    <xs:selector xpath="."/>
+					    <xs:field xpath="@acronyme"/>
+				    </xs:key>
+			    </xs:element>
 
-			<xs:element name="Matiere_de_l_uf" type="Matiere_de_l_ufType"/>
+                <xs:element name="PO" type="POType" maxOccurs="unbounded">
+				    <xs:key name="keyPO">
+					    <xs:selector xpath="."/>
+					    <xs:field xpath="@acronyme"/>
+				    </xs:key>
+                </xs:element>
 
-			<xs:element name="UF" type="UFType">
-				<xs:key name="keyUF">
-					<xs:selector xpath="."/>
-					<xs:field xpath="@code_apogee"/>
-				</xs:key>
-			</xs:element>
+                <xs:element name="Semestre" type="SemestreType" maxOccurs="unbounded">
+				    <xs:key name="keySemestre">
+					     <xs:selector xpath="."/>
+					     <xs:field xpath="@numero"/>
+				    </xs:key>
+			    </xs:element>
 
-			<xs:element name="Semestre" type="SemestreType">
-				<xs:key name="keySemestre">
-					 <xs:selector xpath="."/>
-					 <xs:field xpath="@numero"/>
-				</xs:key>
-			</xs:element>
+                <xs:element name="UF" type="UFType" maxOccurs="unbounded">
+				    <xs:key name="keyUF">
+					    <xs:selector xpath="."/>
+					    <xs:field xpath="@code_apogee"/>
+				    </xs:key>
+			    </xs:element>	
 
-			<xs:element name="Departement" type="DepartementType">
-				<xs:key name="keyDepartement">
-					<xs:selector xpath="."/>
-					<xs:field xpath="@acronyme"/>
-				</xs:key>
-			</xs:element>
-	
-			<xs:element name="PO" type="POType">
-				<xs:key name="keyPO">
-					<xs:selector xpath="."/>
-					<xs:field xpath="@acronyme"/>
-				</xs:key>
-			</xs:element>
+			    <xs:element name="Matiere_de_l_uf" type="Matiere_de_l_ufType" maxOccurs="unbounded"/>
 
-		    </xs:all>
+			    	   
+
+		    </xs:sequence>
         </xs:complexType>
 
         <xs:keyref name="refDepPer" refer="keyDepartement">

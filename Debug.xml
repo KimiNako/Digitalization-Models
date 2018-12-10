@@ -1,5 +1,42 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<Maquette>
+<Maquettes>
+
+    <Personnel id="P1">
+		<nom> </nom>
+		<prenom> </prenom>
+		<grade> </grade>
+		<bureau> </bureau>
+		<telephone> </telephone>
+		<email> </email>
+		<Departement>STPI</Departement>
+	</Personnel>
+
+    <Personnel id="P2">
+		<nom> </nom>
+		<prenom> </prenom>
+		<grade> </grade>
+		<bureau> </bureau>
+		<telephone> </telephone>
+		<email> </email>
+		<Departement>STPI</Departement>
+	</Personnel>
+
+    <Departement acronyme="STPI">
+		<nom></nom>
+		<dateCreation>1950-05-20</dateCreation>
+		<Directeur>P1</Directeur> <!-- Directeur du département-->
+	</Departement>
+
+	<PO acronyme="MIC">
+		<nom>Math, Info et Com</nom>
+		<Departement>STPI</Departement>
+		<Responsable>P1</Responsable> <!-- Responsable de PO -->
+	</PO>
+
+     <Semestre numero="MIC_S3">
+        <PO>MIC</PO>
+    </Semestre>
+
 	<UF code_apogee="UF1">
 		<Intitule></Intitule>
 		<Responsable>P1</Responsable>
@@ -13,21 +50,7 @@
 		<NbTotTD>0</NbTotTD>
 		<NbTotTP>0</NbTotTP>
 		<Semestre>MIC_S3</Semestre>
-	</UF>
-
-    <Semestre numero="MIC_S3">
-        <PO>MIC</PO>
-    </Semestre>
-
-	<Personnel id="P1">
-		<nom> </nom>
-		<prenom> </prenom>
-		<grade> </grade>
-		<bureau> </bureau>
-		<telephone> </telephone>
-		<email> </email>
-		<Departement>STPI</Departement>
-	</Personnel>
+	</UF>	
 
 	<Matiere_de_l_uf code_apogee="M1">
         <nom></nom>
@@ -48,18 +71,7 @@
 		</Epreuve>
 	</Matiere_de_l_uf>
 
-	<Departement acronyme="STPI">
-		<nom></nom>
-		<dateCreation>1950-05-20</dateCreation>
-		<Directeur>P1</Directeur> <!-- Directeur du département-->
-	</Departement>
-
-	<PO acronyme="MIC">
-		<nom>Math, Info et Com</nom>
-		<Departement>STPI</Departement>
-		<Responsable>P1</Responsable> <!-- Responsable de PO -->
-	</PO>
-</Maquette>
+</Maquettes>
 
 
 
