@@ -48,3 +48,7 @@ Ajouter aussi dans le XSLT :
 1. Nombre total de PO
 2. Pour chaque UF, Nombre total d'heures et son ECTS
 3. Pour chaque PO, les UFs ayant un ECTS > 5
+
+---
+
+gharbi.ghada@gmail.com
