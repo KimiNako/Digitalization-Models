@@ -11,7 +11,7 @@
 	<NbTotCM></NbTotCM>
 	<NbTotTD></NbTotTD>
 	<NbTotTP></NbTotTP>
-	<Semestre numero="MIC_S5"></Semestre>
+	<Semestre>MIC_S5</Semestre>
 </UF>
 <UF code_apogee="I3MIIF11">
 	<Intitule>Système d'exploitation, C, Réseaux, Base de données</Intitule>
@@ -39,7 +39,7 @@
 	<NbTotCM></NbTotCM>
 	<NbTotTD></NbTotTD>
 	<NbTotTP></NbTotTP>
-	<Semestre numero="MIC_S5"></Semestre>
+	<Semestre>MIC_S5</Semestre>
 </UF>
 <UF code_apogee="I3MIOM21">
 	<Intitule>Calcul intégral et probabilités</Intitule>
@@ -53,7 +53,7 @@
 	<NbTotCM></NbTotCM>
 	<NbTotTD></NbTotTD>
 	<NbTotTP></NbTotTP>
-	<Semestre numero="MIC_S5"></Semestre>
+	<Semestre>MIC_S5</Semestre>
 </UF>
 <UF code_apogee="I3MIOI11">
 	<Intitule>Bases de données et programmation web</Intitule>
@@ -67,7 +67,7 @@
 	<NbTotCM></NbTotCM>
 	<NbTotTD></NbTotTD>
 	<NbTotTP></NbTotTP>
-	<Semestre numero="MIC_S5"></Semestre>
+	<Semestre>MIC_S5</Semestre>
 </UF>
 <UF code_apogee="I3MIOI21">
 	<Intitule>Outils théoriques pour l'informatique</Intitule>
@@ -81,7 +81,7 @@
 	<NbTotCM></NbTotCM>
 	<NbTotTD></NbTotTD>
 	<NbTotTP></NbTotTP>
-	<Semestre numero="MIC_S5"></Semestre>
+	<Semestre>MIC_S5</Semestre>
 </UF>
 <UF code_apogee="I3CCGE11">
 	<Intitule>Technique de recherche d'emploi et langues</Intitule>
@@ -95,7 +95,7 @@
 	<NbTotCM></NbTotCM>
 	<NbTotTD></NbTotTD>
 	<NbTotTP></NbTotTP>
-	<Semestre numero="MIC_S5"></Semestre>
+	<Semestre>MIC_S5</Semestre>
 </UF>
 <UF code_apogee="I3CCIE11">
 	<Intitule>Ingénieurie et Enjeux écologiques</Intitule>
@@ -109,7 +109,7 @@
 	<NbTotCM></NbTotCM>
 	<NbTotTD></NbTotTD>
 	<NbTotTP></NbTotTP>
-	<Semestre numero="MIC_S5"></Semestre>
+	<Semestre>MIC_S5</Semestre>
 </UF>
 <UF code_apogee="I3CCGA12">
 	<Intitule>Grandir en autonomie et construire son projet prof. III</Intitule>
@@ -123,5 +123,5 @@
 	<NbTotCM></NbTotCM>
 	<NbTotTD></NbTotTD>
 	<NbTotTP></NbTotTP>
-	<Semestre numero="MIC_S5"></Semestre>
+	<Semestre>MIC_S5</Semestre>
 </UF>
