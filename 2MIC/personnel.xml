@@ -110,7 +110,7 @@
 <Personnel id="E11">
 	<nom>Esquirol</nom>
 	<prenom>Patrick</prenom>
-	<grade>Maître de conférences </grade>
+	<grade>Maître de conférences</grade>
 	<bureau>B108</bureau>
 	<telephone> 05 61 33 62 90</telephone>
 	<email>patrick.esquirol@laas.fr</email>
@@ -159,14 +159,89 @@
 
 
 
-<!-- il y a fournio en id 14 -->
+<!-- il y a fourniol en id 14 -->
+
+
+<Personnel id="E15">
+	<nom>Fournier</nom>
+	<prenom>Daniele</prenom>
+	<grade>Professeur agrégé</grade>
+	<bureau>B120</bureau>
+	<telephone>05 61 55 98 43</telephone>
+	<email>daniele.fournier@laas.fr</email>
+	<departement>GEI</departement>
+</Personnel>
+
+
+<Personnel id="E16">
+	<nom>Plantec</nom>
+	<prenom>Jean-Yves</prenom>
+	<grade>Maître de conférences</grade>
+	<bureau>B130</bureau>
+	<telephone>05 61 55 93 24</telephone>
+	<email>jean-yves.plantec@insa-toulouse.fr</email>
+	<departement>GMM</departement>
+</Personnel>
+
+<Personnel id="E17">
+	<nom>Abadie</nom>
+	<prenom>Anouk</prenom>
+	<grade>Enseignant</grade>
+	<bureau>B15</bureau>
+	<telephone>05 61 55 94 79</telephone>
+	<email>anouk.abadie@insa-toulouse.fr</email>
+	<departement>CSH</departement>
+</Personnel>
+
+<Personnel id="E18">
+	<nom>Dupont</nom>
+	<prenom>Thierry </prenom>
+	<grade>Responsable du PPI</grade>
+	<bureau>B13</bureau>
+	<telephone>05 61 55 94 82</telephone>
+	<email>tdupont@insa-toulouse.fr</email>
+	<departement>CSH</departement>
+</Personnel>
+
+<Personnel id="E19">
+	<nom>Mazet</nom>
+	<prenom>Olivier</prenom>
+	<grade>Maître de conférences</grade>
+	<bureau>B123</bureau>
+	<telephone>05 61 55 93 41</telephone>
+	<email>olivier.mazet@insa-toulouse.fr</email>
+	<departement>GMM</departement>
+</Personnel>
+
 
 
 <!-- il manque le travail de l'autre ordi-->
-<!-- A mettre :
+<!-- A mettre dans matieres :
 S4
 Daniele Fournier -I2MIMT21
 Jean-Yves Plantec -I2MIIF21
 Anouk Abadie -I2CCLA31
 Thierry Dupont -I2CCGA25
 Olivier Mazet -I2CCGA25 
+
+S5
+Frédéric de Gournay
+Lorick Huang
+Christophe Chassot
+Thierry Monteil
+Nawal Guermouche
+David Sanchez
+Aldéric Joulin
+Pierre Pinel
+Emmanuel Hébrard
+Didier Le Botlan
+Pierre Coupechoux
+Sylvie Mercier
+Marie-Noëlle Casals
+
+
+
+
+
+
+
