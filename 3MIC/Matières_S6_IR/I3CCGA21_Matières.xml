@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Matiere_de_l_uf code_apogee="">
+    <nom>Activités Physiques et Sportives</nom>
+    <UF>I3CCGA21</UF>
+    <Responsable></Responsable>
+	<coef>0.33</coef>
+	<presentiel></presentiel>
+	<nbr_CM>0</nbr_CM>
+	<nbr_TD>12</nbr_TD>
+	<nbr_TP>0</nbr_TP>
+	<Epreuve nom="Epreuve_sport">
+		<nature>Epreuve_sport</nature>
+		<coef>0.35</coef>
+	</Epreuve>
+</Matiere_de_l_uf>
+
+<Matiere_de_l_uf code_apogee="">
+    <nom>Module d'ouverture</nom>
+    <UF>I3CCGA21</UF>
+    <Responsable></Responsable>
+	<coef>0.33</coef>
+	<presentiel></presentiel>
+	<nbr_CM>0</nbr_CM>
+	<nbr_TD>14</nbr_TD>
+	<nbr_TP>0</nbr_TP>
+	<Epreuve nom="Eval_Modouv">
+		<nature>CC</nature>
+		<coef>0.33</coef>
+	</Epreuve>
+</Matiere_de_l_uf>
+
+<Matiere_de_l_uf code_apogee="">
+    <nom>PPI</nom>
+    <UF>I3CCGA21</UF>
+    <Responsable></Responsable>
+	<coef>0.33</coef>
+	<presentiel></presentiel>
+	<nbr_CM>0</nbr_CM>
+	<nbr_TD>1</nbr_TD>
+	<nbr_TP>0</nbr_TP>
+	<Epreuve nom="Eval_PPI">
+		<nature>CC</nature>
+		<coef>0.33</coef>
+	</Epreuve>
+</Matiere_de_l_uf>

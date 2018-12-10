@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Matiere_de_l_uf code_apogee="">
+    <nom>Programmation système et réseaux</nom>
+    <UF>I3MIIF21</UF>
+    <Responsable></Responsable>
+	<coef>0.3</coef>
+	<presentiel></presentiel>
+	<nbr_CM>10</nbr_CM>
+	<nbr_TD>5</nbr_TD>
+	<nbr_TP>4</nbr_TP>
+	<Epreuve nom="CC">
+		<nature>CC</nature>
+		<coef>0.15</coef>
+	</Epreuve>
+    <Epreuve nom="TP">
+		<nature>TP</nature>
+		<coef>0.15</coef>
+	</Epreuve>
+</Matiere_de_l_uf>
+
+<Matiere_de_l_uf code_apogee="">
+    <nom>Applications internet et programmation socket</nom>
+    <UF>I3MIIF21</UF>
+    <Responsable></Responsable>
+	<coef>0.2</coef>
+	<presentiel></presentiel>
+	<nbr_CM>6</nbr_CM>
+	<nbr_TD>0</nbr_TD>
+	<nbr_TP>2</nbr_TP>
+    <Epreuve nom="TP">
+		<nature>TP</nature>
+		<coef>0.2</coef>
+	</Epreuve>
+</Matiere_de_l_uf>
+
+<Matiere_de_l_uf code_apogee="">
+    <nom>BE réseaux, projet intégrateur</nom>
+    <UF>I3MIIF21</UF>
+    <Responsable></Responsable>
+	<coef>0.5</coef>
+	<presentiel></presentiel>
+	<nbr_CM>0</nbr_CM>
+	<nbr_TD>2</nbr_TD>
+	<nbr_TP>5</nbr_TP>
+    <Epreuve nom="BE">
+		<nature>BE</nature>
+		<coef>0.5</coef>
+	</Epreuve>
+</Matiere_de_l_uf>
+

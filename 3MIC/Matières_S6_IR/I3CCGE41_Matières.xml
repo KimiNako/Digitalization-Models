@@ -1,31 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Matiere_de_l_uf code_apogee="">
-    <nom>Systèmes de télécommunications</nom>
-    <UF>I3MITS11</UF>
+    <nom>Business Game, Simgest</nom>
+    <UF>I3CCGE41</UF>
     <Responsable></Responsable>
-	<coef>0.5</coef>
+	<coef>0.35</coef>
 	<presentiel></presentiel>
-	<nbr_CM>10</nbr_CM>
-	<nbr_TD>12</nbr_TD>
-	<nbr_TP>4</nbr_TP>
+	<nbr_CM>0</nbr_CM>
+	<nbr_TD>8</nbr_TD>
+	<nbr_TP>0</nbr_TP>
 	<Epreuve nom="CC">
 		<nature>CC</nature>
-		<coef>0.3</coef>
-	</Epreuve>
-	<Epreuve nom="TP">
-		<nature>TP</nature>
-		<coef>0.2</coef>
+		<coef>0.35</coef>
 	</Epreuve>
 </Matiere_de_l_uf>
 
 <Matiere_de_l_uf code_apogee="">
-    <nom>Filtrage numérique</nom>
-    <UF>I3MITS11</UF>
+    <nom>Gestion financière</nom>
+    <UF>I3CCGE41</UF>
     <Responsable></Responsable>
 	<coef>0.25</coef>
 	<presentiel></presentiel>
-	<nbr_CM>8</nbr_CM>
-	<nbr_TD>7</nbr_TD>
+	<nbr_CM>4</nbr_CM>
+	<nbr_TD>0</nbr_TD>
 	<nbr_TP>0</nbr_TP>
 	<Epreuve nom="CC">
 		<nature>CC</nature>
@@ -34,17 +30,18 @@
 </Matiere_de_l_uf>
 
 <Matiere_de_l_uf code_apogee="">
-    <nom>Signal</nom>
-    <UF>I3MITS11</UF>
+    <nom>English business</nom>
+    <UF>I3CCGE41</UF>
     <Responsable></Responsable>
-	<coef>0.25</coef>
+	<coef>0.4</coef>
 	<presentiel></presentiel>
-	<nbr_CM>5</nbr_CM>
-	<nbr_TD>4</nbr_TD>
+	<nbr_CM>0</nbr_CM>
+	<nbr_TD>10</nbr_TD>
 	<nbr_TP>0</nbr_TP>
 	<Epreuve nom="CC">
 		<nature>CC</nature>
-		<coef>0.25</coef>
+		<coef>0.4</coef>
 	</Epreuve>
 </Matiere_de_l_uf>
+
 
