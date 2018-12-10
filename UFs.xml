@@ -446,6 +446,7 @@
 		<NbTotTP>0</NbTotTP>
 		<Semestre>MIC_GMM_S6</Semestre>
 	</UF>
+
 	<UF code_apogee="I3MIMT21">
 		<Intitule>Introduction à la modélisation numérique</Intitule>
 		<Responsable></Responsable>
@@ -460,6 +461,7 @@
 		<NbTotTP>0</NbTotTP>
 		<Semestre>MIC_GMM_S6</Semestre>
 	</UF>
+
 	<UF code_apogee="I3MIMT31">
 		<Intitule>Calcul matriciel et géométrie</Intitule>
 	   <Responsable></Responsable>
@@ -474,6 +476,7 @@
 		<NbTotTP>0</NbTotTP>
 		<Semestre>MIC_GMM_S6</Semestre>
 	</UF>
+
 	<UF code_apogee="I3MIPJ11">
 		<Intitule>Projet modélisation</Intitule>
 		<Responsable></Responsable>
@@ -488,6 +491,7 @@
 		<NbTotTP>0</NbTotTP>
 		<Semestre>MIC_GMM_S6</Semestre>
 	</UF>
+
 	<UF code_apogee="I3MIMT41">
 		<Intitule>Statistiques</Intitule>
 		<Responsable></Responsable>
@@ -502,6 +506,7 @@
 		<NbTotTP>0</NbTotTP>
 		<Semestre>MIC_GMM_S6</Semestre>
 	</UF>
+
 	<UF code_apogee="I3MIIL21">
 		<Intitule>Programmation orientée objet</Intitule>
 		<Responsable></Responsable>
@@ -516,6 +521,7 @@
 		<NbTotTP>0</NbTotTP>
 		<Semestre>MIC_GMM_S6</Semestre>
 	</UF>
+
 	<UF code_apogee="I3CCGE41">
 		<Intitule>Gestion de l'entrerise et business english</Intitule>
 		<Responsable></Responsable>
@@ -530,6 +536,7 @@
 		<NbTotTP>0</NbTotTP>
 		<Semestre>MIC_GMM_S6</Semestre>
 	</UF>
+
 	<UF code_apogee="I3CCGA21">
 		<Intitule>Statistiques</Intitule>
 		<Responsable></Responsable>
