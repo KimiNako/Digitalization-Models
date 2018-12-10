@@ -19,6 +19,13 @@ A voir : comment faire quand il n'y a pas de code apogée pour une matière ?
 Mettre : 	<Facultatif>false</Facultatif> dans Matiere et non UF
 
 
+finir matiere (faire correspondre les enseignants responsable des ids avec leur id), POO, departement, ...
+
+
+
+
+
+
 -----------------
 BDD APS :
 http://www.aps.insa-toulouse.fr/fr/contact/equipe-pedagogique.html
