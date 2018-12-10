@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Matiere_de_l_uf code_apogee="">
+ 	<nom>LV1</nom>
+    <UF>I2CCLA31</UF>
+    <Responsable id="E07"></Responsable>
+	<coef>0.5</coef>
+	<Facultatif>false</Facultatif>
+	<nbr_CM>0</nbr_CM>
+	<nbr_TD>10</nbr_TD>
+	<nbr_TP>0</nbr_TP>
+	<Epreuve nom="CC1">
+		<nature>CC</nature>
+		<coef>0.7</coef>
+	</Epreuve>
+	<Epreuve nom="CC2">
+		<nature>CC</nature>
+		<coef>0.3</coef>
+	</Epreuve>
+</Matiere_de_l_uf>
+
+<Matiere_de_l_uf code_apogee="">
+ 	<nom>LV2</nom>
+    <UF>I2CCLA31</UF>
+    <Responsable></Responsable>
+	<coef>0.5</coef>
+	<Facultatif>false</Facultatif>
+	<nbr_CM>0</nbr_CM>
+	<nbr_TD>13.5</nbr_TD>
+	<nbr_TP>0</nbr_TP>
+	<Epreuve nom="CC1">
+		<nature>CC</nature>
+		<coef>0.5</coef>
+	</Epreuve>
+	<Epreuve nom="CC2">
+		<nature>CC</nature>
+		<coef>0.5</coef>
+	</Epreuve>
+</Matiere_de_l_uf>
+

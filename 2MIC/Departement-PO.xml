@@ -3,7 +3,7 @@
 <Departement id="STPI">
 	<acronyme>STPI</acronyme>
 	<nom>Sciences et Techniques Pour l'Ingénieur</nom>
-	<dateCreation>01/03/1957</dateCreation>
+	<dateCreation>1957-03-01</dateCreation>
 	<Personnel id="E01"></Personnel> <!-- Directeur du département-->
 </Departement>
 
