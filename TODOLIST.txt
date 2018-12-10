@@ -36,3 +36,6 @@ POUR XSLT
 4. Pour chaque personne, liste de ses responsabilités (Département, UFs, Cours)
 5. Pour chaque PO, liste des compétences 
 
+
+------------
+Pour le projet on fait du xslt et css
