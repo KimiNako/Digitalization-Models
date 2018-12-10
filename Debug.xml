@@ -1,75 +1,86 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Maquettes>
 
-    <Personnel id="P1">
-		<nom> </nom>
-		<prenom> </prenom>
-		<grade> </grade>
-		<bureau> </bureau>
-		<telephone> </telephone>
-		<email> </email>
-		<Departement>STPI</Departement>
-	</Personnel>
+    <Personnels>
+        <Personnel id="P1">
+		    <nom> </nom>
+		    <prenom> </prenom>
+		    <grade> </grade>
+		    <bureau> </bureau>
+		    <telephone> </telephone>
+		    <email> </email>
+		    <Departement>STPI</Departement>
+	    </Personnel>
+        <Personnel id="P2">
+		    <nom> </nom>
+		    <prenom> </prenom>
+		    <grade> </grade>
+		    <bureau> </bureau>
+		    <telephone> </telephone>
+		    <email> </email>
+		    <Departement>STPI</Departement>
+	    </Personnel>
+    </Personnels>
 
-    <Personnel id="P2">
-		<nom> </nom>
-		<prenom> </prenom>
-		<grade> </grade>
-		<bureau> </bureau>
-		<telephone> </telephone>
-		<email> </email>
-		<Departement>STPI</Departement>
-	</Personnel>
+    <Departements>     
+        <Departement acronyme="STPI">
+		    <nom></nom>
+		    <dateCreation>1950-05-20</dateCreation>
+		    <Directeur>P1</Directeur> <!-- Directeur du département-->
+	    </Departement>
+    </Departements>
 
-    <Departement acronyme="STPI">
-		<nom></nom>
-		<dateCreation>1950-05-20</dateCreation>
-		<Directeur>P1</Directeur> <!-- Directeur du département-->
-	</Departement>
+    <POs>
+	    <PO acronyme="MIC">
+		    <nom>Math, Info et Com</nom>
+		    <Departement>STPI</Departement>
+		    <Responsable>P1</Responsable> <!-- Responsable de PO -->
+	    </PO>
+    </POs>
 
-	<PO acronyme="MIC">
-		<nom>Math, Info et Com</nom>
-		<Departement>STPI</Departement>
-		<Responsable>P1</Responsable> <!-- Responsable de PO -->
-	</PO>
+    <Semestres>
+         <Semestre numero="MIC_S3">
+            <PO>MIC</PO>
+        </Semestre>
+    </Semestres>
 
-     <Semestre numero="MIC_S3">
-        <PO>MIC</PO>
-    </Semestre>
+    <UFs>
+	    <UF code_apogee="UF1">
+		    <Intitule></Intitule>
+		    <Responsable>P1</Responsable>
+		    <Grands_Domaines></Grands_Domaines>
+		    <Heterogene>true</Heterogene>
+		    <Eval_Par_Competences></Eval_Par_Competences>
+		    <Continuite>false</Continuite>
+		    <ECTS> </ECTS>
+		    <NbTotHeureUF>0.0</NbTotHeureUF>
+		    <NbTotCM>0</NbTotCM>
+		    <NbTotTD>0</NbTotTD>
+		    <NbTotTP>0</NbTotTP>
+		    <Semestre>MIC_S3</Semestre>
+	    </UF>	
+    </UFs>
 
-	<UF code_apogee="UF1">
-		<Intitule></Intitule>
-		<Responsable>P1</Responsable>
-		<Grands_Domaines></Grands_Domaines>
-		<Heterogene>true</Heterogene>
-		<Eval_Par_Competences></Eval_Par_Competences>
-		<Continuite>false</Continuite>
-		<ECTS> </ECTS>
-		<NbTotHeureUF>0.0</NbTotHeureUF>
-		<NbTotCM>0</NbTotCM>
-		<NbTotTD>0</NbTotTD>
-		<NbTotTP>0</NbTotTP>
-		<Semestre>MIC_S3</Semestre>
-	</UF>	
-
-	<Matiere_de_l_uf code_apogee="M1">
-        <nom></nom>
-		<UF>UF1</UF>
-		<Responsable>P1</Responsable>
-		<coef></coef>
-		<Facultatif>false</Facultatif>
-		<presentiel></presentiel>
-		<nbr_CM>0</nbr_CM>
-		<nbr_TD>0</nbr_TD>
-		<nbr_TP>0</nbr_TP>
-		<Competence nom="">
-			<description></description>
-		</Competence>
-		<Epreuve nom="">
-			<nature></nature>
-			<coef></coef>
-		</Epreuve>
-	</Matiere_de_l_uf>
+    <Matieres>
+	    <Matiere_de_l_uf code_apogee="M1">
+            <nom></nom>
+		    <UF>UF1</UF>
+		    <Responsable>P1</Responsable>
+		    <coef></coef>
+		    <Facultatif>false</Facultatif>
+		    <presentiel></presentiel>
+		    <nbr_CM>0</nbr_CM>
+		    <nbr_TD>0</nbr_TD>
+		    <nbr_TP>0</nbr_TP>
+		    <Competence nom="">
+			    <description></description>
+		    </Competence>
+		    <Epreuve nom="">
+			    <nature></nature>
+			    <coef></coef>
+		    </Epreuve>
+	    </Matiere_de_l_uf>
+    </Matieres>
 
 </Maquettes>
 
