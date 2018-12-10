@@ -11,7 +11,7 @@
 	<NbTotCM></NbTotCM>
 	<NbTotTD></NbTotTD>
 	<NbTotTP></NbTotTP>
-	<Semestre numero="3"></Semestre>
+	<Semestre>MIC_S3</Semestre>
 </UF>
 
 <UF code_apogee="I2MIPH11">
@@ -26,7 +26,7 @@
 	<NbTotCM></NbTotCM>
 	<NbTotTD></NbTotTD>
 	<NbTotTP></NbTotTP>
-	<Semestre numero="3"></Semestre>
+	<Semestre>MIC_S3</Semestre>
 </UF>
 
 
@@ -42,7 +42,7 @@
 	<NbTotCM></NbTotCM>
 	<NbTotTD></NbTotTD>
 	<NbTotTP></NbTotTP>
-	<Semestre numero="MIC_S3"></Semestre>
+	<Semestre>MIC_S3</Semestre>
 </UF>
 
 
@@ -58,7 +58,7 @@
 	<NbTotCM></NbTotCM>
 	<NbTotTD></NbTotTD>
 	<NbTotTP></NbTotTP>
-	<Semestre numero="MIC_S3"></Semestre>
+	<Semestre>MIC_S3</Semestre>
 </UF>
 
 <UF code_apogee="I2MIEN11">
@@ -73,7 +73,7 @@
 	<NbTotCM></NbTotCM>
 	<NbTotTD></NbTotTD>
 	<NbTotTP></NbTotTP>
-	<Semestre numero="MIC_S3"></Semestre>
+	<Semestre>MIC_S3</Semestre>
 </UF>
 
 <UF code_apogee="I2CCGE31">
@@ -88,7 +88,7 @@
 	<NbTotCM></NbTotCM>
 	<NbTotTD></NbTotTD>
 	<NbTotTP></NbTotTP>
-	<Semestre numero="MIC_S3"></Semestre>
+	<Semestre>MIC_S3</Semestre>
 </UF>
 
 <UF code_apogee="I2CCGA12">
@@ -103,5 +103,5 @@
 	<NbTotCM></NbTotCM>
 	<NbTotTD></NbTotTD>
 	<NbTotTP></NbTotTP>
-	<Semestre numero="MIC_S3"></Semestre>
+	<Semestre>MIC_S3</Semestre>
 </UF>
