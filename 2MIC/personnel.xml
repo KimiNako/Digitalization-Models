@@ -371,3 +371,143 @@ Jean-Louis Noullet
 	<email>noullet@insa-toulouse.fr</email>
 	<departement>GEI</departement>
 </Personnel>
+
+<Personnel id="E">
+	<nom>de Gournay</nom>
+	<prenom>Frédéric</prenom>
+	<grade>Enseignant-chercheur</grade>
+	<bureau>B116</bureau>
+	<telephone>05 61 55 93 44</telephone>
+	<email>frederic.degournay@insa-toulouse.fr</email>
+	<departement>GMM</departement>
+</Personnel>
+
+<Personnel id="E">
+	<nom>Huang</nom>
+	<prenom>Lorick</prenom>
+	<grade>Enseignant-chercheur</grade>
+	<bureau>B122</bureau>
+	<telephone>05 61 55 88 71</telephone>
+	<email>lorick.huang@insa-toulouse.fr</email>
+	<departement>GMM</departement>
+</Personnel>
+
+<Personnel id="E">
+	<nom>Chassot</nom>
+	<prenom>Christophe</prenom>
+	<grade>Enseignant-chercheur</grade>
+	<bureau>B666</bureau>
+	<telephone>05 61 55 99 48</telephone>
+	<email>chassot@insa-toulouse.fr </email>
+	<departement>GEI</departement>
+</Personnel>
+
+<Personnel id="E">
+	<nom>Monteil</nom>
+	<prenom>Thierry</prenom>
+	<grade>Enseignant-chercheur</grade>
+	<bureau>B667</bureau>
+	<telephone>05 61 55 98 21</telephone>
+	<email>monteil@insa-toulouse.fr </email>
+	<departement>GEI</departement>
+</Personnel>
+
+<Personnel id="E">
+	<nom>Guermouche</nom>
+	<prenom>Nawal</prenom>
+	<grade>Enseignant-chercheur</grade>
+	<bureau>B214</bureau>
+	<telephone>05 61 55 98 19</telephone>
+	<email>guermouc@insa-toulouse.fr </email>
+	<departement>GEI</departement>
+</Personnel>
+
+<Personnel id="E">
+	<nom>Sanchez</nom>
+	<prenom>David</prenom>
+	<grade>Enseignant-chercheur</grade>
+	<bureau>B117</bureau>
+	<telephone>05 61 55 93 14</telephone>
+	<email>david.sanchez@insa-toulouse.fr </email>
+	<departement>GMM</departement>
+</Personnel>
+
+<Personnel id="E">
+	<nom>Joulin</nom>
+	<prenom>Aldéric</prenom>
+	<grade>Enseignant-chercheur</grade>
+	<bureau>B115</bureau>
+	<telephone>05 61 55 93 45</telephone>
+	<email>alderic.joulin@insa-toulouse.fr</email>
+	<departement>GMM</departement>
+</Personnel>
+
+<Personnel id="E">
+	<nom>Pinel</nom>
+	<prenom>Pierre</prenom>
+	<grade>Enseignant-chercheur</grade>
+	<bureau>B666</bureau>
+	<telephone>05 61 55 ****</telephone>
+	<email>pinel@insa-toulouse.fr </email>
+	<departement>GEI</departement>
+</Personnel>
+
+<Personnel id="E">
+	<nom>Hébrard</nom>
+	<prenom>Emmanuel</prenom>
+	<grade>Enseignant-chercheur</grade>
+	<bureau>B666</bureau>
+	<telephone>05 61 55 99 48</telephone>
+	<email>chassot@insa-toulouse.fr </email>
+	<departement>GMM</departement>
+</Personnel>
+
+<Personnel id="E">
+	<nom>Le Botlan</nom>
+	<prenom>Didier</prenom>
+	<grade>Enseignant-chercheur</grade>
+	<bureau>B666</bureau>
+	<telephone>05 61 55 99 48</telephone>
+	<email>chassot@insa-toulouse.fr </email>
+	<departement>GMM</departement>
+</Personnel>
+
+<Personnel id="E">
+	<nom>Coupechoux</nom>
+	<prenom>Pierre</prenom>
+	<grade>Enseignant-chercheur</grade>
+	<bureau>B666</bureau>
+	<telephone>05 61 55 99 48</telephone>
+	<email>chassot@insa-toulouse.fr </email>
+	<departement>GMM</departement>
+</Personnel>
+
+<Personnel id="E">
+	<nom>Mercier</nom>
+	<prenom>Sylvie</prenom>
+	<grade>Enseignant-chercheur</grade>
+	<bureau>B666</bureau>
+	<telephone>05 61 55 99 48</telephone>
+	<email>chassot@insa-toulouse.fr </email>
+	<departement>GMM</departement>
+</Personnel>
+
+<Personnel id="E">
+	<nom>Casals</nom>
+	<prenom>Marie-Noëlle</prenom>
+	<grade>Enseignant-chercheur</grade>
+	<bureau>B666</bureau>
+	<telephone>05 61 55 99 48</telephone>
+	<email>chassot@insa-toulouse.fr </email>
+	<departement>GMM</departement>
+</Personnel>
+
+<Personnel id="E">
+	<nom>Carrey</nom>
+	<prenom>Julian</prenom>
+	<grade>Enseignant-chercheur</grade>
+	<bureau>B666</bureau>
+	<telephone>05 61 55 99 48</telephone>
+	<email>chassot@insa-toulouse.fr </email>
+	<departement>GMM</departement>
+</Personnel>
