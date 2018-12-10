@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Matiere_de_l_uf code_apogee="">
+    <nom>Programmation système et réseaux</nom>
+    <UF>I3MIIF21</UF>
+    <Responsable></Responsable>
+	<coef>0.3</coef>
+	<presentiel></presentiel>
+	<nbr_CM>10</nbr_CM>
+	<nbr_TD>5</nbr_TD>
+	<nbr_TP>4</nbr_TP>
+	<Epreuve nom="CC">
+		<nature>CC</nature>
+		<coef>0.15</coef>
+	</Epreuve>
+    <Epreuve nom="TP">
+		<nature>TP</nature>
+		<coef>0.15</coef>
+	</Epreuve>
+</Matiere_de_l_uf>
+
+<Matiere_de_l_uf code_apogee="">
+    <nom>Applications internet et programmation socket</nom>
+    <UF>I3MIIF21</UF>
+    <Responsable></Responsable>
+	<coef>0.2</coef>
+	<presentiel></presentiel>
+	<nbr_CM>6</nbr_CM>
+	<nbr_TD>0</nbr_TD>
+	<nbr_TP>2</nbr_TP>
+    <Epreuve nom="TP">
+		<nature>TP</nature>
+		<coef>0.2</coef>
+	</Epreuve>
+</Matiere_de_l_uf>
+
+<Matiere_de_l_uf code_apogee="">
+    <nom>BE réseaux, projet intégrateur</nom>
+    <UF>I3MIIF21</UF>
+    <Responsable></Responsable>
+	<coef>0.5</coef>
+	<presentiel></presentiel>
+	<nbr_CM>0</nbr_CM>
+	<nbr_TD>2</nbr_TD>
+	<nbr_TP>5</nbr_TP>
+    <Epreuve nom="BE">
+		<nature>BE</nature>
+		<coef>0.5</coef>
+	</Epreuve>
+</Matiere_de_l_uf>
+
+<Matiere_de_l_uf code_apogee="">
+    <nom>Introduction à la POO</nom>
+    <UF>I3MIIL11</UF>
+    <Responsable></Responsable>
+	<coef>0.33</coef>
+	<presentiel></presentiel>
+	<nbr_CM>5</nbr_CM>
+	<nbr_TD>8</nbr_TD>
+	<nbr_TP>0</nbr_TP>
+	<Epreuve nom="CC">
+		<nature>CC</nature>
+		<coef>0.33</coef>
+	</Epreuve>
+</Matiere_de_l_uf>
+
+<Matiere_de_l_uf code_apogee="">
+    <nom>Graphes</nom>
+    <UF>I3MIIL11</UF>
+    <Responsable></Responsable>
+	<coef>0.33</coef>
+	<presentiel></presentiel>
+	<nbr_CM>8</nbr_CM>
+	<nbr_TD>7</nbr_TD>
+	<nbr_TP>0</nbr_TP>
+	<Epreuve nom="CC">
+		<nature>CC</nature>
+		<coef>0.33</coef>
+	</Epreuve>
+</Matiere_de_l_uf>
+
+<Matiere_de_l_uf code_apogee="">
+    <nom>BE Graphes</nom>
+    <UF>I3MIIL11</UF>
+    <Responsable></Responsable>
+	<coef>0.33</coef>
+	<presentiel></presentiel>
+	<nbr_CM>0</nbr_CM>
+	<nbr_TD>0</nbr_TD>
+	<nbr_TP>7</nbr_TP>
+	<Epreuve nom="CC">
+		<nature>CC</nature>
+		<coef>0.33</coef>
+	</Epreuve>
+</Matiere_de_l_uf>
+
+<Matiere_de_l_uf code_apogee="">
+    <nom>Systèmes de télécommunications</nom>
+    <UF>I3MITS11</UF>
+    <Responsable></Responsable>
+	<coef>0.5</coef>
+	<presentiel></presentiel>
+	<nbr_CM>10</nbr_CM>
+	<nbr_TD>12</nbr_TD>
+	<nbr_TP>4</nbr_TP>
+	<Epreuve nom="CC">
+		<nature>CC</nature>
+		<coef>0.3</coef>
+	</Epreuve>
+	<Epreuve nom="TP">
+		<nature>TP</nature>
+		<coef>0.2</coef>
+	</Epreuve>
+</Matiere_de_l_uf>
+
+<Matiere_de_l_uf code_apogee="">
+    <nom>Filtrage numérique</nom>
+    <UF>I3MITS11</UF>
+    <Responsable></Responsable>
+	<coef>0.25</coef>
+	<presentiel></presentiel>
+	<nbr_CM>8</nbr_CM>
+	<nbr_TD>7</nbr_TD>
+	<nbr_TP>0</nbr_TP>
+	<Epreuve nom="CC">
+		<nature>CC</nature>
+		<coef>0.25</coef>
+	</Epreuve>
+</Matiere_de_l_uf>
+
+<Matiere_de_l_uf code_apogee="">
+    <nom>Signal</nom>
+    <UF>I3MITS11</UF>
+    <Responsable></Responsable>
+	<coef>0.25</coef>
+	<presentiel></presentiel>
+	<nbr_CM>5</nbr_CM>
+	<nbr_TD>4</nbr_TD>
+	<nbr_TP>0</nbr_TP>
+	<Epreuve nom="CC">
+		<nature>CC</nature>
+		<coef>0.25</coef>
+	</Epreuve>
+</Matiere_de_l_uf>
+
+<Matiere_de_l_uf code_apogee="">
+    <nom>Langage d'assemblage</nom>
+    <UF>I3MIIM11</UF>
+    <Responsable></Responsable>
+	<coef>0.33</coef>
+	<presentiel></presentiel>
+	<nbr_CM>7</nbr_CM>
+	<nbr_TD>4</nbr_TD>
+	<nbr_TP>0</nbr_TP>
+	<Epreuve nom="CC">
+		<nature>CC</nature>
+		<coef>0.33</coef>
+	</Epreuve>
+</Matiere_de_l_uf>
+
+<Matiere_de_l_uf code_apogee="">
+    <nom>Architecture matérielle</nom>
+    <UF>I3MIIM11</UF>
+    <Responsable></Responsable>
+	<coef>0.33</coef>
+	<presentiel></presentiel>
+	<nbr_CM>1</nbr_CM>
+	<nbr_TD>0</nbr_TD>
+	<nbr_TP>12</nbr_TP>
+	<Epreuve nom="TP">
+		<nature>TP</nature>
+		<coef>0.33</coef>
+	</Epreuve>
+</Matiere_de_l_uf>
+
+<Matiere_de_l_uf code_apogee="">
+    <nom>Bureau d'étude CHTI</nom>
+    <UF>I3MIIM11</UF>
+    <Responsable></Responsable>
+	<coef>0.33</coef>
+	<presentiel></presentiel>
+	<nbr_CM>0</nbr_CM>
+	<nbr_TD>0</nbr_TD>
+	<nbr_TP>13</nbr_TP>
+	<Epreuve nom="TP">
+		<nature>TP</nature>
+		<coef>0.33</coef>
+	</Epreuve>
+</Matiere_de_l_uf>
+
+<Matiere_de_l_uf code_apogee="">
+    <nom>Business Game, Simgest</nom>
+    <UF>I3CCGE41</UF>
+    <Responsable></Responsable>
+	<coef>0.35</coef>
+	<presentiel></presentiel>
+	<nbr_CM>0</nbr_CM>
+	<nbr_TD>8</nbr_TD>
+	<nbr_TP>0</nbr_TP>
+	<Epreuve nom="CC">
+		<nature>CC</nature>
+		<coef>0.35</coef>
+	</Epreuve>
+</Matiere_de_l_uf>
+
+<Matiere_de_l_uf code_apogee="">
+    <nom>Gestion financière</nom>
+    <UF>I3CCGE41</UF>
+    <Responsable></Responsable>
+	<coef>0.25</coef>
+	<presentiel></presentiel>
+	<nbr_CM>4</nbr_CM>
+	<nbr_TD>0</nbr_TD>
+	<nbr_TP>0</nbr_TP>
+	<Epreuve nom="CC">
+		<nature>CC</nature>
+		<coef>0.25</coef>
+	</Epreuve>
+</Matiere_de_l_uf>
+
+<Matiere_de_l_uf code_apogee="">
+    <nom>English business</nom>
+    <UF>I3CCGE41</UF>
+    <Responsable></Responsable>
+	<coef>0.4</coef>
+	<presentiel></presentiel>
+	<nbr_CM>0</nbr_CM>
+	<nbr_TD>10</nbr_TD>
+	<nbr_TP>0</nbr_TP>
+	<Epreuve nom="CC">
+		<nature>CC</nature>
+		<coef>0.4</coef>
+	</Epreuve>
+</Matiere_de_l_uf>
+
+<Matiere_de_l_uf code_apogee="">
+    <nom>Activités Physiques et Sportives</nom>
+    <UF>I3CCGA21</UF>
+    <Responsable></Responsable>
+	<coef>0.33</coef>
+	<presentiel></presentiel>
+	<nbr_CM>0</nbr_CM>
+	<nbr_TD>12</nbr_TD>
+	<nbr_TP>0</nbr_TP>
+	<Epreuve nom="Epreuve_sport">
+		<nature>Epreuve_sport</nature>
+		<coef>0.35</coef>
+	</Epreuve>
+</Matiere_de_l_uf>
+
+<Matiere_de_l_uf code_apogee="">
+    <nom>Module d'ouverture</nom>
+    <UF>I3CCGA21</UF>
+    <Responsable></Responsable>
+	<coef>0.33</coef>
+	<presentiel></presentiel>
+	<nbr_CM>0</nbr_CM>
+	<nbr_TD>14</nbr_TD>
+	<nbr_TP>0</nbr_TP>
+	<Epreuve nom="Eval_Modouv">
+		<nature>CC</nature>
+		<coef>0.33</coef>
+	</Epreuve>
+</Matiere_de_l_uf>
+
+<Matiere_de_l_uf code_apogee="">
+    <nom>PPI</nom>
+    <UF>I3CCGA21</UF>
+    <Responsable></Responsable>
+	<coef>0.33</coef>
+	<presentiel></presentiel>
+	<nbr_CM>0</nbr_CM>
+	<nbr_TD>1</nbr_TD>
+	<nbr_TP>0</nbr_TP>
+	<Epreuve nom="Eval_PPI">
+		<nature>CC</nature>
+		<coef>0.33</coef>
+	</Epreuve>
+</Matiere_de_l_uf>
+
