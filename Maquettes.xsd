@@ -93,44 +93,78 @@
         <xs:complexType>
             
 		    <xs:sequence>
-			    <xs:element name="Personnel" type="PersonnelType" maxOccurs="unbounded">
-                    <xs:key name="keyPersonnel">
-					    <xs:selector xpath="."/>
-					    <xs:field xpath="@id"/>
-				    </xs:key>
-			    </xs:element>
-
-                <xs:element name="Departement" type="DepartementType" maxOccurs="unbounded">
-				    <xs:key name="keyDepartement">
-					    <xs:selector xpath="."/>
-					    <xs:field xpath="@acronyme"/>
-				    </xs:key>
-			    </xs:element>
-
-                <xs:element name="PO" type="POType" maxOccurs="unbounded">
-				    <xs:key name="keyPO">
-					    <xs:selector xpath="."/>
-					    <xs:field xpath="@acronyme"/>
-				    </xs:key>
+                <xs:element name="Personnels">
+                    <xs:complexType>
+                        <xs:sequence>
+			                <xs:element name="Personnel" type="PersonnelType" maxOccurs="unbounded">
+                                <xs:key name="keyPersonnel">
+					                <xs:selector xpath="."/>
+					                <xs:field xpath="@id"/>
+				                </xs:key>
+			                </xs:element>
+                        </xs:sequence>
+                    </xs:complexType>
                 </xs:element>
 
-                <xs:element name="Semestre" type="SemestreType" maxOccurs="unbounded">
-				    <xs:key name="keySemestre">
-					     <xs:selector xpath="."/>
-					     <xs:field xpath="@numero"/>
-				    </xs:key>
-			    </xs:element>
+                <xs:element name="Departements">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="Departement" type="DepartementType" maxOccurs="unbounded">
+				                <xs:key name="keyDepartement">
+					                <xs:selector xpath="."/>
+					                <xs:field xpath="@acronyme"/>
+				                </xs:key>
+			                </xs:element>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
 
-                <xs:element name="UF" type="UFType" maxOccurs="unbounded">
-				    <xs:key name="keyUF">
-					    <xs:selector xpath="."/>
-					    <xs:field xpath="@code_apogee"/>
-				    </xs:key>
-			    </xs:element>	
+                <xs:element name="POs">   
+                    <xs:complexType>             
+                        <xs:sequence>
+                            <xs:element name="PO" type="POType" maxOccurs="unbounded">
+				                <xs:key name="keyPO">
+					                <xs:selector xpath="."/>
+					                <xs:field xpath="@acronyme"/>
+				                </xs:key>
+                            </xs:element>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
 
-			    <xs:element name="Matiere_de_l_uf" type="Matiere_de_l_ufType" maxOccurs="unbounded"/>
+                <xs:element name="Semestres">
+                    <xs:complexType> 
+                        <xs:sequence>
+                            <xs:element name="Semestre" type="SemestreType" maxOccurs="unbounded">
+				                <xs:key name="keySemestre">
+					                 <xs:selector xpath="."/>
+					                 <xs:field xpath="@numero"/>
+				                </xs:key>
+			                </xs:element>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
 
-			    	   
+                <xs:element name="UFs">
+                    <xs:complexType> 
+                        <xs:sequence>
+                            <xs:element name="UF" type="UFType" maxOccurs="unbounded">
+				                <xs:key name="keyUF">
+					                <xs:selector xpath="."/>
+					                <xs:field xpath="@code_apogee"/>
+				                </xs:key>
+			                </xs:element>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>	
+
+                <xs:element name="Matieres">
+                    <xs:complexType> 
+                        <xs:sequence>
+			                <xs:element name="Matiere_de_l_uf" type="Matiere_de_l_ufType" maxOccurs="unbounded"/>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>	    	   
 
 		    </xs:sequence>
         </xs:complexType>

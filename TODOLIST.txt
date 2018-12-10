@@ -59,3 +59,16 @@ Ajouter aussi dans le XSLT :
 ---
 
 gharbi.ghada@gmail.com
+
+COMPETENCES
+
+---
+Revoir tous les bureaux du GEI
+
+// TODO
+
+Alicia : Fini XSD (chemin de clés + assembler avec XML)
+Pierre : Fini correspondre Matiere <-> Respo
+Kimi & Maxou : XSLT (+ CSS)  
+
+
