@@ -1,63 +1,63 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <UF code_apogee="I2MIMT11">
 	<Intitule>Analyse et Algèbre</Intitule>
-	<Reponsable id="E02"></Reponsable>
+	<Reponsable>E02</Reponsable>
 	<Grands_Domaines>UF Scientifiques</Grands_Domaines>
 	<Heterogene>true</Heterogene>
 	<Eval_Par_Competences>false</Eval_Par_Competences>
 	<Continuite>false</Continuite>
 	<ECTS>7</ECTS>
-	<NbTotHeureUF></NbTotHeureUF>
-	<NbTotCM></NbTotCM>
-	<NbTotTD></NbTotTD>
-	<NbTotTP></NbTotTP>
+	<NbTotHeureUF>0.0</NbTotHeureUF>
+	<NbTotCM>0</NbTotCM>
+	<NbTotTD>0</NbTotTD>
+	<NbTotTP>0</NbTotTP>
 	<Semestre>MIC_S3</Semestre>
 </UF>
 
 <UF code_apogee="I2MIPH11">
 	<Intitule>Electromagnétisme</Intitule>
-	<Reponsable id="E03"></Reponsable>
+	<Reponsable>E03</Reponsable>
 	<Grands_Domaines>UF Scientifiques</Grands_Domaines>
 	<Heterogene>true</Heterogene>
 	<Eval_Par_Competences>false</Eval_Par_Competences>
 	<Continuite>false</Continuite>
 	<ECTS>4</ECTS>
-	<NbTotHeureUF></NbTotHeureUF>
-	<NbTotCM></NbTotCM>
-	<NbTotTD></NbTotTD>
-	<NbTotTP></NbTotTP>
+	<NbTotHeureUF>0.0</NbTotHeureUF>
+	<NbTotCM>0</NbTotCM>
+	<NbTotTD>0</NbTotTD>
+	<NbTotTP>0</NbTotTP>
 	<Semestre>MIC_S3</Semestre>
 </UF>
 
 
 <UF code_apogee="I2MIIF11">
 	<Intitule>Algorithme Programmation Unix</Intitule>
-	<Reponsable id="E04"></Reponsable>
+	<Reponsable>E04</Reponsable>
 	<Grands_Domaines>UF Scientifiques</Grands_Domaines>
 	<Heterogene>true</Heterogene>
 	<Eval_Par_Competences>false</Eval_Par_Competences>
 	<Continuite>false</Continuite>
 	<ECTS>4</ECTS>
-	<NbTotHeureUF></NbTotHeureUF>
-	<NbTotCM></NbTotCM>
-	<NbTotTD></NbTotTD>
-	<NbTotTP></NbTotTP>
+	<NbTotHeureUF>0.0</NbTotHeureUF>
+	<NbTotCM>0</NbTotCM>
+	<NbTotTD>0</NbTotTD>
+	<NbTotTP>0</NbTotTP>
 	<Semestre>MIC_S3</Semestre>
 </UF>
 
 
 <UF code_apogee="I2MIIM11">
 	<Intitule>Logique et SFO</Intitule>
-	<Reponsable id="E05"></Reponsable>
+	<Reponsable>E05</Reponsable>
 	<Grands_Domaines>UF Scientifiques</Grands_Domaines>
 	<Heterogene>false</Heterogene>
 	<Eval_Par_Competences>true</Eval_Par_Competences>
 	<Continuite>false</Continuite>
 	<ECTS>4</ECTS>
-	<NbTotHeureUF></NbTotHeureUF>
-	<NbTotCM></NbTotCM>
-	<NbTotTD></NbTotTD>
-	<NbTotTP></NbTotTP>
+	<NbTotHeureUF>0.0</NbTotHeureUF>
+	<NbTotCM>0</NbTotCM>
+	<NbTotTD>0</NbTotTD>
+	<NbTotTP>0</NbTotTP>
 	<Semestre>MIC_S3</Semestre>
 </UF>
 
@@ -69,39 +69,39 @@
 	<Eval_Par_Competences>false</Eval_Par_Competences>
 	<Continuite>false</Continuite>
 	<ECTS>4</ECTS>
-	<NbTotHeureUF></NbTotHeureUF>
-	<NbTotCM></NbTotCM>
-	<NbTotTD></NbTotTD>
-	<NbTotTP></NbTotTP>
+	<NbTotHeureUF>0.0</NbTotHeureUF>
+	<NbTotCM>0</NbTotCM>
+	<NbTotTD>0</NbTotTD>
+	<NbTotTP>0</NbTotTP>
 	<Semestre>MIC_S3</Semestre>
 </UF>
 
 <UF code_apogee="I2CCGE31">
 	<Intitule>L'environnement de l'entreprise et ses modes de communication</Intitule>
-	<Reponsable id="E07"></Reponsable>
+	<Reponsable>E07</Reponsable>
 	<Grands_Domaines>UF Transversales</Grands_Domaines>
 	<Heterogene>true</Heterogene>
 	<Eval_Par_Competences>false</Eval_Par_Competences>
 	<Continuite>false</Continuite>
 	<ECTS>5</ECTS>
-	<NbTotHeureUF></NbTotHeureUF>
-	<NbTotCM></NbTotCM>
-	<NbTotTD></NbTotTD>
-	<NbTotTP></NbTotTP>
+	<NbTotHeureUF>0.0</NbTotHeureUF>
+	<NbTotCM>0</NbTotCM>
+	<NbTotTD>0</NbTotTD>
+	<NbTotTP>0</NbTotTP>
 	<Semestre>MIC_S3</Semestre>
 </UF>
 
 <UF code_apogee="I2CCGA12">
 	<Intitule>Grandir en autonomie et construire son projet professionnel II</Intitule>
-	<Reponsable id="E08"></Reponsable>
+	<Reponsable>E08</Reponsable>
 	<Grands_Domaines>UF Transversales</Grands_Domaines>
 	<Heterogene>true</Heterogene>
 	<Eval_Par_Competences>false</Eval_Par_Competences>
 	<Continuite>false</Continuite>
 	<ECTS>2</ECTS>
-	<NbTotHeureUF></NbTotHeureUF>
-	<NbTotCM></NbTotCM>
-	<NbTotTD></NbTotTD>
-	<NbTotTP></NbTotTP>
+	<NbTotHeureUF>0.0</NbTotHeureUF>
+	<NbTotCM>0</NbTotCM>
+	<NbTotTD>0</NbTotTD>
+	<NbTotTP>0</NbTotTP>
 	<Semestre>MIC_S3</Semestre>
 </UF>
