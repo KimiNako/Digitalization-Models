@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Matiere_de_l_uf code_apogee="">
+ 	<nom>Ondes et optique ondulatoire</nom>
+    <UF>I2MIPH21</UF>
+    <Responsable id="E10"></Responsable>
+	<coef>1</coef>
+	<Facultatif>false</Facultatif>
+	<nbr_CM>20</nbr_CM>
+	<nbr_TD>13</nbr_TD>
+	<nbr_TP>4</nbr_TP>
+	<Epreuve nom="CC1">
+		<nature>CC</nature>
+		<coef>0.25</coef>
+	</Epreuve>
+	<Epreuve nom="CC2">
+		<nature>CC</nature>
+		<coef>0.5</coef>
+	</Epreuve>
+	<Epreuve nom="TP">
+		<nature>TP</nature>
+		<coef>0.25</coef>
+	</Epreuve>
+</Matiere_de_l_uf>
+
+

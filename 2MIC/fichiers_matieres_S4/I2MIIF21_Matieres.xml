@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Matiere_de_l_uf code_apogee="">
+ 	<nom>Algorithmique et Programmation</nom>
+    <UF>I2MIIF21</UF>
+    <Responsable id="E11"></Responsable>
+	<coef>0.67</coef>
+	<Facultatif>false</Facultatif>
+	<nbr_CM>9</nbr_CM>
+	<nbr_TD>9</nbr_TD>
+	<nbr_TP>8</nbr_TP>
+	<Epreuve nom="CC1">
+		<nature>CC</nature>
+		<coef>0.5</coef>
+	</Epreuve>
+	<Epreuve nom="CC2">
+		<nature>CC</nature>
+		<coef>0.5</coef>
+	</Epreuve>
+</Matiere_de_l_uf>
+
+<Matiere_de_l_uf code_apogee="">
+ 	<nom>Python</nom>
+    <UF>I2MIIF21</UF>
+    <Responsable></Responsable>
+	<coef>0.33</coef>
+	<Facultatif>false</Facultatif>
+	<nbr_CM>0</nbr_CM>
+	<nbr_TD>6</nbr_TD>
+	<nbr_TP>0</nbr_TP>
+	<Epreuve nom="CC">
+		<nature>CC</nature>
+		<coef>1</coef>
+	</Epreuve>
+</Matiere_de_l_uf>
+
+
