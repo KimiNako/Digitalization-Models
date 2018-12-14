@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<Matieres>
+<Matieres>  
+
+	<!-- PS: les matieres du S3 MIC ne sont pas encore intégrée (Pierre) -->
+
 	<Matiere_de_l_uf code_apogee="">
 	 	<nom>Analyse II</nom>
 		<UF>I2MIMT21</UF>
@@ -23,7 +26,7 @@
 	<Matiere_de_l_uf code_apogee="">
 	 	<nom>Signal</nom>
 		<UF>I2MIMT21</UF>
-		<Responsable></Responsable>
+		<Responsable>E15</Responsable>
 		<coef>0.55</coef>
 		<Facultatif>false</Facultatif>
 		<nbr_CM>8</nbr_CM>
@@ -84,7 +87,7 @@
 	<Matiere_de_l_uf code_apogee="">
 	 	<nom>Python</nom>
 		<UF>I2MIIF21</UF>
-		<Responsable></Responsable>
+		<Responsable>E16</Responsable>
 		<coef>0.33</coef>
 		<Facultatif>false</Facultatif>
 		<nbr_CM>0</nbr_CM>
@@ -160,7 +163,7 @@
 	<Matiere_de_l_uf code_apogee="">
 	 	<nom>LV2</nom>
 		<UF>I2CCLA31</UF>
-		<Responsable></Responsable>
+		<Responsable>E17</Responsable>
 		<coef>0.5</coef>
 		<Facultatif>false</Facultatif>
 		<nbr_CM>0</nbr_CM>
@@ -207,7 +210,7 @@
 	<Matiere_de_l_uf code_apogee="">
 	 	<nom>PPI</nom>
 		<UF>I2CCGA25</UF>
-		<Responsable></Responsable>
+		<Responsable>E18</Responsable>
 		<coef>0.25</coef>
 		<Facultatif>false</Facultatif>
 		<nbr_CM>0</nbr_CM>
@@ -221,7 +224,7 @@
 	<Matiere_de_l_uf code_apogee="">
 	 	<nom>Projet scientifique</nom>
 		<UF>I2CCGA25</UF>
-		<Responsable></Responsable>
+		<Responsable>E19</Responsable>
 		<coef>0.25</coef>
 		<Facultatif>false</Facultatif>
 		<nbr_CM>0</nbr_CM>
