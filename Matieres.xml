@@ -42,7 +42,7 @@
 	<Matiere_de_l_uf code_apogee="">
 	 	<nom>Ondes et optique ondulatoire</nom>
 		<UF>I2MIPH21</UF>
-		<Responsable id="E10"></Responsable>
+		<Responsable>E10</Responsable>
 		<coef>1</coef>
 		<Facultatif>false</Facultatif>
 		<nbr_CM>20</nbr_CM>
@@ -65,7 +65,7 @@
 	<Matiere_de_l_uf code_apogee="">
 	 	<nom>Algorithmique et Programmation</nom>
 		<UF>I2MIIF21</UF>
-		<Responsable id="E11"></Responsable>
+		<Responsable>E11</Responsable>
 		<coef>0.67</coef>
 		<Facultatif>false</Facultatif>
 		<nbr_CM>9</nbr_CM>
@@ -99,7 +99,7 @@
 	<Matiere_de_l_uf code_apogee="">
 	 	<nom>Systèmes continus</nom>
 		<UF>I2MIAU11</UF>
-		<Responsable id="E05"></Responsable>
+		<Responsable>E05</Responsable>
 		<coef>0.5</coef>
 		<Facultatif>false</Facultatif>
 		<nbr_CM>9</nbr_CM>
@@ -113,7 +113,7 @@
 	<Matiere_de_l_uf code_apogee="">
 	 	<nom>Systèmes Discrets</nom>
 		<UF>I2MIAU11</UF>
-		<Responsable id="E12"></Responsable>
+		<Responsable>E12</Responsable>
 		<coef>0.5</coef>
 		<Facultatif>false</Facultatif>
 		<nbr_CM>5</nbr_CM>
@@ -127,7 +127,7 @@
 	<Matiere_de_l_uf code_apogee="">
 	 	<nom>Probabilités et statistiques</nom>
 		<UF>I2MIMT31</UF>
-		<Responsable id="E13"></Responsable>
+		<Responsable>E13</Responsable>
 		<coef>1</coef>
 		<Facultatif>false</Facultatif>
 		<nbr_CM>10</nbr_CM>
@@ -141,7 +141,7 @@
 	<Matiere_de_l_uf code_apogee="">
 	 	<nom>LV1</nom>
 		<UF>I2CCLA31</UF>
-		<Responsable id="E07"></Responsable>
+		<Responsable>E07</Responsable>
 		<coef>0.5</coef>
 		<Facultatif>false</Facultatif>
 		<nbr_CM>0</nbr_CM>
@@ -179,7 +179,7 @@
 	<Matiere_de_l_uf code_apogee="">
 	 	<nom>Activités Physiques et Sportives</nom>
 		<UF>I2CCGA25</UF>
-		<Responsable id="E08"></Responsable>
+		<Responsable>E08</Responsable>
 		<coef>0.25</coef>
 		<Facultatif>false</Facultatif>
 		<nbr_CM>0</nbr_CM>
@@ -837,7 +837,7 @@
 			<nature>CC</nature>
 			<coef>0.1</coef>
 		</Epreuve>
-	<Epreuve nom="CC2">
+		<Epreuve nom="CC2">
 			<nature>CC</nature>
 			<coef>0.4</coef>
 		</Epreuve>
@@ -856,7 +856,7 @@
 			<nature>TP</nature>
 			<coef>0.5</coef>
 		</Epreuve>
-	<Epreuve nom="TP2">
+		<Epreuve nom="TP2">
 			<nature>TP</nature>
 			<coef>0.5</coef>
 		</Epreuve>
@@ -875,7 +875,7 @@
 			<nature>CC</nature>
 			<coef>0.25</coef>
 		</Epreuve>
-	<Epreuve nom="TP">
+		<Epreuve nom="TP">
 			<nature>TP</nature>
 			<coef>0.25</coef>
 		</Epreuve>
@@ -894,7 +894,7 @@
 			<nature>CC</nature>
 			<coef>0.25</coef>
 		</Epreuve>
-	<Epreuve nom="TP">
+		<Epreuve nom="TP">
 			<nature>TP</nature>
 			<coef>0.25</coef>
 		</Epreuve>

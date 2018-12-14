@@ -64,7 +64,7 @@
 
 	<UF code_apogee="I2MIEN11">
 		<Intitule>Electronique</Intitule>
-		<Reponsable id="E06"></Reponsable>
+		<Reponsable>E06</Reponsable>
 		<Grands_Domaines>UF Scientifiques</Grands_Domaines>
 		<Heterogene>true</Heterogene>
 		<Eval_Par_Competences>false</Eval_Par_Competences>
@@ -217,7 +217,7 @@
 
 	<UF code_apogee="I3MIMT11">
 		<Intitule>Analyse Numérique, Optimisation, chaînes de Markov</Intitule>
-		<Responsable></Responsable>
+		<Responsable>E20</Responsable>
 		<Grands_Domaines>Tronc Commun</Grands_Domaines>
 		<Heterogene>true</Heterogene>
 		<Eval_Par_Competences>false</Eval_Par_Competences>
@@ -231,7 +231,7 @@
 	</UF>
 	<UF code_apogee="I3MIIF11">
 		<Intitule>Système d'exploitation, C, Réseaux, Base de données</Intitule>
-		<Responsable></Responsable>
+		<Responsable>E22</Responsable>
 		<Grands_Domaines>Tronc Commun</Grands_Domaines>
 		<Heterogene>true</Heterogene>
 		<Eval_Par_Competences>false</Eval_Par_Competences>
@@ -245,7 +245,7 @@
 	</UF>
 	<UF code_apogee="I3MIOM11">
 		<Intitule>EDO et leur résolution numérique</Intitule>
-		<Responsable></Responsable>
+		<Responsable>E25</Responsable>
 		<Grands_Domaines>Option Math Appliquées</Grands_Domaines>
 		<Heterogene>true</Heterogene>
 		<Eval_Par_Competences>false</Eval_Par_Competences>
@@ -259,7 +259,7 @@
 	</UF>
 	<UF code_apogee="I3MIOM21">
 		<Intitule>Calcul intégral et probabilités</Intitule>
-		<Responsable></Responsable>
+		<Responsable>E26</Responsable>
 		<Grands_Domaines>Option Math Appliquées</Grands_Domaines>
 		<Heterogene>true</Heterogene>
 		<Eval_Par_Competences>false</Eval_Par_Competences>
@@ -273,7 +273,7 @@
 	</UF>
 	<UF code_apogee="I3MIOI11">
 		<Intitule>Bases de données et programmation web</Intitule>
-		<Responsable></Responsable>
+		<Responsable>E24</Responsable>
 		<Grands_Domaines>Option Informatique et Réseaux</Grands_Domaines>
 		<Heterogene>true</Heterogene>
 		<Eval_Par_Competences>false</Eval_Par_Competences>
@@ -287,7 +287,7 @@
 	</UF>
 	<UF code_apogee="I3MIOI21">
 		<Intitule>Outils théoriques pour l'informatique</Intitule>
-		<Responsable></Responsable>
+		<Responsable>E27</Responsable>
 		<Grands_Domaines>Option Informatique et Réseaux</Grands_Domaines>
 		<Heterogene>true</Heterogene>
 		<Eval_Par_Competences>false</Eval_Par_Competences>
@@ -301,7 +301,7 @@
 	</UF>
 	<UF code_apogee="I3CCGE11">
 		<Intitule>Technique de recherche d'emploi et langues</Intitule>
-		<Responsable></Responsable>
+		<Responsable>E31</Responsable>
 		<Grands_Domaines>Transverse</Grands_Domaines>
 		<Heterogene>true</Heterogene>
 		<Eval_Par_Competences>false</Eval_Par_Competences>
@@ -315,7 +315,7 @@
 	</UF>
 	<UF code_apogee="I3CCIE11">
 		<Intitule>Ingénieurie et Enjeux écologiques</Intitule>
-		<Responsable></Responsable>
+		<Responsable>E33</Responsable>
 		<Grands_Domaines>Transverse</Grands_Domaines>
 		<Heterogene>true</Heterogene>
 		<Eval_Par_Competences>true</Eval_Par_Competences>
@@ -329,7 +329,7 @@
 	</UF>
 	<UF code_apogee="I3CCGA12">
 		<Intitule>Grandir en autonomie et construire son projet prof. III</Intitule>
-		<Responsable></Responsable>
+		<Responsable>E08</Responsable>
 		<Grands_Domaines>Transverse</Grands_Domaines>
 		<Heterogene>true</Heterogene>
 		<Eval_Par_Competences>true</Eval_Par_Competences>
@@ -344,7 +344,7 @@
 
 	<UF code_apogee="I3MIIF21">
 		<Intitule>Programmation système et réseaux</Intitule>
-		<Responsable></Responsable>
+		<Responsable>E22</Responsable>
 		<Grands_Domaines>UF Scientifique</Grands_Domaines>
 		<Heterogene>true</Heterogene>
 		<Eval_Par_Competences>false</Eval_Par_Competences>
@@ -359,7 +359,7 @@
 
 	<UF code_apogee="I3MIIL11">
 		<Intitule>POO et Graphes</Intitule>
-		<Responsable></Responsable>
+		<Responsable>E41</Responsable>
 		<Grands_Domaines>UF Scientifique</Grands_Domaines>
 		<Heterogene>true</Heterogene>
 		<Eval_Par_Competences>false</Eval_Par_Competences>
@@ -374,7 +374,7 @@
 
 	<UF code_apogee="I3MITS11">
 		<Intitule>Signaux et télécommunications</Intitule>
-		<Responsable></Responsable>
+		<Responsable>E42</Responsable>
 		<Grands_Domaines>UF Scientifique</Grands_Domaines>
 		<Heterogene>true</Heterogene>
 		<Eval_Par_Competences>false</Eval_Par_Competences>
@@ -389,7 +389,7 @@
 
 	<UF code_apogee="I3MIIM11">
 		<Intitule>Concepts hardware pour la transmission d'informations</Intitule>
-		<Responsable></Responsable>
+		<Responsable>E43</Responsable>
 		<Grands_Domaines>UF Scientifique</Grands_Domaines>
 		<Heterogene>true</Heterogene>
 		<Eval_Par_Competences>false</Eval_Par_Competences>
@@ -404,7 +404,7 @@
 
 	<UF code_apogee="I3CCGE41">
 		<Intitule>Gestion de l'entreprise et business english</Intitule>
-		<Responsable></Responsable>
+		<Responsable>E40</Responsable>
 		<Grands_Domaines>UF Transverses</Grands_Domaines>
 		<Heterogene>true</Heterogene>
 		<Eval_Par_Competences>false</Eval_Par_Competences>
@@ -419,7 +419,7 @@
 
 	<UF code_apogee="I3CCGA21">
 		<Intitule>Grandir en autonomie et construire son projet prof. III</Intitule>
-		<Responsable></Responsable>
+		<Responsable>E08</Responsable>
 		<Grands_Domaines>UF Transverses</Grands_Domaines>
 		<Heterogene>true</Heterogene>
 		<Eval_Par_Competences>false</Eval_Par_Competences>
@@ -434,7 +434,7 @@
 
 	<UF code_apogee="I3MIPH12">
 		<Intitule>Mécanique et matériaux</Intitule>
-		<Responsable></Responsable>
+		<Responsable>E34</Responsable>
 		<Grands_Domaines>UF Scientifiques</Grands_Domaines>
 		<Heterogene>true</Heterogene>
 		<Eval_Par_Competences>false</Eval_Par_Competences>
@@ -449,7 +449,7 @@
 
 	<UF code_apogee="I3MIMT21">
 		<Intitule>Introduction à la modélisation numérique</Intitule>
-		<Responsable></Responsable>
+		<Responsable>E36</Responsable>
 		<Grands_Domaines>UF Scientifiques</Grands_Domaines>
 		<Heterogene>true</Heterogene>
 		<Eval_Par_Competences>false</Eval_Par_Competences>
@@ -464,7 +464,7 @@
 
 	<UF code_apogee="I3MIMT31">
 		<Intitule>Calcul matriciel et géométrie</Intitule>
-	   <Responsable></Responsable>
+	   	<Responsable>E37</Responsable>
 		<Grands_Domaines>UF Scientifiques</Grands_Domaines>
 		<Heterogene>true</Heterogene>
 		<Eval_Par_Competences>false</Eval_Par_Competences>
@@ -479,7 +479,7 @@
 
 	<UF code_apogee="I3MIPJ11">
 		<Intitule>Projet modélisation</Intitule>
-		<Responsable></Responsable>
+		<Responsable>E38</Responsable>
 		<Grands_Domaines>UF Scientifiques</Grands_Domaines>
 		<Heterogene>true</Heterogene>
 		<Eval_Par_Competences>false</Eval_Par_Competences>
@@ -494,7 +494,7 @@
 
 	<UF code_apogee="I3MIMT41">
 		<Intitule>Statistiques</Intitule>
-		<Responsable></Responsable>
+		<Responsable>E39</Responsable>
 		<Grands_Domaines>UF Scientifiques</Grands_Domaines>
 		<Heterogene>true</Heterogene>
 		<Eval_Par_Competences>false</Eval_Par_Competences>
@@ -509,7 +509,7 @@
 
 	<UF code_apogee="I3MIIL21">
 		<Intitule>Programmation orientée objet</Intitule>
-		<Responsable></Responsable>
+		<Responsable>E16</Responsable>
 		<Grands_Domaines>UF Scientifiques</Grands_Domaines>
 		<Heterogene>true</Heterogene>
 		<Eval_Par_Competences>false</Eval_Par_Competences>
@@ -524,7 +524,7 @@
 
 	<UF code_apogee="I3CCGE41">
 		<Intitule>Gestion de l'entrerise et business english</Intitule>
-		<Responsable></Responsable>
+		<Responsable>E40</Responsable>
 		<Grands_Domaines>UF Transversales</Grands_Domaines>
 		<Heterogene>true</Heterogene>
 		<Eval_Par_Competences>false</Eval_Par_Competences>
@@ -538,9 +538,9 @@
 	</UF>
 
 	<UF code_apogee="I3CCGA21">
-		<Intitule>Statistiques</Intitule>
-		<Responsable></Responsable>
-		<Grands_Domaines>UF Scientifiques</Grands_Domaines>
+		<Intitule>Grandir en autonomie et construire son projet prof. III</Intitule>
+		<Responsable>E08</Responsable>
+		<Grands_Domaines>UF Transversales</Grands_Domaines>
 		<Heterogene>true</Heterogene>
 		<Eval_Par_Competences>false</Eval_Par_Competences>
 		<Continuite>false</Continuite>
