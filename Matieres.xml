@@ -3,6 +3,7 @@
 
 	<!-- PS: les matieres du S3 MIC ne sont pas encore intégrée (Pierre) -->
 
+	
 	<Matiere_de_l_uf code_apogee="">
 	 	<nom>Analyse II</nom>
 		<UF>I2MIMT21</UF>
@@ -141,6 +142,7 @@
 		</Competence>
 	</Matiere_de_l_uf>
 
+	
 	<Matiere_de_l_uf code_apogee="">
 	 	<nom>LV1</nom>
 		<UF>I2CCLA31</UF>
@@ -243,10 +245,11 @@
 		</Epreuve>
 	</Matiere_de_l_uf>
 
+	
 	<Matiere_de_l_uf code_apogee="">
 		<nom> Analyse Numérique, Optimisation</nom>
 		<UF>I3MIMT11</UF>
-		<Responsable> </Responsable>
+		<Responsable>E20</Responsable>
 		<coef>0.7</coef>
 		<presentiel></presentiel>
 		<nbr_CM>17</nbr_CM>
@@ -269,7 +272,7 @@
 	<Matiere_de_l_uf code_apogee="">
 		<nom>Chaines de Markov</nom>
 		<UF>I3MIMT11</UF>
-		<Responsable> </Responsable>
+		<Responsable>E21</Responsable>
 		<coef>0.3</coef>
 		<presentiel></presentiel>
 		<nbr_CM>7</nbr_CM>
@@ -284,7 +287,7 @@
 	<Matiere_de_l_uf code_apogee="">
 		<nom>Langage C</nom>
 		<UF>I3MIIF11</UF>
-		<Responsable> </Responsable>
+		<Responsable>E04</Responsable>
 		<coef>0.25</coef>
 		<presentiel></presentiel>
 		<nbr_CM>8</nbr_CM>
@@ -299,7 +302,7 @@
 	<Matiere_de_l_uf code_apogee="">
 		<nom>Système d'exploitation</nom>
 		<UF>I3MIIF11</UF>
-		<Responsable> </Responsable>
+		<Responsable>E23</Responsable>
 		<coef>0.25</coef>
 		<presentiel></presentiel>
 		<nbr_CM>7</nbr_CM>
@@ -314,7 +317,7 @@
 	<Matiere_de_l_uf code_apogee="">
 		<nom>Réseaux</nom>
 		<UF>I3MIIF11</UF>
-		<Responsable> </Responsable>
+		<Responsable>E22</Responsable>
 		<coef>0.25</coef>
 		<presentiel></presentiel>
 		<nbr_CM>15</nbr_CM>
@@ -329,7 +332,7 @@
 	<Matiere_de_l_uf code_apogee="">
 		<nom>Base de donée 2</nom>
 		<UF>I3MIIF11</UF>
-		<Responsable> </Responsable>
+		<Responsable>E24</Responsable>
 		<coef>0.25</coef>
 		<presentiel></presentiel>
 		<nbr_CM>4</nbr_CM>
@@ -344,7 +347,7 @@
 	<Matiere_de_l_uf code_apogee="">
 		<nom>EDO et leur résolution numérique</nom>
 		<UF>I3MIOM11</UF>
-		<Responsable> </Responsable>
+		<Responsable>E25</Responsable>
 		<coef>1</coef>
 		<presentiel></presentiel>
 		<nbr_CM>14</nbr_CM>
@@ -365,7 +368,7 @@
 	<Matiere_de_l_uf code_apogee="">
 		<nom>calcul intégral et probabilités</nom>
 		<UF>I3MIOM21</UF>
-		<Responsable> </Responsable>
+		<Responsable>E26</Responsable>
 		<coef>1</coef>
 		<presentiel></presentiel>
 		<nbr_CM>15</nbr_CM>
@@ -384,7 +387,7 @@
 	<Matiere_de_l_uf code_apogee="">
 		<nom>Bases de données 1</nom>
 		<UF>I3MIOI11</UF>
-		<Responsable> </Responsable>
+		<Responsable>E24</Responsable>
 		<coef>0.7</coef>
 		<presentiel></presentiel>
 		<nbr_CM>8</nbr_CM>
@@ -402,7 +405,7 @@
 	<Matiere_de_l_uf code_apogee="">
 		<nom>Programmation web</nom>
 		<UF>I3MIOI11</UF>
-		<Responsable> </Responsable>
+		<Responsable>E24</Responsable>
 		<coef>0.3</coef>
 		<presentiel></presentiel>
 		<nbr_CM>3</nbr_CM>
@@ -417,7 +420,7 @@
 	<Matiere_de_l_uf code_apogee="">
 		<nom>Calculabilité, complexité</nom>
 		<UF>I3MIOI21</UF>
-		<Responsable> </Responsable>
+		<Responsable>E28</Responsable>
 		<coef>0.34</coef>
 		<presentiel></presentiel>
 		<nbr_CM>9</nbr_CM>
@@ -432,7 +435,7 @@
 	<Matiere_de_l_uf code_apogee="">
 		<nom>Expression régulière</nom>
 		<UF>I3MIOI21</UF>
-		<Responsable> </Responsable>
+		<Responsable>E29</Responsable>
 		<coef>0.03</coef>
 		<presentiel></presentiel>
 		<nbr_CM>1</nbr_CM>
@@ -447,7 +450,7 @@
 	<Matiere_de_l_uf code_apogee="">
 		<nom>Programmation linéaire</nom>
 		<UF>I3MIOI21</UF>
-		<Responsable> </Responsable>
+		<Responsable>E30</Responsable>
 		<coef>0.3</coef>
 		<presentiel></presentiel>
 		<nbr_CM>5</nbr_CM>
@@ -462,7 +465,7 @@
 	<Matiere_de_l_uf code_apogee="">
 		<nom>Théorie de l'information et codages</nom>
 		<UF>I3MIOI21</UF>
-		<Responsable> </Responsable>
+		<Responsable>E27</Responsable>
 		<coef>0.33</coef>
 		<presentiel></presentiel>
 		<nbr_CM>10</nbr_CM>
@@ -474,10 +477,11 @@
 		</Epreuve>
 	</Matiere_de_l_uf>
 
+	
 	<Matiere_de_l_uf code_apogee="">
 		<nom>TRE</nom>
 		<UF>I3CCGE11</UF>
-		<Responsable> </Responsable>
+		<Responsable>E32</Responsable>
 		<coef>0.5</coef>
 		<presentiel></presentiel>
 		<nbr_CM>0</nbr_CM>
@@ -492,7 +496,7 @@
 	<Matiere_de_l_uf code_apogee="">
 		<nom>LV1 Job search</nom>
 		<UF>I3CCGE11</UF>
-		<Responsable> </Responsable>
+		<Responsable>E31</Responsable>
 		<coef>0.5</coef>
 		<presentiel></presentiel>
 		<nbr_CM>0</nbr_CM>
@@ -507,7 +511,7 @@
 	<Matiere_de_l_uf code_apogee="">
 		<nom>Ingénierie et Enjeux écologiques</nom>
 		<UF>I3CCIE11</UF>
-		<Responsable> </Responsable>
+		<Responsable>E33</Responsable>
 		<coef>1</coef>
 		<presentiel></presentiel>
 		<nbr_CM>18</nbr_CM>
@@ -522,7 +526,7 @@
 	<Matiere_de_l_uf code_apogee="">
 		<nom>Activités Physiques et Sportives</nom>
 		<UF>I3CCGE11</UF>
-		<Responsable> </Responsable>
+		<Responsable>E08</Responsable>
 		<coef>1</coef>
 		<presentiel></presentiel>
 		<nbr_CM>0</nbr_CM>
@@ -534,10 +538,11 @@
 		</Epreuve>
 	</Matiere_de_l_uf>
 
+	
 	<Matiere_de_l_uf code_apogee="">
-		<nom>Programmation système et réseaux</nom>
+		<nom>Programmation système et multithreading</nom>
 		<UF>I3MIIF21</UF>
-		<Responsable></Responsable>
+		<Responsable>E23</Responsable>
 		<coef>0.3</coef>
 		<presentiel></presentiel>
 		<nbr_CM>10</nbr_CM>
@@ -556,7 +561,7 @@
 	<Matiere_de_l_uf code_apogee="">
 		<nom>Applications internet et programmation socket</nom>
 		<UF>I3MIIF21</UF>
-		<Responsable></Responsable>
+		<Responsable>E22</Responsable>
 		<coef>0.2</coef>
 		<presentiel></presentiel>
 		<nbr_CM>6</nbr_CM>
@@ -571,7 +576,7 @@
 	<Matiere_de_l_uf code_apogee="">
 		<nom>BE réseaux, projet intégrateur</nom>
 		<UF>I3MIIF21</UF>
-		<Responsable></Responsable>
+		<Responsable>E22</Responsable>
 		<coef>0.5</coef>
 		<presentiel></presentiel>
 		<nbr_CM>0</nbr_CM>
@@ -586,7 +591,7 @@
 	<Matiere_de_l_uf code_apogee="">
 		<nom>Introduction à la POO</nom>
 		<UF>I3MIIL11</UF>
-		<Responsable></Responsable>
+		<Responsable>E24</Responsable>
 		<coef>0.33</coef>
 		<presentiel></presentiel>
 		<nbr_CM>5</nbr_CM>
@@ -601,7 +606,7 @@
 	<Matiere_de_l_uf code_apogee="">
 		<nom>Graphes</nom>
 		<UF>I3MIIL11</UF>
-		<Responsable></Responsable>
+		<Responsable>E41</Responsable>
 		<coef>0.33</coef>
 		<presentiel></presentiel>
 		<nbr_CM>8</nbr_CM>
@@ -616,7 +621,7 @@
 	<Matiere_de_l_uf code_apogee="">
 		<nom>BE Graphes</nom>
 		<UF>I3MIIL11</UF>
-		<Responsable></Responsable>
+		<Responsable>E41</Responsable>
 		<coef>0.33</coef>
 		<presentiel></presentiel>
 		<nbr_CM>0</nbr_CM>
@@ -631,7 +636,7 @@
 	<Matiere_de_l_uf code_apogee="">
 		<nom>Systèmes de télécommunications</nom>
 		<UF>I3MITS11</UF>
-		<Responsable></Responsable>
+		<Responsable>E42</Responsable>
 		<coef>0.5</coef>
 		<presentiel></presentiel>
 		<nbr_CM>10</nbr_CM>
@@ -650,7 +655,7 @@
 	<Matiere_de_l_uf code_apogee="">
 		<nom>Filtrage numérique</nom>
 		<UF>I3MITS11</UF>
-		<Responsable></Responsable>
+		<Responsable>E43</Responsable>
 		<coef>0.25</coef>
 		<presentiel></presentiel>
 		<nbr_CM>8</nbr_CM>
@@ -665,7 +670,7 @@
 	<Matiere_de_l_uf code_apogee="">
 		<nom>Signal</nom>
 		<UF>I3MITS11</UF>
-		<Responsable></Responsable>
+		<Responsable>E15</Responsable>
 		<coef>0.25</coef>
 		<presentiel></presentiel>
 		<nbr_CM>5</nbr_CM>
@@ -680,7 +685,7 @@
 	<Matiere_de_l_uf code_apogee="">
 		<nom>Langage d'assemblage</nom>
 		<UF>I3MIIM11</UF>
-		<Responsable></Responsable>
+		<Responsable>E44</Responsable>
 		<coef>0.33</coef>
 		<presentiel></presentiel>
 		<nbr_CM>7</nbr_CM>
@@ -695,7 +700,7 @@
 	<Matiere_de_l_uf code_apogee="">
 		<nom>Architecture matérielle</nom>
 		<UF>I3MIIM11</UF>
-		<Responsable></Responsable>
+		<Responsable>E44</Responsable>
 		<coef>0.33</coef>
 		<presentiel></presentiel>
 		<nbr_CM>1</nbr_CM>
@@ -710,7 +715,7 @@
 	<Matiere_de_l_uf code_apogee="">
 		<nom>Bureau d'étude CHTI</nom>
 		<UF>I3MIIM11</UF>
-		<Responsable></Responsable>
+		<Responsable>E43</Responsable>
 		<coef>0.33</coef>
 		<presentiel></presentiel>
 		<nbr_CM>0</nbr_CM>
@@ -722,10 +727,11 @@
 		</Epreuve>
 	</Matiere_de_l_uf>
 
+	
 	<Matiere_de_l_uf code_apogee="">
 		<nom>Business Game, Simgest</nom>
 		<UF>I3CCGE41</UF>
-		<Responsable></Responsable>
+		<Responsable>E40</Responsable>
 		<coef>0.35</coef>
 		<presentiel></presentiel>
 		<nbr_CM>0</nbr_CM>
@@ -740,7 +746,7 @@
 	<Matiere_de_l_uf code_apogee="">
 		<nom>Gestion financière</nom>
 		<UF>I3CCGE41</UF>
-		<Responsable></Responsable>
+		<Responsable>E40</Responsable>
 		<coef>0.25</coef>
 		<presentiel></presentiel>
 		<nbr_CM>4</nbr_CM>
@@ -755,7 +761,7 @@
 	<Matiere_de_l_uf code_apogee="">
 		<nom>English business</nom>
 		<UF>I3CCGE41</UF>
-		<Responsable></Responsable>
+		<Responsable>E31</Responsable>
 		<coef>0.4</coef>
 		<presentiel></presentiel>
 		<nbr_CM>0</nbr_CM>
@@ -770,7 +776,7 @@
 	<Matiere_de_l_uf code_apogee="">
 		<nom>Activités Physiques et Sportives</nom>
 		<UF>I3CCGA21</UF>
-		<Responsable></Responsable>
+		<Responsable>E08</Responsable>
 		<coef>0.33</coef>
 		<presentiel></presentiel>
 		<nbr_CM>0</nbr_CM>
@@ -785,7 +791,7 @@
 	<Matiere_de_l_uf code_apogee="">
 		<nom>Module d'ouverture</nom>
 		<UF>I3CCGA21</UF>
-		<Responsable></Responsable>
+		<Responsable></Responsable> <!-- toujours pas de responsable -->
 		<coef>0.33</coef>
 		<presentiel></presentiel>
 		<nbr_CM>0</nbr_CM>
@@ -800,7 +806,7 @@
 	<Matiere_de_l_uf code_apogee="">
 		<nom>PPI</nom>
 		<UF>I3CCGA21</UF>
-		<Responsable></Responsable>
+		<Responsable>E18</Responsable>
 		<coef>0.33</coef>
 		<presentiel></presentiel>
 		<nbr_CM>0</nbr_CM>
@@ -812,10 +818,11 @@
 		</Epreuve>
 	</Matiere_de_l_uf>
 
+	
 	<Matiere_de_l_uf code_apogee="">
 		<nom>Matériaux</nom>
 		<UF>I3MIPH12</UF>
-		<Responsable> </Responsable>
+		<Responsable>E35</Responsable>
 		<coef>0.5</coef>
 		<presentiel></presentiel>
 		<nbr_CM>8</nbr_CM>
@@ -830,7 +837,7 @@
 	<Matiere_de_l_uf code_apogee="">
 		<nom>Mécanique</nom>
 		<UF>I3MIPH12</UF>
-		<Responsable> </Responsable>
+		<Responsable>E34</Responsable>
 		<coef>0.5</coef>
 		<presentiel></presentiel>
 		<nbr_CM>10</nbr_CM>
@@ -849,7 +856,7 @@
 	<Matiere_de_l_uf code_apogee="">
 		<nom>Introduction à la modélisation numérique</nom>
 		<UF>I3MIPH12</UF>
-		<Responsable> </Responsable>
+		<Responsable>E36</Responsable>
 		<coef>1</coef>
 		<presentiel></presentiel>
 		<nbr_CM>11</nbr_CM>
@@ -868,7 +875,7 @@
 	<Matiere_de_l_uf code_apogee="">
 		<nom>Calcul matriciel</nom>
 		<UF>I3MIMT31</UF>
-		<Responsable> </Responsable>
+		<Responsable>E37</Responsable>
 		<coef>0.5</coef>
 		<presentiel></presentiel>
 		<nbr_CM>7</nbr_CM>
@@ -887,7 +894,7 @@
 	<Matiere_de_l_uf code_apogee="">
 		<nom>Géométrie</nom>
 		<UF>I3MIMT31</UF>
-		<Responsable> </Responsable>
+		<Responsable>E34</Responsable>
 		<coef>0.5</coef>
 		<presentiel></presentiel>
 		<nbr_CM>6</nbr_CM>
@@ -906,7 +913,7 @@
 	<Matiere_de_l_uf code_apogee="">
 		<nom>Statistiques descriptives</nom>
 		<UF>I3MIMT41</UF>
-		<Responsable> </Responsable>
+		<Responsable>E39</Responsable>
 		<coef>0.25</coef>
 		<presentiel></presentiel>
 		<nbr_CM>5</nbr_CM>
@@ -917,7 +924,7 @@
 	<Matiere_de_l_uf code_apogee="">
 		<nom>Compléments de probabilités</nom>
 		<UF>I3MIMT41</UF>
-		<Responsable> </Responsable>
+		<Responsable>E39</Responsable>
 		<coef>0.25</coef>
 		<presentiel></presentiel>
 		<nbr_CM>2</nbr_CM>
@@ -928,7 +935,7 @@
 	<Matiere_de_l_uf code_apogee="">
 		<nom>Statistiques inférentielles</nom>
 		<UF>I3MIMT41</UF>
-		<Responsable> </Responsable>
+		<Responsable>E39</Responsable>
 		<coef>0.25</coef>
 		<presentiel></presentiel>
 		<nbr_CM>12</nbr_CM>
@@ -939,7 +946,7 @@
 	<Matiere_de_l_uf code_apogee="">
 		<nom>Sondages</nom>
 		<UF>I3MIMT41</UF>
-		<Responsable> </Responsable>
+		<Responsable>E39</Responsable>
 		<coef>0.25</coef>
 		<presentiel></presentiel>
 		<nbr_CM>6</nbr_CM>
@@ -950,7 +957,7 @@
 	<Matiere_de_l_uf code_apogee="">
 		<nom>Programmation Orientée Objet</nom>
 		<UF>I3MIIL21</UF>
-		<Responsable> </Responsable>
+		<Responsable>E16</Responsable>
 		<coef>1</coef>
 		<presentiel></presentiel>
 		<nbr_CM>12</nbr_CM>
@@ -970,93 +977,4 @@
 		</Epreuve>
 	</Matiere_de_l_uf>
 
-	<Matiere_de_l_uf code_apogee="">
-		<nom>Business Game, Simgest</nom>
-		<UF>I3CCGE41</UF>
-		<Responsable></Responsable>
-		<coef>0.35</coef>
-		<presentiel></presentiel>
-		<nbr_CM>0</nbr_CM>
-		<nbr_TD>8</nbr_TD>
-		<nbr_TP>0</nbr_TP>
-		<Epreuve nom="CC">
-			<nature>CC</nature>
-			<coef>0.35</coef>
-		</Epreuve>
-	</Matiere_de_l_uf>
-
-	<Matiere_de_l_uf code_apogee="">
-		<nom>Gestion financière</nom>
-		<UF>I3CCGE41</UF>
-		<Responsable></Responsable>
-		<coef>0.25</coef>
-		<presentiel></presentiel>
-		<nbr_CM>4</nbr_CM>
-		<nbr_TD>0</nbr_TD>
-		<nbr_TP>0</nbr_TP>
-		<Epreuve nom="CC">
-			<nature>CC</nature>
-			<coef>0.25</coef>
-		</Epreuve>
-	</Matiere_de_l_uf>
-
-	<Matiere_de_l_uf code_apogee="">
-		<nom>English business</nom>
-		<UF>I3CCGE41</UF>
-		<Responsable></Responsable>
-		<coef>0.4</coef>
-		<presentiel></presentiel>
-		<nbr_CM>0</nbr_CM>
-		<nbr_TD>10</nbr_TD>
-		<nbr_TP>0</nbr_TP>
-		<Epreuve nom="CC">
-			<nature>CC</nature>
-			<coef>0.4</coef>
-		</Epreuve>
-	</Matiere_de_l_uf>
-
-	<Matiere_de_l_uf code_apogee="">
-		<nom>Activités Physiques et Sportives</nom>
-		<UF>I3CCGA21</UF>
-		<Responsable></Responsable>
-		<coef>0.33</coef>
-		<presentiel></presentiel>
-		<nbr_CM>0</nbr_CM>
-		<nbr_TD>12</nbr_TD>
-		<nbr_TP>0</nbr_TP>
-		<Epreuve nom="Epreuve_sport">
-			<nature>Epreuve_sport</nature>
-			<coef>0.35</coef>
-		</Epreuve>
-	</Matiere_de_l_uf>
-
-	<Matiere_de_l_uf code_apogee="">
-		<nom>Module d'ouverture</nom>
-		<UF>I3CCGA21</UF>
-		<Responsable></Responsable>
-		<coef>0.33</coef>
-		<presentiel></presentiel>
-		<nbr_CM>0</nbr_CM>
-		<nbr_TD>14</nbr_TD>
-		<nbr_TP>0</nbr_TP>
-		<Epreuve nom="Eval_Modouv">
-			<nature>CC</nature>
-			<coef>0.33</coef>
-		</Epreuve>
-	</Matiere_de_l_uf>
-
-	<Matiere_de_l_uf code_apogee="">
-		<nom>PPI</nom>
-		<UF>I3CCGA21</UF>
-		<Responsable></Responsable>
-		<coef>0.33</coef>
-		<presentiel></presentiel>
-		<nbr_CM>0</nbr_CM>
-		<nbr_TD>1</nbr_TD>
-		<nbr_TP>0</nbr_TP>
-		<Epreuve nom="Eval_PPI">
-			<nature>CC</nature>
-			<coef>0.33</coef>
-		</Epreuve>
-	</Matiere_de_l_uf>
 </Matieres>
