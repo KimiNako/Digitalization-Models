@@ -24,8 +24,8 @@
 </Matiere_de_l_uf>
 
 <Matiere_de_l_uf code_apogee="">
-	<nom></nom>
-	<UF></UF>
+	<nom>Electromagnetisme</nom>
+	<UF>I2MIPH11</UF>
 	<Responsable>E03</Responsable>
 	<coef>1</coef>
 	<Facultatif>false</Facultatif>
@@ -59,7 +59,7 @@
 	<nbr_TP>5</nbr_TP>
 	<Epreuve nom="CC">
 		<nature>CC</nature>
-		<coef>1</coef>
+		<coef>0.5</coef>
 	</Epreuve>
 </Matiere_de_l_uf>
 
@@ -75,7 +75,7 @@
 	<nbr_TP>0</nbr_TP>
 	<Epreuve nom="CC">
 		<nature>CC</nature>
-		<coef>1</coef>
+		<coef>0.5</coef>
 	</Epreuve>
 </Matiere_de_l_uf>
 
@@ -143,11 +143,11 @@
 	<nbr_TP>4</nbr_TP>
 	<Epreuve nom="CC1">
 		<nature>CC</nature>
-		<coef>0.5</coef>
+		<coef>0.25</coef>
 	</Epreuve>
 	<Epreuve nom="CC2">
 		<nature>CC</nature>
-		<coef>0.5</coef>
+		<coef>0.25</coef>
 	</Epreuve>
 </Matiere_de_l_uf>
 
@@ -163,16 +163,16 @@
 	<nbr_TP>3</nbr_TP>
 	<Epreuve nom="CC">
 		<nature>CC</nature>
-		<coef>0.5</coef>
+		<coef>0.25</coef>
 	</Epreuve>
 	<Epreuve nom="TP">
 		<nature>CC</nature>
-		<coef>0.5</coef>
+		<coef>0.25</coef>
 	</Epreuve>
 </Matiere_de_l_uf>
 
 <Matiere_de_l_uf code_apogee="">
-	<nom>Expresion</nom>
+	<nom>Expression</nom>
 	<UF>I2CCGE31</UF>
 	<Responsable>E45</Responsable>
 	<coef>0.25</coef>
@@ -183,7 +183,7 @@
 	<nbr_TP>0</nbr_TP>
 	<Epreuve nom="CC">
 		<nature>CC</nature>
-		<coef>1</coef>
+		<coef>0.25</coef>
 	</Epreuve>
 </Matiere_de_l_uf>
 
@@ -199,14 +199,14 @@
 	<nbr_TP>0</nbr_TP>
 	<Epreuve nom="CC">
 		<nature>CC</nature>
-		<coef>1</coef>
+		<coef>0.3</coef>
 	</Epreuve>
 </Matiere_de_l_uf>
 
 <Matiere_de_l_uf code_apogee="">
 	<nom>LV1</nom>
 	<UF>I2CCGE31</UF>
-	<Responsable  id="E07"></Responsable>
+	<Responsable>E07</Responsable>
 	<coef>0.25</coef>
 	<Facultatif>false</Facultatif>
 	<presentiel></presentiel>
@@ -215,14 +215,14 @@
 	<nbr_TP>0</nbr_TP>
 	<Epreuve nom="CC">
 		<nature>CC</nature>
-		<coef>1</coef>
+		<coef>0.25</coef>
 	</Epreuve>
 </Matiere_de_l_uf>
 
 <Matiere_de_l_uf code_apogee="">
 	<nom>Stage ouvrier</nom>
 	<UF>I2CCGE31</UF>
-	<Responsable></Responsable>
+	<Responsable>E45</Responsable>
 	<coef>0.2</coef>
 	<Facultatif>false</Facultatif>
 	<presentiel></presentiel>
@@ -231,11 +231,11 @@
 	<nbr_TP>0</nbr_TP>
 	<Epreuve nom="Rapport">
 		<nature>Rapport</nature>
-		<coef>0.5</coef>
+		<coef>0.1</coef>
 	</Epreuve>
 	<Epreuve nom="Soutenance">
 		<nature>Oral</nature>
-		<coef>0.5</coef>
+		<coef>0.1</coef>
 	</Epreuve>
 </Matiere_de_l_uf>
 

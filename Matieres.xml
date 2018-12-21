@@ -1,10 +1,263 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Matieres>  
 
-	<!-- PS: les matieres du S3 MIC ne sont pas encore intégrée (Pierre) -->
+	<Matiere_de_l_uf code_apogee=""> 		<!--S3 MIC-->
+		<nom>Analyse et Algèbre</nom>
+		<UF>I2MIMT11</UF>
+		<Responsable>E02</Responsable>
+		<coef>1</coef>
+		<Facultatif>false</Facultatif>
+		<presentiel></presentiel>
+		<nbr_CM>28</nbr_CM>
+		<nbr_TD>32</nbr_TD>
+		<nbr_TP>0</nbr_TP>
+		<Epreuve nom="CC1">
+			<nature>CC</nature>
+			<coef>0.2</coef>
+		</Epreuve>
+		<Epreuve nom="CC2">
+			<nature>CC</nature>
+			<coef>0.3</coef>
+		</Epreuve>
+		<Epreuve nom="CC3">
+			<nature>CC</nature>
+			<coef>0.5</coef>
+		</Epreuve>
+	</Matiere_de_l_uf>
 
-	
 	<Matiere_de_l_uf code_apogee="">
+		<nom>Electromagnetisme</nom>
+		<UF>I2MIPH11</UF>
+		<Responsable>E03</Responsable>
+		<coef>1</coef>
+		<Facultatif>false</Facultatif>
+		<presentiel></presentiel>
+		<nbr_CM>15</nbr_CM>
+		<nbr_TD>8</nbr_TD>
+		<nbr_TP>3</nbr_TP>
+		<Epreuve nom="CC1">
+			<nature>CC</nature>
+			<coef>0.2</coef>
+		</Epreuve>
+		<Epreuve nom="CC2">
+			<nature>CC</nature>
+			<coef>0.6</coef>
+		</Epreuve>
+		<Epreuve nom="TP">
+			<nature>CC</nature>
+			<coef>0.2</coef>
+		</Epreuve>
+	</Matiere_de_l_uf>
+
+	<Matiere_de_l_uf code_apogee="">
+		<nom>Algorithmique et Programmation</nom>
+		<UF>I2MIIF11</UF>
+		<Responsable>E11</Responsable>
+		<coef>0.5</coef>
+		<Facultatif>false</Facultatif>
+		<presentiel></presentiel>
+		<nbr_CM>5</nbr_CM>
+		<nbr_TD>10</nbr_TD>
+		<nbr_TP>5</nbr_TP>
+		<Epreuve nom="CC">
+			<nature>CC</nature>
+			<coef>0.5</coef>
+		</Epreuve>
+	</Matiere_de_l_uf>
+
+	<Matiere_de_l_uf code_apogee="">
+		<nom>Unix</nom>
+		<UF>I2MIIF11</UF>
+		<Responsable>E04</Responsable>
+		<coef>0.5</coef>
+		<Facultatif>false</Facultatif>
+		<presentiel></presentiel>
+		<nbr_CM>6</nbr_CM>
+		<nbr_TD>9</nbr_TD>
+		<nbr_TP>0</nbr_TP>
+		<Epreuve nom="CC">
+			<nature>CC</nature>
+			<coef>0.5</coef>
+		</Epreuve>
+	</Matiere_de_l_uf>
+
+	<Matiere_de_l_uf code_apogee="">
+		<nom>Logique combinatoire</nom>
+		<UF>I2MIIM11</UF>
+		<Responsable>E05</Responsable>
+		<Facultatif>false</Facultatif>
+		<presentiel></presentiel>
+		<nbr_CM>4</nbr_CM>
+		<nbr_TD>2</nbr_TD>
+		<nbr_TP>0</nbr_TP>
+		<Competence nom="Logique combinatoire"/>
+		<Epreuve nom="CC">
+			<nature>CC</nature>
+			<coef>1</coef>
+		</Epreuve>
+	</Matiere_de_l_uf>
+
+	<Matiere_de_l_uf code_apogee="">
+		<nom>Logique séquentielle</nom>
+		<UF>I2MIIM11</UF>
+		<Responsable>E05</Responsable>
+		<Facultatif>false</Facultatif>
+		<presentiel></presentiel>
+		<nbr_CM>4</nbr_CM>
+		<nbr_TD>2</nbr_TD>
+		<nbr_TP>0</nbr_TP>
+		<Competence nom="Logique séquentielle"/>
+		<Epreuve nom="CC1">
+			<nature>CC</nature>
+			<coef>0.5</coef>
+		</Epreuve>
+		<Epreuve nom="CC2">
+			<nature>CC</nature>
+			<coef>0.5</coef>
+		</Epreuve>
+	</Matiere_de_l_uf>
+
+	<Matiere_de_l_uf code_apogee="">
+		<nom>SFO</nom>
+		<UF>I2MIIM11</UF>
+		<Responsable>E05</Responsable>
+		<Facultatif>false</Facultatif>
+		<presentiel></presentiel>
+		<nbr_CM>8</nbr_CM>
+		<nbr_TD>4</nbr_TD>
+		<nbr_TP>2</nbr_TP>
+		<Competence nom="SFO"/>
+		<Epreuve nom="CC">
+			<nature>CC</nature>
+			<coef>1</coef>
+		</Epreuve>
+	</Matiere_de_l_uf>
+
+	<Matiere_de_l_uf code_apogee="">
+		<nom>Electronique analogique</nom>
+		<UF>I2MIEN11</UF>
+		<Responsable>E14</Responsable>
+		<coef>0.5</coef>
+		<Facultatif>false</Facultatif>
+		<presentiel></presentiel>
+		<nbr_CM>9</nbr_CM>
+		<nbr_TD>7</nbr_TD>
+		<nbr_TP>4</nbr_TP>
+		<Epreuve nom="CC1">
+			<nature>CC</nature>
+			<coef>0.25</coef>
+		</Epreuve>
+		<Epreuve nom="CC2">
+			<nature>CC</nature>
+			<coef>0.25</coef>
+		</Epreuve>
+	</Matiere_de_l_uf>
+
+	<Matiere_de_l_uf code_apogee="">
+		<nom>Electronique numérique</nom>
+		<UF>I2MIEN11</UF>
+		<Responsable>E06</Responsable>
+		<coef>0.5</coef>
+		<Facultatif>false</Facultatif>
+		<presentiel></presentiel>
+		<nbr_CM>7</nbr_CM>
+		<nbr_TD>7</nbr_TD>
+		<nbr_TP>3</nbr_TP>
+		<Epreuve nom="CC">
+			<nature>CC</nature>
+			<coef>0.25</coef>
+		</Epreuve>
+		<Epreuve nom="TP">
+			<nature>CC</nature>
+			<coef>0.25</coef>
+		</Epreuve>
+	</Matiere_de_l_uf>
+
+	<Matiere_de_l_uf code_apogee="">
+		<nom>Expression</nom>
+		<UF>I2CCGE31</UF>
+		<Responsable>E45</Responsable>
+		<coef>0.25</coef>
+		<Facultatif>false</Facultatif>
+		<presentiel></presentiel>
+		<nbr_CM>0</nbr_CM>
+		<nbr_TD>7</nbr_TD>
+		<nbr_TP>0</nbr_TP>
+		<Epreuve nom="CC">
+			<nature>CC</nature>
+			<coef>0.25</coef>
+		</Epreuve>
+	</Matiere_de_l_uf>
+
+	<Matiere_de_l_uf code_apogee="">
+		<nom>Economie</nom>
+		<UF>I2CCGE31</UF>
+		<Responsable>E46</Responsable>
+		<coef>0.3</coef>
+		<Facultatif>false</Facultatif>
+		<presentiel></presentiel>
+		<nbr_CM>7.5</nbr_CM>
+		<nbr_TD>0</nbr_TD>
+		<nbr_TP>0</nbr_TP>
+		<Epreuve nom="CC">
+			<nature>CC</nature>
+			<coef>0.3</coef>
+		</Epreuve>
+	</Matiere_de_l_uf>
+
+	<Matiere_de_l_uf code_apogee="">
+		<nom>LV1</nom>
+		<UF>I2CCGE31</UF>
+		<Responsable>E07</Responsable>
+		<coef>0.25</coef>
+		<Facultatif>false</Facultatif>
+		<presentiel></presentiel>
+		<nbr_CM>0</nbr_CM>
+		<nbr_TD>12</nbr_TD>
+		<nbr_TP>0</nbr_TP>
+		<Epreuve nom="CC">
+			<nature>CC</nature>
+			<coef>0.25</coef>
+		</Epreuve>
+	</Matiere_de_l_uf>
+
+	<Matiere_de_l_uf code_apogee="">
+		<nom>Stage ouvrier</nom>
+		<UF>I2CCGE31</UF>
+		<Responsable>E45</Responsable>
+		<coef>0.2</coef>
+		<Facultatif>false</Facultatif>
+		<presentiel></presentiel>
+		<nbr_CM>0</nbr_CM>
+		<nbr_TD>1</nbr_TD>
+		<nbr_TP>0</nbr_TP>
+		<Epreuve nom="Rapport">
+			<nature>Rapport</nature>
+			<coef>0.1</coef>
+		</Epreuve>
+		<Epreuve nom="Soutenance">
+			<nature>Oral</nature>
+			<coef>0.1</coef>
+		</Epreuve>
+	</Matiere_de_l_uf>
+
+	<Matiere_de_l_uf code_apogee="">
+		<nom>Activités Physiques et Sportives</nom>
+		<UF>I2CCGA12</UF>
+		<Responsable>E08</Responsable>
+		<coef>1</coef>
+		<Facultatif>false</Facultatif>
+		<presentiel></presentiel>
+		<nbr_CM>0</nbr_CM>
+		<nbr_TD>13</nbr_TD>
+		<nbr_TP>0</nbr_TP>
+		<Competence nom="APS">
+			<description>APS</description>
+		</Competence>
+	</Matiere_de_l_uf>
+
+
+	<Matiere_de_l_uf code_apogee="">		<!--S4 MIC-->
 	 	<nom>Analyse II</nom>
 		<UF>I2MIMT21</UF>
 		<Responsable>E09</Responsable>
@@ -67,7 +320,7 @@
 	</Matiere_de_l_uf>
 
 	<Matiere_de_l_uf code_apogee="">
-	 	<nom>Algorithmique et Programmation</nom>
+	 	<nom>Algorithmique et Programmation II</nom>
 		<UF>I2MIIF21</UF>
 		<Responsable>E11</Responsable>
 		<coef>0.67</coef>
@@ -246,7 +499,7 @@
 	</Matiere_de_l_uf>
 
 	
-	<Matiere_de_l_uf code_apogee="">
+	<Matiere_de_l_uf code_apogee="">		<!--S5 MIC-->
 		<nom> Analyse Numérique, Optimisation</nom>
 		<UF>I3MIMT11</UF>
 		<Responsable>E20</Responsable>
@@ -539,7 +792,7 @@
 	</Matiere_de_l_uf>
 
 	
-	<Matiere_de_l_uf code_apogee="">
+	<Matiere_de_l_uf code_apogee="">			<!--S6 IR-->
 		<nom>Programmation système et multithreading</nom>
 		<UF>I3MIIF21</UF>
 		<Responsable>E23</Responsable>
@@ -819,7 +1072,7 @@
 	</Matiere_de_l_uf>
 
 	
-	<Matiere_de_l_uf code_apogee="">
+	<Matiere_de_l_uf code_apogee="">			<!--S6 GMM-->
 		<nom>Matériaux</nom>
 		<UF>I3MIPH12</UF>
 		<Responsable>E35</Responsable>
