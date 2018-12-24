@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Departements>
+    <Departement acronyme="STPI">
+	    <nom>Sciences et Techniques Pour l'Ingénieur</nom>
+	    <dateCreation>1963-03-01</dateCreation>
+	    <Directeur>E01</Directeur>
+    </Departement>
+    <Departement acronyme="GEI">
+	    <nom>Génie Electrique et Informatique</nom>
+	    <dateCreation>1963-03-01</dateCreation>
+	    <Directeur>E48</Directeur>
+    </Departement>
+    <Departement acronyme="GMM">
+	    <nom>Génie Mathématiques et Modélisation</nom>
+	    <dateCreation>1957-03-01</dateCreation>
+	    <Directeur>E49</Directeur>
+    </Departement>
+    <Departement acronyme="GP">
+	    <nom>Génie Physique</nom>
+	    <dateCreation>1957-03-01</dateCreation>
+	    <Directeur>E50</Directeur>
+    </Departement>
+    <Departement acronyme="GB">
+	    <nom>Génie Biologie</nom>
+	    <dateCreation>1957-03-01</dateCreation>
+	    <Directeur>E51</Directeur>
+    </Departement>
+    <Departement acronyme="CSH">
+	    <nom>Centre des Sciences Humaines</nom>
+	    <dateCreation>1957-03-01</dateCreation>
+	    <Directeur>E52</Directeur>
+    </Departement>
+    <Departement acronyme="APS">
+	    <nom>Activités Physiques et Sportives</nom>
+	    <dateCreation>1957-03-01</dateCreation>
+	    <Directeur>E53</Directeur>
+    </Departement>
+</Departements>

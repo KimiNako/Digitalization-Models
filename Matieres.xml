@@ -196,7 +196,7 @@
 		<coef>0.3</coef>
 		<Facultatif>false</Facultatif>
 		<presentiel></presentiel>
-		<nbr_CM>7.5</nbr_CM>
+		<nbr_CM>7</nbr_CM>
 		<nbr_TD>0</nbr_TD>
 		<nbr_TP>0</nbr_TP>
 		<Epreuve nom="CC">
@@ -263,6 +263,7 @@
 		<Responsable>E09</Responsable>
 		<coef>0.45</coef>
 		<Facultatif>false</Facultatif>
+        <presentiel></presentiel>
 		<nbr_CM>10</nbr_CM>
 		<nbr_TD>13</nbr_TD>
 		<nbr_TP>0</nbr_TP>
@@ -283,6 +284,7 @@
 		<Responsable>E15</Responsable>
 		<coef>0.55</coef>
 		<Facultatif>false</Facultatif>
+        <presentiel></presentiel>
 		<nbr_CM>8</nbr_CM>
 		<nbr_TD>9</nbr_TD>
 		<nbr_TP>4</nbr_TP>
@@ -302,6 +304,7 @@
 		<Responsable>E10</Responsable>
 		<coef>1</coef>
 		<Facultatif>false</Facultatif>
+        <presentiel></presentiel>
 		<nbr_CM>20</nbr_CM>
 		<nbr_TD>13</nbr_TD>
 		<nbr_TP>4</nbr_TP>
@@ -325,6 +328,7 @@
 		<Responsable>E11</Responsable>
 		<coef>0.67</coef>
 		<Facultatif>false</Facultatif>
+        <presentiel></presentiel>
 		<nbr_CM>9</nbr_CM>
 		<nbr_TD>9</nbr_TD>
 		<nbr_TP>8</nbr_TP>
@@ -344,6 +348,7 @@
 		<Responsable>E16</Responsable>
 		<coef>0.33</coef>
 		<Facultatif>false</Facultatif>
+        <presentiel></presentiel>
 		<nbr_CM>0</nbr_CM>
 		<nbr_TD>6</nbr_TD>
 		<nbr_TP>0</nbr_TP>
@@ -359,6 +364,7 @@
 		<Responsable>E05</Responsable>
 		<coef>0.5</coef>
 		<Facultatif>false</Facultatif>
+        <presentiel></presentiel>
 		<nbr_CM>9</nbr_CM>
 		<nbr_TD>6</nbr_TD>
 		<nbr_TP>0</nbr_TP>
@@ -373,6 +379,7 @@
 		<Responsable>E12</Responsable>
 		<coef>0.5</coef>
 		<Facultatif>false</Facultatif>
+        <presentiel></presentiel>
 		<nbr_CM>5</nbr_CM>
 		<nbr_TD>4</nbr_TD>
 		<nbr_TP>3</nbr_TP>
@@ -387,6 +394,7 @@
 		<Responsable>E13</Responsable>
 		<coef>1</coef>
 		<Facultatif>false</Facultatif>
+        <presentiel></presentiel>
 		<nbr_CM>10</nbr_CM>
 		<nbr_TD>18</nbr_TD>
 		<nbr_TP>1</nbr_TP>
@@ -402,6 +410,7 @@
 		<Responsable>E07</Responsable>
 		<coef>0.5</coef>
 		<Facultatif>false</Facultatif>
+        <presentiel></presentiel>
 		<nbr_CM>0</nbr_CM>
 		<nbr_TD>10</nbr_TD>
 		<nbr_TP>0</nbr_TP>
@@ -421,8 +430,9 @@
 		<Responsable>E17</Responsable>
 		<coef>0.5</coef>
 		<Facultatif>false</Facultatif>
+        <presentiel></presentiel>
 		<nbr_CM>0</nbr_CM>
-		<nbr_TD>13.5</nbr_TD>
+		<nbr_TD>13</nbr_TD>
 		<nbr_TP>0</nbr_TP>
 		<Epreuve nom="CC1">
 			<nature>CC</nature>
@@ -440,6 +450,7 @@
 		<Responsable>E08</Responsable>
 		<coef>0.25</coef>
 		<Facultatif>false</Facultatif>
+        <presentiel></presentiel>
 		<nbr_CM>0</nbr_CM>
 		<nbr_TD>12</nbr_TD>
 		<nbr_TP>0</nbr_TP>
@@ -451,9 +462,10 @@
 	<Matiere_de_l_uf code_apogee="">
 	 	<nom>Module d'ouverture</nom>
 		<UF>I2CCGA25</UF>
-		<Responsable></Responsable> <!-- Il y en a pas -->
+		<Responsable>E47</Responsable>
 		<coef>0.25</coef>
 		<Facultatif>false</Facultatif>
+        <presentiel></presentiel>
 		<nbr_CM>0</nbr_CM>
 		<nbr_TD>9</nbr_TD>
 		<nbr_TP>0</nbr_TP>
@@ -468,6 +480,7 @@
 		<Responsable>E18</Responsable>
 		<coef>0.25</coef>
 		<Facultatif>false</Facultatif>
+        <presentiel></presentiel>
 		<nbr_CM>0</nbr_CM>
 		<nbr_TD>14</nbr_TD>
 		<nbr_TP>0</nbr_TP>
@@ -482,6 +495,7 @@
 		<Responsable>E19</Responsable>
 		<coef>0.25</coef>
 		<Facultatif>false</Facultatif>
+        <presentiel></presentiel>
 		<nbr_CM>0</nbr_CM>
 		<nbr_TD>10</nbr_TD>
 		<nbr_TP>0</nbr_TP>
@@ -504,6 +518,7 @@
 		<UF>I3MIMT11</UF>
 		<Responsable>E20</Responsable>
 		<coef>0.7</coef>
+        <Facultatif>false</Facultatif>
 		<presentiel></presentiel>
 		<nbr_CM>17</nbr_CM>
 		<nbr_TD>14</nbr_TD>
@@ -527,6 +542,7 @@
 		<UF>I3MIMT11</UF>
 		<Responsable>E21</Responsable>
 		<coef>0.3</coef>
+        <Facultatif>false</Facultatif>
 		<presentiel></presentiel>
 		<nbr_CM>7</nbr_CM>
 		<nbr_TD>7</nbr_TD>
@@ -542,6 +558,7 @@
 		<UF>I3MIIF11</UF>
 		<Responsable>E04</Responsable>
 		<coef>0.25</coef>
+        <Facultatif>false</Facultatif>
 		<presentiel></presentiel>
 		<nbr_CM>8</nbr_CM>
 		<nbr_TD>5</nbr_TD>
@@ -557,6 +574,7 @@
 		<UF>I3MIIF11</UF>
 		<Responsable>E23</Responsable>
 		<coef>0.25</coef>
+        <Facultatif>false</Facultatif>
 		<presentiel></presentiel>
 		<nbr_CM>7</nbr_CM>
 		<nbr_TD>3</nbr_TD>
@@ -572,6 +590,7 @@
 		<UF>I3MIIF11</UF>
 		<Responsable>E22</Responsable>
 		<coef>0.25</coef>
+        <Facultatif>false</Facultatif>
 		<presentiel></presentiel>
 		<nbr_CM>15</nbr_CM>
 		<nbr_TD>4</nbr_TD>
@@ -587,6 +606,7 @@
 		<UF>I3MIIF11</UF>
 		<Responsable>E24</Responsable>
 		<coef>0.25</coef>
+        <Facultatif>false</Facultatif>
 		<presentiel></presentiel>
 		<nbr_CM>4</nbr_CM>
 		<nbr_TD>6</nbr_TD>
@@ -602,6 +622,7 @@
 		<UF>I3MIOM11</UF>
 		<Responsable>E25</Responsable>
 		<coef>1</coef>
+        <Facultatif>false</Facultatif>
 		<presentiel></presentiel>
 		<nbr_CM>14</nbr_CM>
 		<nbr_TD>12</nbr_TD>
@@ -609,9 +630,11 @@
 		<Epreuve nom="CC1">
 			<nature>CC</nature>
 			<coef>0.25</coef>
+        </Epreuve>
 		<Epreuve nom="CC2">
 			<nature>CC</nature>
 			<coef>0.50</coef>
+        </Epreuve>
 		<Epreuve nom="TP">
 			<nature>TP</nature>
 			<coef>0.25</coef>
@@ -623,6 +646,7 @@
 		<UF>I3MIOM21</UF>
 		<Responsable>E26</Responsable>
 		<coef>1</coef>
+        <Facultatif>false</Facultatif>
 		<presentiel></presentiel>
 		<nbr_CM>15</nbr_CM>
 		<nbr_TD>20</nbr_TD>
@@ -642,6 +666,7 @@
 		<UF>I3MIOI11</UF>
 		<Responsable>E24</Responsable>
 		<coef>0.7</coef>
+        <Facultatif>false</Facultatif>
 		<presentiel></presentiel>
 		<nbr_CM>8</nbr_CM>
 		<nbr_TD>8</nbr_TD>
@@ -649,6 +674,7 @@
 		<Epreuve nom="CC">
 			<nature>CC</nature>
 			<coef>0.56</coef>
+        </Epreuve>
 		<Epreuve nom="projet">
 			<nature>Projet</nature>
 			<coef>0.14</coef>
@@ -660,6 +686,7 @@
 		<UF>I3MIOI11</UF>
 		<Responsable>E24</Responsable>
 		<coef>0.3</coef>
+        <Facultatif>false</Facultatif>
 		<presentiel></presentiel>
 		<nbr_CM>3</nbr_CM>
 		<nbr_TD>7</nbr_TD>
@@ -675,6 +702,7 @@
 		<UF>I3MIOI21</UF>
 		<Responsable>E28</Responsable>
 		<coef>0.34</coef>
+        <Facultatif>false</Facultatif>
 		<presentiel></presentiel>
 		<nbr_CM>9</nbr_CM>
 		<nbr_TD>8</nbr_TD>
@@ -690,6 +718,7 @@
 		<UF>I3MIOI21</UF>
 		<Responsable>E29</Responsable>
 		<coef>0.03</coef>
+        <Facultatif>false</Facultatif>
 		<presentiel></presentiel>
 		<nbr_CM>1</nbr_CM>
 		<nbr_TD>2</nbr_TD>
@@ -705,6 +734,7 @@
 		<UF>I3MIOI21</UF>
 		<Responsable>E30</Responsable>
 		<coef>0.3</coef>
+        <Facultatif>false</Facultatif>
 		<presentiel></presentiel>
 		<nbr_CM>5</nbr_CM>
 		<nbr_TD>4</nbr_TD>
@@ -720,6 +750,7 @@
 		<UF>I3MIOI21</UF>
 		<Responsable>E27</Responsable>
 		<coef>0.33</coef>
+        <Facultatif>false</Facultatif>
 		<presentiel></presentiel>
 		<nbr_CM>10</nbr_CM>
 		<nbr_TD>5</nbr_TD>
@@ -736,6 +767,7 @@
 		<UF>I3CCGE11</UF>
 		<Responsable>E32</Responsable>
 		<coef>0.5</coef>
+        <Facultatif>false</Facultatif>
 		<presentiel></presentiel>
 		<nbr_CM>0</nbr_CM>
 		<nbr_TD>11</nbr_TD>
@@ -751,6 +783,7 @@
 		<UF>I3CCGE11</UF>
 		<Responsable>E31</Responsable>
 		<coef>0.5</coef>
+        <Facultatif>false</Facultatif>
 		<presentiel></presentiel>
 		<nbr_CM>0</nbr_CM>
 		<nbr_TD>8</nbr_TD>
@@ -766,6 +799,7 @@
 		<UF>I3CCIE11</UF>
 		<Responsable>E33</Responsable>
 		<coef>1</coef>
+        <Facultatif>false</Facultatif>
 		<presentiel></presentiel>
 		<nbr_CM>18</nbr_CM>
 		<nbr_TD>6</nbr_TD>
@@ -781,6 +815,7 @@
 		<UF>I3CCGE11</UF>
 		<Responsable>E08</Responsable>
 		<coef>1</coef>
+        <Facultatif>false</Facultatif>
 		<presentiel></presentiel>
 		<nbr_CM>0</nbr_CM>
 		<nbr_TD>13</nbr_TD>
@@ -797,6 +832,7 @@
 		<UF>I3MIIF21</UF>
 		<Responsable>E23</Responsable>
 		<coef>0.3</coef>
+        <Facultatif>false</Facultatif>
 		<presentiel></presentiel>
 		<nbr_CM>10</nbr_CM>
 		<nbr_TD>5</nbr_TD>
@@ -816,6 +852,7 @@
 		<UF>I3MIIF21</UF>
 		<Responsable>E22</Responsable>
 		<coef>0.2</coef>
+        <Facultatif>false</Facultatif>
 		<presentiel></presentiel>
 		<nbr_CM>6</nbr_CM>
 		<nbr_TD>0</nbr_TD>
@@ -831,6 +868,7 @@
 		<UF>I3MIIF21</UF>
 		<Responsable>E22</Responsable>
 		<coef>0.5</coef>
+        <Facultatif>false</Facultatif>
 		<presentiel></presentiel>
 		<nbr_CM>0</nbr_CM>
 		<nbr_TD>2</nbr_TD>
@@ -846,6 +884,7 @@
 		<UF>I3MIIL11</UF>
 		<Responsable>E24</Responsable>
 		<coef>0.33</coef>
+        <Facultatif>false</Facultatif>
 		<presentiel></presentiel>
 		<nbr_CM>5</nbr_CM>
 		<nbr_TD>8</nbr_TD>
@@ -861,6 +900,7 @@
 		<UF>I3MIIL11</UF>
 		<Responsable>E41</Responsable>
 		<coef>0.33</coef>
+        <Facultatif>false</Facultatif>
 		<presentiel></presentiel>
 		<nbr_CM>8</nbr_CM>
 		<nbr_TD>7</nbr_TD>
@@ -876,6 +916,7 @@
 		<UF>I3MIIL11</UF>
 		<Responsable>E41</Responsable>
 		<coef>0.33</coef>
+        <Facultatif>false</Facultatif>
 		<presentiel></presentiel>
 		<nbr_CM>0</nbr_CM>
 		<nbr_TD>0</nbr_TD>
@@ -891,6 +932,7 @@
 		<UF>I3MITS11</UF>
 		<Responsable>E42</Responsable>
 		<coef>0.5</coef>
+        <Facultatif>false</Facultatif>
 		<presentiel></presentiel>
 		<nbr_CM>10</nbr_CM>
 		<nbr_TD>12</nbr_TD>
@@ -910,6 +952,7 @@
 		<UF>I3MITS11</UF>
 		<Responsable>E43</Responsable>
 		<coef>0.25</coef>
+        <Facultatif>false</Facultatif>
 		<presentiel></presentiel>
 		<nbr_CM>8</nbr_CM>
 		<nbr_TD>7</nbr_TD>
@@ -925,6 +968,7 @@
 		<UF>I3MITS11</UF>
 		<Responsable>E15</Responsable>
 		<coef>0.25</coef>
+        <Facultatif>false</Facultatif>
 		<presentiel></presentiel>
 		<nbr_CM>5</nbr_CM>
 		<nbr_TD>4</nbr_TD>
@@ -940,6 +984,7 @@
 		<UF>I3MIIM11</UF>
 		<Responsable>E44</Responsable>
 		<coef>0.33</coef>
+        <Facultatif>false</Facultatif>
 		<presentiel></presentiel>
 		<nbr_CM>7</nbr_CM>
 		<nbr_TD>4</nbr_TD>
@@ -955,6 +1000,7 @@
 		<UF>I3MIIM11</UF>
 		<Responsable>E44</Responsable>
 		<coef>0.33</coef>
+        <Facultatif>false</Facultatif>
 		<presentiel></presentiel>
 		<nbr_CM>1</nbr_CM>
 		<nbr_TD>0</nbr_TD>
@@ -970,6 +1016,7 @@
 		<UF>I3MIIM11</UF>
 		<Responsable>E43</Responsable>
 		<coef>0.33</coef>
+        <Facultatif>false</Facultatif>
 		<presentiel></presentiel>
 		<nbr_CM>0</nbr_CM>
 		<nbr_TD>0</nbr_TD>
@@ -986,6 +1033,7 @@
 		<UF>I3CCGE41</UF>
 		<Responsable>E40</Responsable>
 		<coef>0.35</coef>
+        <Facultatif>false</Facultatif>
 		<presentiel></presentiel>
 		<nbr_CM>0</nbr_CM>
 		<nbr_TD>8</nbr_TD>
@@ -1001,6 +1049,7 @@
 		<UF>I3CCGE41</UF>
 		<Responsable>E40</Responsable>
 		<coef>0.25</coef>
+        <Facultatif>false</Facultatif>
 		<presentiel></presentiel>
 		<nbr_CM>4</nbr_CM>
 		<nbr_TD>0</nbr_TD>
@@ -1016,6 +1065,7 @@
 		<UF>I3CCGE41</UF>
 		<Responsable>E31</Responsable>
 		<coef>0.4</coef>
+        <Facultatif>false</Facultatif>
 		<presentiel></presentiel>
 		<nbr_CM>0</nbr_CM>
 		<nbr_TD>10</nbr_TD>
@@ -1031,6 +1081,7 @@
 		<UF>I3CCGA21</UF>
 		<Responsable>E08</Responsable>
 		<coef>0.33</coef>
+        <Facultatif>false</Facultatif>
 		<presentiel></presentiel>
 		<nbr_CM>0</nbr_CM>
 		<nbr_TD>12</nbr_TD>
@@ -1044,8 +1095,9 @@
 	<Matiere_de_l_uf code_apogee="">
 		<nom>Module d'ouverture</nom>
 		<UF>I3CCGA21</UF>
-		<Responsable></Responsable> <!-- toujours pas de responsable -->
+		<Responsable>E47</Responsable>
 		<coef>0.33</coef>
+        <Facultatif>false</Facultatif>
 		<presentiel></presentiel>
 		<nbr_CM>0</nbr_CM>
 		<nbr_TD>14</nbr_TD>
@@ -1061,6 +1113,7 @@
 		<UF>I3CCGA21</UF>
 		<Responsable>E18</Responsable>
 		<coef>0.33</coef>
+        <Facultatif>false</Facultatif>
 		<presentiel></presentiel>
 		<nbr_CM>0</nbr_CM>
 		<nbr_TD>1</nbr_TD>
@@ -1077,6 +1130,7 @@
 		<UF>I3MIPH12</UF>
 		<Responsable>E35</Responsable>
 		<coef>0.5</coef>
+        <Facultatif>false</Facultatif>
 		<presentiel></presentiel>
 		<nbr_CM>8</nbr_CM>
 		<nbr_TD>6</nbr_TD>
@@ -1092,6 +1146,7 @@
 		<UF>I3MIPH12</UF>
 		<Responsable>E34</Responsable>
 		<coef>0.5</coef>
+        <Facultatif>false</Facultatif>
 		<presentiel></presentiel>
 		<nbr_CM>10</nbr_CM>
 		<nbr_TD>13</nbr_TD>
@@ -1111,6 +1166,7 @@
 		<UF>I3MIPH12</UF>
 		<Responsable>E36</Responsable>
 		<coef>1</coef>
+        <Facultatif>false</Facultatif>
 		<presentiel></presentiel>
 		<nbr_CM>11</nbr_CM>
 		<nbr_TD>4</nbr_TD>
@@ -1130,6 +1186,7 @@
 		<UF>I3MIMT31</UF>
 		<Responsable>E37</Responsable>
 		<coef>0.5</coef>
+        <Facultatif>false</Facultatif>
 		<presentiel></presentiel>
 		<nbr_CM>7</nbr_CM>
 		<nbr_TD>7</nbr_TD>
@@ -1149,6 +1206,7 @@
 		<UF>I3MIMT31</UF>
 		<Responsable>E34</Responsable>
 		<coef>0.5</coef>
+        <Facultatif>false</Facultatif>
 		<presentiel></presentiel>
 		<nbr_CM>6</nbr_CM>
 		<nbr_TD>6</nbr_TD>
@@ -1167,7 +1225,7 @@
 		<nom>Statistiques descriptives</nom>
 		<UF>I3MIMT41</UF>
 		<Responsable>E39</Responsable>
-		<coef>0.25</coef>
+        <Facultatif>false</Facultatif>
 		<presentiel></presentiel>
 		<nbr_CM>5</nbr_CM>
 		<nbr_TD>2</nbr_TD>
@@ -1178,7 +1236,7 @@
 		<nom>Compléments de probabilités</nom>
 		<UF>I3MIMT41</UF>
 		<Responsable>E39</Responsable>
-		<coef>0.25</coef>
+        <Facultatif>false</Facultatif>
 		<presentiel></presentiel>
 		<nbr_CM>2</nbr_CM>
 		<nbr_TD>2</nbr_TD>
@@ -1189,7 +1247,7 @@
 		<nom>Statistiques inférentielles</nom>
 		<UF>I3MIMT41</UF>
 		<Responsable>E39</Responsable>
-		<coef>0.25</coef>
+        <Facultatif>false</Facultatif>
 		<presentiel></presentiel>
 		<nbr_CM>12</nbr_CM>
 		<nbr_TD>10</nbr_TD>
@@ -1200,7 +1258,7 @@
 		<nom>Sondages</nom>
 		<UF>I3MIMT41</UF>
 		<Responsable>E39</Responsable>
-		<coef>0.25</coef>
+        <Facultatif>false</Facultatif>
 		<presentiel></presentiel>
 		<nbr_CM>6</nbr_CM>
 		<nbr_TD>5</nbr_TD>
@@ -1212,6 +1270,7 @@
 		<UF>I3MIIL21</UF>
 		<Responsable>E16</Responsable>
 		<coef>1</coef>
+        <Facultatif>false</Facultatif>
 		<presentiel></presentiel>
 		<nbr_CM>12</nbr_CM>
 		<nbr_TD>0</nbr_TD>

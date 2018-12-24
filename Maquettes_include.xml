@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Maquettes xmlns:xi="http://www.w3.org/2001/XInclude">
+    <xi:include href="Personnels.xml" parse="xml"/>
+    <xi:include href="Departements.xml" parse="xml"/>
+    <xi:include href="POs.xml" parse="xml"/>
+    <xi:include href="Semestres.xml" parse="xml"/>
+    <xi:include href="UFs.xml" parse="xml"/>
+    <xi:include href="Matieres.xml" parse="xml"/>
+</Maquettes>

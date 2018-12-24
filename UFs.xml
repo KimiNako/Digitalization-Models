@@ -2,7 +2,7 @@
 <UFs>
 	<UF code_apogee="I2MIMT11">
 		<Intitule>Analyse et Algèbre</Intitule>
-		<Reponsable>E02</Reponsable>
+		<Responsable>E02</Responsable>
 		<Grands_Domaines>UF Scientifiques</Grands_Domaines>
 		<Heterogene>true</Heterogene>
 		<Eval_Par_Competences>false</Eval_Par_Competences>
@@ -17,7 +17,7 @@
 
 	<UF code_apogee="I2MIPH11">
 		<Intitule>Electromagnétisme</Intitule>
-		<Reponsable>E03</Reponsable>
+		<Responsable>E03</Responsable>
 		<Grands_Domaines>UF Scientifiques</Grands_Domaines>
 		<Heterogene>true</Heterogene>
 		<Eval_Par_Competences>false</Eval_Par_Competences>
@@ -33,7 +33,7 @@
 
 	<UF code_apogee="I2MIIF11">
 		<Intitule>Algorithme Programmation Unix</Intitule>
-		<Reponsable>E04</Reponsable>
+		<Responsable>E04</Responsable>
 		<Grands_Domaines>UF Scientifiques</Grands_Domaines>
 		<Heterogene>true</Heterogene>
 		<Eval_Par_Competences>false</Eval_Par_Competences>
@@ -49,7 +49,7 @@
 
 	<UF code_apogee="I2MIIM11">
 		<Intitule>Logique et SFO</Intitule>
-		<Reponsable>E05</Reponsable>
+		<Responsable>E05</Responsable>
 		<Grands_Domaines>UF Scientifiques</Grands_Domaines>
 		<Heterogene>false</Heterogene>
 		<Eval_Par_Competences>true</Eval_Par_Competences>
@@ -64,7 +64,7 @@
 
 	<UF code_apogee="I2MIEN11">
 		<Intitule>Electronique</Intitule>
-		<Reponsable>E06</Reponsable>
+		<Responsable>E06</Responsable>
 		<Grands_Domaines>UF Scientifiques</Grands_Domaines>
 		<Heterogene>true</Heterogene>
 		<Eval_Par_Competences>false</Eval_Par_Competences>
@@ -79,7 +79,7 @@
 
 	<UF code_apogee="I2CCGE31">
 		<Intitule>L'environnement de l'entreprise et ses modes de communication</Intitule>
-		<Reponsable>E07</Reponsable>
+		<Responsable>E07</Responsable>
 		<Grands_Domaines>UF Transversales</Grands_Domaines>
 		<Heterogene>true</Heterogene>
 		<Eval_Par_Competences>false</Eval_Par_Competences>
@@ -94,7 +94,7 @@
 
 	<UF code_apogee="I2CCGA12">
 		<Intitule>Grandir en autonomie et construire son projet professionnel II</Intitule>
-		<Reponsable>E08</Reponsable>
+		<Responsable>E08</Responsable>
 		<Grands_Domaines>UF Transversales</Grands_Domaines>
 		<Heterogene>true</Heterogene>
 		<Eval_Par_Competences>false</Eval_Par_Competences>
@@ -109,7 +109,7 @@
 
 	<UF code_apogee="I2MIMT21">
 		<Intitule>Analyse et Signal</Intitule>
-		<Reponsable>E09</Reponsable>
+		<Responsable>E09</Responsable>
 		<Grands_Domaines>UF Scientifiques</Grands_Domaines>
 		<Heterogene>true</Heterogene>
 		<Eval_Par_Competences>false</Eval_Par_Competences>
@@ -124,7 +124,7 @@
 
 	<UF code_apogee="I2MIPH21">
 		<Intitule>Ondes et optique ondulatoire</Intitule>
-		<Reponsable>E10</Reponsable>
+		<Responsable>E10</Responsable>
 		<Grands_Domaines>UF Scientifiques</Grands_Domaines>
 		<Heterogene>true</Heterogene>
 		<Eval_Par_Competences>false</Eval_Par_Competences>
@@ -140,7 +140,7 @@
 
 	<UF code_apogee="I2MIIF21">
 		<Intitule>Algorithme Programmation II</Intitule>
-		<Reponsable>E11</Reponsable>
+		<Responsable>E11</Responsable>
 		<Grands_Domaines>UF Scientifiques</Grands_Domaines>
 		<Heterogene>true</Heterogene>
 		<Eval_Par_Competences>false</Eval_Par_Competences>
@@ -156,7 +156,7 @@
 
 	<UF code_apogee="I2MIAU11">
 		<Intitule>Systèmes Automatiques</Intitule>
-		<Reponsable>E12</Reponsable>
+		<Responsable>E12</Responsable>
 		<Grands_Domaines>UF Scientifiques</Grands_Domaines>
 		<Heterogene>false</Heterogene>
 		<Eval_Par_Competences>true</Eval_Par_Competences>
@@ -172,7 +172,7 @@
 
 	<UF code_apogee="I2MIMT31">
 		<Intitule>Probabilités et statistiques</Intitule>
-		<Reponsable>E13</Reponsable>
+		<Responsable>E13</Responsable>
 		<Grands_Domaines>UF Scientifiques</Grands_Domaines>
 		<Heterogene>true</Heterogene>
 		<Eval_Par_Competences>false</Eval_Par_Competences>
@@ -187,7 +187,7 @@
 
 	<UF code_apogee="I2CCLA31">
 		<Intitule>L'environnement de l'entreprise et ses modes de communication</Intitule>
-		<Reponsable>E07</Reponsable>
+		<Responsable>E07</Responsable>
 		<Grands_Domaines>UF Transversales</Grands_Domaines>
 		<Heterogene>true</Heterogene>
 		<Eval_Par_Competences>false</Eval_Par_Competences>
@@ -202,7 +202,7 @@
 
 	<UF code_apogee="I2CCGA25">
 		<Intitule>Grandir en autonomie et construire son projet professionnel II</Intitule>
-		<Reponsable>E08</Reponsable>
+		<Responsable>E08</Responsable>
 		<Grands_Domaines>UF Transversales</Grands_Domaines>
 		<Heterogene>true</Heterogene>
 		<Eval_Par_Competences>false</Eval_Par_Competences>
@@ -485,7 +485,7 @@
 		<Eval_Par_Competences>false</Eval_Par_Competences>
 		<Continuite>false</Continuite>
 		<ECTS>3</ECTS>
-		<NbTotHeureUF></NbTotHeureUF>
+		<NbTotHeureUF>0.0</NbTotHeureUF>
 		<NbTotCM>0</NbTotCM>
 		<NbTotTD>0</NbTotTD>
 		<NbTotTP>0</NbTotTP>
@@ -522,10 +522,10 @@
 		<Semestre>MIC_GMM_S6</Semestre>
 	</UF>
 
-	<UF code_apogee="I3CCGE41">
-		<Intitule>Gestion de l'entrerise et business english</Intitule>
+	<UF code_apogee="I3CCGE41M">
+		<Intitule>Gestion de l'entreprise et business english</Intitule>
 		<Responsable>E40</Responsable>
-		<Grands_Domaines>UF Transversales</Grands_Domaines>
+		<Grands_Domaines>UF Transverses</Grands_Domaines>
 		<Heterogene>true</Heterogene>
 		<Eval_Par_Competences>false</Eval_Par_Competences>
 		<Continuite>false</Continuite>
@@ -534,13 +534,13 @@
 		<NbTotCM>0</NbTotCM>
 		<NbTotTD>0</NbTotTD>
 		<NbTotTP>0</NbTotTP>
-		<Semestre>MIC_GMM_S6</Semestre>
+        <Semestre>MIC_GMM_S6</Semestre>
 	</UF>
 
-	<UF code_apogee="I3CCGA21">
+	<UF code_apogee="I3CCGA21M">
 		<Intitule>Grandir en autonomie et construire son projet prof. III</Intitule>
 		<Responsable>E08</Responsable>
-		<Grands_Domaines>UF Transversales</Grands_Domaines>
+		<Grands_Domaines>UF Transverses</Grands_Domaines>
 		<Heterogene>true</Heterogene>
 		<Eval_Par_Competences>false</Eval_Par_Competences>
 		<Continuite>false</Continuite>
@@ -549,6 +549,7 @@
 		<NbTotCM>0</NbTotCM>
 		<NbTotTD>0</NbTotTD>
 		<NbTotTP>0</NbTotTP>
-		<Semestre>MIC_GMM_S6</Semestre>
+        <Semestre>MIC_GMM_S6</Semestre>
 	</UF>
+
 </UFs>

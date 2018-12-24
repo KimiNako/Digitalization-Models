@@ -9,7 +9,7 @@
 		    <bureau> </bureau>
 		    <telephone> </telephone>
 		    <email> </email>
-		    <Departement>STPI</Departement>
+		    <departement>STPI</departement>
 	    </Personnel>
         <Personnel id="P2">
 		    <nom> </nom>
@@ -18,7 +18,7 @@
 		    <bureau> </bureau>
 		    <telephone> </telephone>
 		    <email> </email>
-		    <Departement>STPI</Departement>
+		    <departement>STPI</departement>
 	    </Personnel>
     </Personnels>
 
@@ -57,6 +57,9 @@
 		    <NbTotCM>0</NbTotCM>
 		    <NbTotTD>0</NbTotTD>
 		    <NbTotTP>0</NbTotTP>
+            <Competence nom="">
+			    <description></description>
+		    </Competence>
 		    <Semestre>MIC_S3</Semestre>
 	    </UF>	
     </UFs>
@@ -65,7 +68,7 @@
 	    <Matiere_de_l_uf code_apogee="M1">
             <nom></nom>
 		    <UF>UF1</UF>
-		    <Responsable>P1</Responsable>
+		    <Responsable>P2</Responsable>
 		    <coef></coef>
 		    <Facultatif>false</Facultatif>
 		    <presentiel></presentiel>

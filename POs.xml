@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<POs>
+    <PO acronyme="MIC">
+	    <nom>Modélisation, informatique, communications</nom>
+	    <Departement>STPI</Departement>
+	    <Responsable>E02</Responsable> <!-- Responsable de PO -->
+    </PO>
+</POs>

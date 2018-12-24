@@ -8,7 +8,7 @@
 			<xs:element name="bureau" type="xs:string"/>
 			<xs:element name="telephone" type="xs:string"/>
 			<xs:element name="email" type="xs:string"/>
-			<xs:element name="Departement" type="xs:string"/>
+			<xs:element name="departement" type="xs:string"/>
 		</xs:sequence>
 		<xs:attribute name="id" type="xs:string"/>
     </xs:complexType>
@@ -18,7 +18,7 @@
             <xs:element name="nom" type="xs:string"/>
 		    <xs:element name="UF" type="xs:string"/>
 		    <xs:element name="Responsable" type="xs:string"/>
-		    <xs:element name="coef" type="xs:string"/>
+		    <xs:element name="coef" type="xs:string" minOccurs="0"/>
 		    <xs:element name="Facultatif" type="xs:boolean"/>
 		    <xs:element name="presentiel" type="xs:string"/>
 		    <xs:element name="nbr_CM" type="xs:integer"/>
@@ -32,7 +32,7 @@
 
     <xs:complexType name="CompetenceType">
 		<xs:sequence>
-	 		<xs:element name="description" type="xs:string"/>
+	 		<xs:element name="description" type="xs:string" minOccurs="0"/>
 		</xs:sequence>
 		<xs:attribute name="nom" type="xs:string"/>
 	</xs:complexType>
@@ -59,7 +59,8 @@
 			<xs:element name="NbTotCM" type="xs:integer"/>
 			<xs:element name="NbTotTD" type="xs:integer"/>
 			<xs:element name="NbTotTP" type="xs:integer"/>
-			<xs:element name="Semestre" type="xs:string"/>
+            <xs:element name="Competence" type="CompetenceType" minOccurs="0" maxOccurs="unbounded"/>
+			<xs:element name="Semestre" type="xs:string" maxOccurs="unbounded"/>
 		</xs:sequence>
 		<xs:attribute name="code_apogee" type="xs:string"/>
 	</xs:complexType>
@@ -170,47 +171,47 @@
         </xs:complexType>
 
         <xs:keyref name="refDepPer" refer="keyDepartement">
-		    <xs:selector xpath="Personnel"/>
-		    <xs:field xpath="Departement"/>
+		    <xs:selector xpath="Personnels/Personnel"/>
+		    <xs:field xpath="departement"/>
 	    </xs:keyref>
 
         <xs:keyref name="refPerMat" refer="keyPersonnel">
-		    <xs:selector xpath="Matiere_de_l_uf"/>
+		    <xs:selector xpath="Matieres/Matiere_de_l_uf"/>
 		    <xs:field xpath="Responsable"/>
 	    </xs:keyref>
 
         <xs:keyref name="refSemUF" refer="keySemestre">
-		     <xs:selector xpath="UF"/>
+		     <xs:selector xpath="UFs/UF"/>
 		     <xs:field xpath="Semestre"/>
 	    </xs:keyref>
 
 	    <xs:keyref name="refPerUF" refer="keyPersonnel">
-		    <xs:selector xpath="UF"/>
+		    <xs:selector xpath="UFs/UF"/>
 		    <xs:field xpath="Responsable"/>
 	    </xs:keyref>
 
         <xs:keyref name="refPOSem" refer="keyPO">
-		    <xs:selector xpath="Semestre"/>
+		    <xs:selector xpath="Semestres/Semestre"/>
 		    <xs:field xpath="PO"/>
 	    </xs:keyref>
 
         <xs:keyref name="refPerDep" refer="keyPersonnel">
-		    <xs:selector xpath="Departement"/>
+		    <xs:selector xpath="Departements/Departement"/>
 		    <xs:field xpath="Directeur"/>
 	    </xs:keyref>
 
         <xs:keyref name="refDepPO" refer="keyDepartement">
-		    <xs:selector xpath="PO"/>
+		    <xs:selector xpath="POs/PO"/>
 		    <xs:field xpath="Departement"/>
 	    </xs:keyref>
 
 	    <xs:keyref name="refPerPO" refer="keyPersonnel">
-		    <xs:selector xpath="PO"/>
+		    <xs:selector xpath="POs/PO"/>
 		    <xs:field xpath="Responsable"/>
 	    </xs:keyref>
 
         <xs:keyref name="refUFMat" refer="keyUF">
-			<xs:selector xpath="Matiere_de_l_uf"/>
+			<xs:selector xpath="Matieres/Matiere_de_l_uf"/>
 			<xs:field xpath="UF"/>
 		</xs:keyref>
 
