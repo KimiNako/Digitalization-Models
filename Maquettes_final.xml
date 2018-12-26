@@ -1164,6 +1164,8 @@
 		<nbr_CM>28</nbr_CM>
 		<nbr_TD>32</nbr_TD>
 		<nbr_TP>0</nbr_TP>
+		<Competence nom="Analyse"/>
+		<Competence nom="Algèbre"/>
 		<Epreuve nom="CC1">
 			<nature>CC</nature>
 			<coef>0.2</coef>
@@ -1188,6 +1190,7 @@
 		<nbr_CM>15</nbr_CM>
 		<nbr_TD>8</nbr_TD>
 		<nbr_TP>3</nbr_TP>
+		<Competence nom="Electromagnetisme"/>
 		<Epreuve nom="CC1">
 			<nature>CC</nature>
 			<coef>0.2</coef>
@@ -1212,6 +1215,7 @@
 		<nbr_CM>5</nbr_CM>
 		<nbr_TD>10</nbr_TD>
 		<nbr_TP>5</nbr_TP>
+		<Competence nom="Algorithmique et Programmation"/>
 		<Epreuve nom="CC">
 			<nature>CC</nature>
 			<coef>0.5</coef>
@@ -1228,6 +1232,7 @@
 		<nbr_CM>6</nbr_CM>
 		<nbr_TD>9</nbr_TD>
 		<nbr_TP>0</nbr_TP>
+		<Competence nom="Unix"/>
 		<Epreuve nom="CC">
 			<nature>CC</nature>
 			<coef>0.5</coef>
@@ -1296,6 +1301,7 @@
 		<nbr_CM>9</nbr_CM>
 		<nbr_TD>7</nbr_TD>
 		<nbr_TP>4</nbr_TP>
+		<Competence nom="Electronique analogique"/>
 		<Epreuve nom="CC1">
 			<nature>CC</nature>
 			<coef>0.25</coef>
@@ -1316,6 +1322,7 @@
 		<nbr_CM>7</nbr_CM>
 		<nbr_TD>7</nbr_TD>
 		<nbr_TP>3</nbr_TP>
+		<Competence nom="Electronique numérique"/>
 		<Epreuve nom="CC">
 			<nature>CC</nature>
 			<coef>0.25</coef>
@@ -1336,6 +1343,7 @@
 		<nbr_CM>0</nbr_CM>
 		<nbr_TD>7</nbr_TD>
 		<nbr_TP>0</nbr_TP>
+		<Competence nom="Expression"/>
 		<Epreuve nom="CC">
 			<nature>CC</nature>
 			<coef>0.25</coef>
@@ -1352,6 +1360,7 @@
 		<nbr_CM>7</nbr_CM>
 		<nbr_TD>0</nbr_TD>
 		<nbr_TP>0</nbr_TP>
+		<Competence nom="Economie"/>
 		<Epreuve nom="CC">
 			<nature>CC</nature>
 			<coef>0.3</coef>
@@ -1368,6 +1377,7 @@
 		<nbr_CM>0</nbr_CM>
 		<nbr_TD>12</nbr_TD>
 		<nbr_TP>0</nbr_TP>
+		<Competence nom="Anglais"/>
 		<Epreuve nom="CC">
 			<nature>CC</nature>
 			<coef>0.25</coef>
@@ -1384,6 +1394,7 @@
 		<nbr_CM>0</nbr_CM>
 		<nbr_TD>1</nbr_TD>
 		<nbr_TP>0</nbr_TP>
+		<Competence nom="Ecriture et presentation d'un rapport de stage ouvrier"/>
 		<Epreuve nom="Rapport">
 			<nature>Rapport</nature>
 			<coef>0.1</coef>
@@ -1420,6 +1431,7 @@
 		<nbr_CM>10</nbr_CM>
 		<nbr_TD>13</nbr_TD>
 		<nbr_TP>0</nbr_TP>
+		<Competence nom="Analyse II"/>
 		<Epreuve nom="CC1">
 			<nature>CC</nature>
 			<coef>0.44</coef>
@@ -1441,6 +1453,7 @@
 		<nbr_CM>8</nbr_CM>
 		<nbr_TD>9</nbr_TD>
 		<nbr_TP>4</nbr_TP>
+		<Competence nom="Signal"/>
 		<Epreuve nom="CC1">
 			<nature>CC</nature>
 			<coef>0.45</coef>
@@ -1461,6 +1474,7 @@
 		<nbr_CM>20</nbr_CM>
 		<nbr_TD>13</nbr_TD>
 		<nbr_TP>4</nbr_TP>
+		<Competence nom="Ondes et optique ondulatoire"/>
 		<Epreuve nom="CC1">
 			<nature>CC</nature>
 			<coef>0.25</coef>
@@ -1485,6 +1499,7 @@
 		<nbr_CM>9</nbr_CM>
 		<nbr_TD>9</nbr_TD>
 		<nbr_TP>8</nbr_TP>
+		<Competence nom="Algorithmique et Programmation II"/>
 		<Epreuve nom="CC1">
 			<nature>CC</nature>
 			<coef>0.5</coef>
@@ -1505,6 +1520,7 @@
 		<nbr_CM>0</nbr_CM>
 		<nbr_TD>6</nbr_TD>
 		<nbr_TP>0</nbr_TP>
+		<Competence nom="Python"/>
 		<Epreuve nom="CC">
 			<nature>CC</nature>
 			<coef>1</coef>
@@ -1567,6 +1583,7 @@
 		<nbr_CM>0</nbr_CM>
 		<nbr_TD>10</nbr_TD>
 		<nbr_TP>0</nbr_TP>
+		<Competence nom="Anglais"/>
 		<Epreuve nom="CC1">
 			<nature>CC</nature>
 			<coef>0.7</coef>
@@ -1587,6 +1604,9 @@
 		<nbr_CM>0</nbr_CM>
 		<nbr_TD>13</nbr_TD>
 		<nbr_TP>0</nbr_TP>
+		<Competence nom="LV2">
+			<description>Espagnol, Allemand, Chinois, Anglais renforcé, LSF,...</description>
+		</Competence>
 		<Epreuve nom="CC1">
 			<nature>CC</nature>
 			<coef>0.5</coef>
@@ -1676,6 +1696,7 @@
 		<nbr_CM>17</nbr_CM>
 		<nbr_TD>14</nbr_TD>
 		<nbr_TP>7</nbr_TP>
+		<Competence nom="Analyse Numérique, Optimisation"/>
 		<Epreuve nom="CC1">
 			<nature>CC</nature>
 			<coef>0.15</coef>
@@ -1700,6 +1721,7 @@
 		<nbr_CM>7</nbr_CM>
 		<nbr_TD>7</nbr_TD>
 		<nbr_TP>1</nbr_TP>
+		<Competence nom="Chaines de Markov"/>
 		<Epreuve nom="CC">
 			<nature>CC</nature>
 			<coef>0.3</coef>
@@ -1716,6 +1738,7 @@
 		<nbr_CM>8</nbr_CM>
 		<nbr_TD>5</nbr_TD>
 		<nbr_TP>4</nbr_TP>
+		<Competence nom="C"/>
 		<Epreuve nom="CC">
 			<nature>CC</nature>
 			<coef>0.25</coef>
@@ -1732,6 +1755,7 @@
 		<nbr_CM>7</nbr_CM>
 		<nbr_TD>3</nbr_TD>
 		<nbr_TP>0</nbr_TP>
+		<Competence nom="OS"/>
 		<Epreuve nom="CC">
 			<nature>CC</nature>
 			<coef>0.25</coef>
@@ -1748,6 +1772,7 @@
 		<nbr_CM>15</nbr_CM>
 		<nbr_TD>4</nbr_TD>
 		<nbr_TP>1</nbr_TP>
+		<Competence nom="Réseaux"/>
 		<Epreuve nom="CC">
 			<nature>CC</nature>
 			<coef>0.25</coef>
@@ -1764,6 +1789,7 @@
 		<nbr_CM>4</nbr_CM>
 		<nbr_TD>6</nbr_TD>
 		<nbr_TP>3</nbr_TP>
+		<Competence nom="BDD2"/>
 		<Epreuve nom="CC">
 			<nature>CC</nature>
 			<coef>0.25</coef>
@@ -1780,6 +1806,7 @@
 		<nbr_CM>14</nbr_CM>
 		<nbr_TD>12</nbr_TD>
 		<nbr_TP>5</nbr_TP>
+		<Competence nom="EDO et leur résolution numérique"/>
 		<Epreuve nom="CC1">
 			<nature>CC</nature>
 			<coef>0.25</coef>
@@ -1804,6 +1831,7 @@
 		<nbr_CM>15</nbr_CM>
 		<nbr_TD>20</nbr_TD>
 		<nbr_TP>0</nbr_TP>
+		<Competence nom="calcul intégral et probabilités"/>
 		<Epreuve nom="CC1">
 			<nature>CC</nature>
 			<coef>0.40</coef>
@@ -1824,6 +1852,7 @@
 		<nbr_CM>8</nbr_CM>
 		<nbr_TD>8</nbr_TD>
 		<nbr_TP>0</nbr_TP>
+		<Competence nom="BDD1"/>
 		<Epreuve nom="CC">
 			<nature>CC</nature>
 			<coef>0.56</coef>
@@ -1844,6 +1873,7 @@
 		<nbr_CM>3</nbr_CM>
 		<nbr_TD>7</nbr_TD>
 		<nbr_TP>3</nbr_TP>
+		<Competence nom="Programmation web"/>
 		<Epreuve nom="projet">
 			<nature>Projet</nature>
 			<coef>0.3</coef>
@@ -1860,6 +1890,7 @@
 		<nbr_CM>9</nbr_CM>
 		<nbr_TD>8</nbr_TD>
 		<nbr_TP>0</nbr_TP>
+		<Competence nom="Calculabilité, complexité"/>
 		<Epreuve nom="CC">
 			<nature>CC</nature>
 			<coef>0.34</coef>
@@ -1876,6 +1907,7 @@
 		<nbr_CM>1</nbr_CM>
 		<nbr_TD>2</nbr_TD>
 		<nbr_TP>0</nbr_TP>
+		<Competence nom="Expression régulière"/>
 		<Epreuve nom="CC">
 			<nature>CC</nature>
 			<coef>0.03</coef>
@@ -1892,6 +1924,7 @@
 		<nbr_CM>5</nbr_CM>
 		<nbr_TD>4</nbr_TD>
 		<nbr_TP>2</nbr_TP>
+		<Competence nom="Programmation linéaire"/>
 		<Epreuve nom="CC">
 			<nature>CC</nature>
 			<coef>0.3</coef>
@@ -1908,6 +1941,7 @@
 		<nbr_CM>10</nbr_CM>
 		<nbr_TD>5</nbr_TD>
 		<nbr_TP>0</nbr_TP>
+		<Competence nom="TIC"/>
 		<Epreuve nom="CC">
 			<nature>CC</nature>
 			<coef>0.33</coef>
@@ -1925,6 +1959,7 @@
 		<nbr_CM>0</nbr_CM>
 		<nbr_TD>11</nbr_TD>
 		<nbr_TP>0</nbr_TP>
+		<Competence nom="TRE"/>
 		<Epreuve nom="CC">
 			<nature>CC</nature>
 			<coef>0.5</coef>
@@ -1941,6 +1976,7 @@
 		<nbr_CM>0</nbr_CM>
 		<nbr_TD>8</nbr_TD>
 		<nbr_TP>0</nbr_TP>
+		<Competence nom="LV1 job search"/>
 		<Epreuve nom="CC">
 			<nature>CC</nature>
 			<coef>0.5</coef>
@@ -1957,6 +1993,7 @@
 		<nbr_CM>18</nbr_CM>
 		<nbr_TD>6</nbr_TD>
 		<nbr_TP>1</nbr_TP>
+		<Competence nom="I2E"/>
 		<Epreuve nom="CC">
 			<nature>CC</nature>
 			<coef>1</coef>
@@ -1973,6 +2010,7 @@
 		<nbr_CM>0</nbr_CM>
 		<nbr_TD>13</nbr_TD>
 		<nbr_TP>0</nbr_TP>
+		<Competence nom="sport"/>
 		<Epreuve nom="CC">
 			<nature>CC</nature>
 			<coef>1</coef>
@@ -1990,6 +2028,7 @@
 		<nbr_CM>10</nbr_CM>
 		<nbr_TD>5</nbr_TD>
 		<nbr_TP>4</nbr_TP>
+		<Competence nom="Programmation système et multithreading"/>
 		<Epreuve nom="CC">
 			<nature>CC</nature>
 			<coef>0.15</coef>
@@ -2010,6 +2049,7 @@
 		<nbr_CM>6</nbr_CM>
 		<nbr_TD>0</nbr_TD>
 		<nbr_TP>2</nbr_TP>
+		<Competence nom="Applications internet et programmation socket"/>
 		<Epreuve nom="TP">
 			<nature>TP</nature>
 			<coef>0.2</coef>
@@ -2026,6 +2066,7 @@
 		<nbr_CM>0</nbr_CM>
 		<nbr_TD>2</nbr_TD>
 		<nbr_TP>5</nbr_TP>
+		<Competence nom="BE"/>
 		<Epreuve nom="BE">
 			<nature>BE</nature>
 			<coef>0.5</coef>
@@ -2042,6 +2083,7 @@
 		<nbr_CM>5</nbr_CM>
 		<nbr_TD>8</nbr_TD>
 		<nbr_TP>0</nbr_TP>
+		<Competence nom="POO"/>
 		<Epreuve nom="CC">
 			<nature>CC</nature>
 			<coef>0.33</coef>
@@ -2058,6 +2100,7 @@
 		<nbr_CM>8</nbr_CM>
 		<nbr_TD>7</nbr_TD>
 		<nbr_TP>0</nbr_TP>
+		<Competence nom="Graphes"/>
 		<Epreuve nom="CC">
 			<nature>CC</nature>
 			<coef>0.33</coef>
@@ -2074,6 +2117,7 @@
 		<nbr_CM>0</nbr_CM>
 		<nbr_TD>0</nbr_TD>
 		<nbr_TP>7</nbr_TP>
+		<Competence nom="BE Graphes"/>
 		<Epreuve nom="CC">
 			<nature>CC</nature>
 			<coef>0.33</coef>
@@ -2090,6 +2134,7 @@
 		<nbr_CM>10</nbr_CM>
 		<nbr_TD>12</nbr_TD>
 		<nbr_TP>4</nbr_TP>
+		<Competence nom="Système de télécom"/>
 		<Epreuve nom="CC">
 			<nature>CC</nature>
 			<coef>0.3</coef>
@@ -2110,6 +2155,7 @@
 		<nbr_CM>8</nbr_CM>
 		<nbr_TD>7</nbr_TD>
 		<nbr_TP>0</nbr_TP>
+		<Competence nom="Filtrage numérique"/>
 		<Epreuve nom="CC">
 			<nature>CC</nature>
 			<coef>0.25</coef>
@@ -2126,6 +2172,7 @@
 		<nbr_CM>5</nbr_CM>
 		<nbr_TD>4</nbr_TD>
 		<nbr_TP>0</nbr_TP>
+		<Competence nom="Signal"/>
 		<Epreuve nom="CC">
 			<nature>CC</nature>
 			<coef>0.25</coef>
@@ -2142,6 +2189,7 @@
 		<nbr_CM>7</nbr_CM>
 		<nbr_TD>4</nbr_TD>
 		<nbr_TP>0</nbr_TP>
+		<Competence nom="Assembleur"/>
 		<Epreuve nom="CC">
 			<nature>CC</nature>
 			<coef>0.33</coef>
@@ -2158,6 +2206,7 @@
 		<nbr_CM>1</nbr_CM>
 		<nbr_TD>0</nbr_TD>
 		<nbr_TP>12</nbr_TP>
+		<Competence nom="Architecture matérielle"/>
 		<Epreuve nom="TP">
 			<nature>TP</nature>
 			<coef>0.33</coef>
@@ -2174,6 +2223,7 @@
 		<nbr_CM>0</nbr_CM>
 		<nbr_TD>0</nbr_TD>
 		<nbr_TP>13</nbr_TP>
+		<Competence nom="BE CHTI"/>
 		<Epreuve nom="TP">
 			<nature>TP</nature>
 			<coef>0.33</coef>
@@ -2191,6 +2241,7 @@
 		<nbr_CM>0</nbr_CM>
 		<nbr_TD>8</nbr_TD>
 		<nbr_TP>0</nbr_TP>
+		<Competence nom="Simgest"/>
 		<Epreuve nom="CC">
 			<nature>CC</nature>
 			<coef>0.35</coef>
@@ -2207,6 +2258,7 @@
 		<nbr_CM>4</nbr_CM>
 		<nbr_TD>0</nbr_TD>
 		<nbr_TP>0</nbr_TP>
+		<Competence nom="Gestion financière"/>
 		<Epreuve nom="CC">
 			<nature>CC</nature>
 			<coef>0.25</coef>
@@ -2223,6 +2275,7 @@
 		<nbr_CM>0</nbr_CM>
 		<nbr_TD>10</nbr_TD>
 		<nbr_TP>0</nbr_TP>
+		<Competence nom="English Business"/>
 		<Epreuve nom="CC">
 			<nature>CC</nature>
 			<coef>0.4</coef>
@@ -2239,6 +2292,7 @@
 		<nbr_CM>0</nbr_CM>
 		<nbr_TD>12</nbr_TD>
 		<nbr_TP>0</nbr_TP>
+		<Competence nom="sport"/>
 		<Epreuve nom="Epreuve_sport">
 			<nature>Epreuve_sport</nature>
 			<coef>0.35</coef>
@@ -2255,6 +2309,7 @@
 		<nbr_CM>0</nbr_CM>
 		<nbr_TD>14</nbr_TD>
 		<nbr_TP>0</nbr_TP>
+		<Competence nom="MO"/>
 		<Epreuve nom="Eval_Modouv">
 			<nature>CC</nature>
 			<coef>0.33</coef>
@@ -2271,6 +2326,7 @@
 		<nbr_CM>0</nbr_CM>
 		<nbr_TD>1</nbr_TD>
 		<nbr_TP>0</nbr_TP>
+		<Competence nom="PPI"/>
 		<Epreuve nom="Eval_PPI">
 			<nature>CC</nature>
 			<coef>0.33</coef>
@@ -2288,6 +2344,7 @@
 		<nbr_CM>8</nbr_CM>
 		<nbr_TD>6</nbr_TD>
 		<nbr_TP>0</nbr_TP>
+		<Competence nom="Matériaux"/>
 		<Epreuve nom="CC">
 			<nature>CC</nature>
 			<coef>0.5</coef>
@@ -2304,6 +2361,7 @@
 		<nbr_CM>10</nbr_CM>
 		<nbr_TD>13</nbr_TD>
 		<nbr_TP>0</nbr_TP>
+		<Competence nom="Mécanique"/>
 		<Epreuve nom="CC1">
 			<nature>CC</nature>
 			<coef>0.1</coef>
@@ -2324,6 +2382,7 @@
 		<nbr_CM>11</nbr_CM>
 		<nbr_TD>4</nbr_TD>
 		<nbr_TP>4</nbr_TP>
+		<Competence nom="Introduction à la modélisation numérique"/>
 		<Epreuve nom="TP1">
 			<nature>TP</nature>
 			<coef>0.5</coef>
@@ -2344,6 +2403,7 @@
 		<nbr_CM>7</nbr_CM>
 		<nbr_TD>7</nbr_TD>
 		<nbr_TP>3</nbr_TP>
+		<Competence nom="Calcul matriciel"/>
 		<Epreuve nom="CC">
 			<nature>CC</nature>
 			<coef>0.25</coef>
@@ -2364,6 +2424,7 @@
 		<nbr_CM>6</nbr_CM>
 		<nbr_TD>6</nbr_TD>
 		<nbr_TP>4</nbr_TP>
+		<Competence nom="Géométrie"/>
 		<Epreuve nom="CC">
 			<nature>CC</nature>
 			<coef>0.25</coef>
@@ -2383,6 +2444,7 @@
 		<nbr_CM>5</nbr_CM>
 		<nbr_TD>2</nbr_TD>
 		<nbr_TP>3</nbr_TP>
+		<Competence nom="Statistiques descriptives"/>
 	</Matiere_de_l_uf>
 
 	<Matiere_de_l_uf code_apogee="">
@@ -2394,6 +2456,7 @@
 		<nbr_CM>2</nbr_CM>
 		<nbr_TD>2</nbr_TD>
 		<nbr_TP>0</nbr_TP>
+		<Competence nom="Compléments de probabilités"/>
 	</Matiere_de_l_uf>
 
 	<Matiere_de_l_uf code_apogee="">
@@ -2405,6 +2468,7 @@
 		<nbr_CM>12</nbr_CM>
 		<nbr_TD>10</nbr_TD>
 		<nbr_TP>2</nbr_TP>
+		<Competence nom="Statistiques inférentielles"/>
 	</Matiere_de_l_uf>
 
 	<Matiere_de_l_uf code_apogee="">
@@ -2416,6 +2480,7 @@
 		<nbr_CM>6</nbr_CM>
 		<nbr_TD>5</nbr_TD>
 		<nbr_TP>0</nbr_TP>
+		<Competence nom="Sondages"/>
 	</Matiere_de_l_uf>
 
 	<Matiere_de_l_uf code_apogee="">
@@ -2428,6 +2493,7 @@
 		<nbr_CM>12</nbr_CM>
 		<nbr_TD>0</nbr_TD>
 		<nbr_TP>10</nbr_TP>
+		<Competence nom="POO"/>
 		<Epreuve nom="CC1">
 			<nature>CC</nature>
 			<coef>0.125</coef>
