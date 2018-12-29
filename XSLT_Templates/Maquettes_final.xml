@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="XSLT1.xsl"?>
 <Maquettes xmlns:xi="http://www.w3.org/2001/XInclude">
     <Personnels>
 
@@ -612,13 +613,13 @@
 	    <Responsable>E01</Responsable> <!-- Responsable de PO -->
     </PO>
 </POs>
-    <Semestres>
+<Semestres>
 	<Semestre numero="MIC_S3">
 		<PO>MIC</PO>
 	</Semestre>
 
 	<Semestre numero="MIC_S4">
-		<PO>MIC</PO>
+		<PO>MfdIC</PO>
 	</Semestre>
 
 	<Semestre numero="MIC_S5">

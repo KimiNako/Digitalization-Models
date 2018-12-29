@@ -515,7 +515,7 @@
     <Personnel id="E52">
 	    <nom>Shea</nom>
 	    <prenom>Joseph</prenom>
-	    <grade>Enseignant-chercheur</grade>
+	    <grade>Enseignant</grade>
 	    <bureau>B103</bureau>
 	    <telephone>05 64 55 92 01</telephone>
 	    <email>joseph.shea@insa-toulouse.fr</email>
@@ -525,11 +525,31 @@
     <Personnel id="E53">
 	    <nom>Duboscq</nom>
 	    <prenom>Laurence</prenom>
-	    <grade>Enseignant-chercheur</grade>
+	    <grade>Enseignant</grade>
 	    <bureau>B003</bureau>
 	    <telephone>05 64 55 99 20</telephone>
 	    <email>laurence.duboscq@insa-toulouse.fr</email>
 	    <departement>APS</departement>
+    </Personnel>
+
+    <Personnel id="E54">
+	    <nom>Carrere</nom>
+	    <prenom>Helene</prenom>
+	    <grade>Maître de conférences</grade>
+	    <bureau>B130</bureau>
+	    <telephone>05 61 55 96 40</telephone>
+	    <email>carrere@insa-toulouse.fr</email>
+	    <departement>GP</departement>
+    </Personnel>
+
+    <Personnel id="E55">
+	    <nom>Chaussumier</nom>
+	    <prenom>Michel</prenom>
+	    <grade>Maître de conférences</grade>
+	    <bureau>B25</bureau>
+	    <telephone>05 61 17 11 75</telephone>
+	    <email>chaussum@insa-toulouse.fr</email>
+	    <departement>GC</departement>
     </Personnel>
 
 </Personnels>

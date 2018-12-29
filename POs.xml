@@ -6,4 +6,19 @@
 	    <Departement>STPI</Departement>
 	    <Responsable>E02</Responsable> <!-- Responsable de PO -->
     </PO>
+    <PO acronyme="IMACS">
+	    <nom>Ingénierie des Matériaux, Composants et Systèmes</nom>
+	    <Departement>STPI</Departement>
+	    <Responsable>E54</Responsable> <!-- Responsable de PO -->
+    </PO>
+    <PO acronyme="IC">
+	    <nom>Ingénierie de la construction</nom>
+	    <Departement>STPI</Departement>
+	    <Responsable>E55</Responsable> <!-- Responsable de PO -->
+    </PO>
+    <PO acronyme="ICBE">
+	    <nom>Ingénierie Chimique, Biochimique et Environnementale</nom>
+	    <Departement>STPI</Departement>
+	    <Responsable>E01</Responsable> <!-- Responsable de PO -->
+    </PO>
 </POs>
