@@ -41,10 +41,11 @@ http://gei.insa-toulouse.fr/fr/departement/people.html
 
 --------------
 POUR XSLT
-1. Pour chaque PO, le nombre total d'UFs -------------- DONE
-2. Pour chaque PO, le nombre total de cours + Infos sur cours (nom, responsable)
-3. Pour chaque cours, liste des épreuves
-4. Pour chaque personne, liste de ses responsabilités (Département, UFs, Cours)
+1. Pour chaque PO, le nombre total d'UFs 										-------------- DONE XSLT1
+2. Pour chaque PO, le nombre total de cours + Infos sur cours (nom, responsable) -------------- DONE XSLT1
+3. Pour chaque cours, liste des épreuves 										-------------- DONE XSLT1
+4. Pour chaque personne, liste de ses responsabilités (Département, UFs, Cours) -------------- DONE XSLT2
+
 5. Pour chaque PO, liste des compétences 
 
 
@@ -52,9 +53,11 @@ POUR XSLT
 Pour le projet on fait du xslt et css
 ---------
 Ajouter aussi dans le XSLT : 
-1. Nombre total de PO -------------- DONE
-2. Pour chaque UF, Nombre total d'heures et son ECTS
-3. Pour chaque PO, les UFs ayant un ECTS > 5
+1. Nombre total de PO 															-------------- DONE XSLT1
+
+2. Pour chaque UF, Nombre total d'heures et son ECTS						    -------------- ONlY ECTS in XSLT1 / TODO : Nombre total d'heures 
+
+3. Pour chaque PO, les UFs ayant un ECTS > 5									-------------- DONE XSLT1
 
 ---
 
