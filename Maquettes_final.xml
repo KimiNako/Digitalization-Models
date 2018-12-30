@@ -613,13 +613,23 @@
     </Personnel>
 
     <Personnel id="E62">
-	    <nom>Heurte</nom>
-	    <prenom>Claire</prenom>
+	    <nom>Paredes</nom>
+	    <prenom>Manuel</prenom>
 	    <grade>Enseignant</grade>
 	    <bureau/>
-	    <telephone>05 61 55 94 96</telephone>
-	    <email>Claire.Heurte@insa-toulouse.fr</email>
-	    <departement>CSH</departement>
+	    <telephone>05 61 55 97 02</telephone>
+	    <email>manuel.paredes@insa-toulouse.fr</email>
+	    <departement>GM</departement>
+    </Personnel>
+
+    <Personnel id="E63">
+	    <nom>Duprat</nom>
+	    <prenom>Frederic</prenom>
+	    <grade>Enseignant</grade>
+	    <bureau/>
+	    <telephone>05 61 55 99 04</telephone>
+	    <email>frederic.duprat@insa-toulouse.fr</email>
+	    <departement>GC</departement>
     </Personnel>
 
 </Personnels>
@@ -648,6 +658,16 @@
 	    <nom>Génie Biologie</nom>
 	    <dateCreation>1957-03-01</dateCreation>
 	    <Directeur>E51</Directeur>
+    </Departement>
+    <Departement acronyme="GM">
+	    <nom>Génie Mécanique</nom>
+	    <dateCreation>1957-03-01</dateCreation>
+	    <Directeur>E62</Directeur>
+    </Departement>
+    <Departement acronyme="GC">
+	    <nom>Génie Civil</nom>
+	    <dateCreation>1957-03-01</dateCreation>
+	    <Directeur>E63</Directeur>
     </Departement>
     <Departement acronyme="CSH">
 	    <nom>Centre des Sciences Humaines</nom>
@@ -1319,7 +1339,7 @@
 		<Semestre>IC_S3</Semestre>
 	</UF>
 
-	<UF code_apogee="I2CCGE31">
+	<UF code_apogee="I2CCGE31C">
 		<Intitule>Connaissance de l'Entreprise et de ses modes de communication</Intitule>
 		<Responsable>E61</Responsable>
 		<Grands_Domaines>UF Transversales</Grands_Domaines>
@@ -1334,7 +1354,7 @@
 		<Semestre>IC_S3</Semestre>
 	</UF>
 
-	<UF code_apogee=" I2ICGA11">
+	<UF code_apogee="I2ICGA11C">
 		<Intitule>Grandir en autonomie et construire son projet professionnel II</Intitule>
 		<Responsable>E18</Responsable>
 		<Grands_Domaines>UF Transversales</Grands_Domaines>
@@ -2713,8 +2733,8 @@
 		<coef>0.5</coef>
 		<Facultatif>false</Facultatif>
 		<presentiel/>
-		<nbr_CM>16.25</nbr_CM>
-		<nbr_TD>16.25</nbr_TD>
+		<nbr_CM>13</nbr_CM>
+		<nbr_TD>13</nbr_TD>
 		<nbr_TP>0</nbr_TP>
 		<Competence nom="Mathémathiques"/>
 	</Matiere_de_l_uf>
@@ -2726,9 +2746,9 @@
 		<coef>0.5</coef>
 		<Facultatif>false</Facultatif>
 		<presentiel/>
-		<nbr_CM>15</nbr_CM>
+		<nbr_CM>12</nbr_CM>
 		<nbr_TD>0</nbr_TD>
-		<nbr_TP>32.5</nbr_TP>
+		<nbr_TP>13</nbr_TP>
 		<Competence nom="Analyse numérique"/>
 	</Matiere_de_l_uf>
 
@@ -2740,8 +2760,8 @@
 		<coef>0.5</coef>
 		<Facultatif>false</Facultatif>
 		<presentiel/>
-		<nbr_CM>20</nbr_CM>
-		<nbr_TD>21.25</nbr_TD>
+		<nbr_CM>16</nbr_CM>
+		<nbr_TD>17</nbr_TD>
 		<nbr_TP>0</nbr_TP>
 		<Competence nom="Mécanique"/>
 		<Epreuve nom="CC">
@@ -2757,9 +2777,9 @@
 		<coef>0.5</coef>
 		<Facultatif>false</Facultatif>
 		<presentiel/>
-		<nbr_CM>8.75</nbr_CM>
-		<nbr_TD>11.25</nbr_TD>
-		<nbr_TP>8</nbr_TP>
+		<nbr_CM>7</nbr_CM>
+		<nbr_TD>9</nbr_TD>
+		<nbr_TP>3</nbr_TP>
 		<Competence nom="Réseaux et Machines électriques"/>
 		<Epreuve nom="CC">
 			<nature>CC</nature>
@@ -2775,9 +2795,9 @@
 		<coef>1</coef>
 		<Facultatif>false</Facultatif>
 		<presentiel/>
-		<nbr_CM>15</nbr_CM>
-		<nbr_TD>10</nbr_TD>
-		<nbr_TP>12</nbr_TP>
+		<nbr_CM>12</nbr_CM>
+		<nbr_TD>8</nbr_TD>
+		<nbr_TP>5</nbr_TP>
 		<Competence nom="Sciences des matériaux"/>
 		<Epreuve nom="CC">
 			<nature>CC</nature>
@@ -2794,8 +2814,8 @@
 		<Facultatif>false</Facultatif>
 		<presentiel/>
 		<nbr_CM>0</nbr_CM>
-		<nbr_TD>21</nbr_TD>
-		<nbr_TP>21</nbr_TP>
+		<nbr_TD>17</nbr_TD>
+		<nbr_TP>9</nbr_TP>
 		<Competence nom="SI-CA0-GM"/>
 		<Epreuve nom="Eval-TP">
 			<nature>TP</nature>
@@ -2811,8 +2831,8 @@
 		<Facultatif>false</Facultatif>
 		<presentiel/>
 		<nbr_CM>0</nbr_CM>
-		<nbr_TD>15</nbr_TD>
-		<nbr_TP>20</nbr_TP>
+		<nbr_TD>12</nbr_TD>
+		<nbr_TP>8</nbr_TP>
 		<Competence nom="SI-CA0-GM"/>
 		<Epreuve nom="Eval-TP">
 			<nature>TP</nature>
@@ -2823,13 +2843,13 @@
 
 	<Matiere_de_l_uf code_apogee="I2CCGE31-01">
 		<nom>Expression</nom>
-		<UF>I2CCGE31</UF>
+		<UF>I2CCGE31C</UF>
 		<Responsable>E45</Responsable>
 		<coef>0.25</coef>
 		<Facultatif>false</Facultatif>
 		<presentiel/>
 		<nbr_CM>0</nbr_CM>
-		<nbr_TD>18</nbr_TD>
+		<nbr_TD>14</nbr_TD>
 		<nbr_TP>0</nbr_TP>
 		<Competence nom="Expression"/>
 		<Epreuve nom="CC">
@@ -2840,13 +2860,13 @@
 
 	<Matiere_de_l_uf code_apogee="I2CCGE31-02">
 		<nom>Gestion</nom>
-		<UF>I2CCGE31</UF>
+		<UF>I2CCGE31C</UF>
 		<Responsable>E45</Responsable>
 		<coef>0.25</coef>
 		<Facultatif>false</Facultatif>
 		<presentiel/>
 		<nbr_CM>0</nbr_CM>
-		<nbr_TD>18.75</nbr_TD>
+		<nbr_TD>15</nbr_TD>
 		<nbr_TP>0</nbr_TP>
 		<Competence nom="Gestion"/>
 		<Epreuve nom="CC">
@@ -2857,13 +2877,13 @@
 
 	<Matiere_de_l_uf code_apogee="I2CCGE31-03">
 		<nom>LV1</nom>
-		<UF>I2CCGE31</UF>
+		<UF>I2CCGE31C</UF>
 		<Responsable>E61</Responsable>
 		<coef>0.25</coef>
 		<Facultatif>false</Facultatif>
 		<presentiel/>
 		<nbr_CM>0</nbr_CM>
-		<nbr_TD>30</nbr_TD>
+		<nbr_TD>24</nbr_TD>
 		<nbr_TP>0</nbr_TP>
 		<Competence nom="LV1"/>
 		<Epreuve nom="CC">
@@ -2874,7 +2894,7 @@
 
 	<Matiere_de_l_uf code_apogee="I2CCGE31-04">
 		<nom>Stage</nom>
-		<UF>I2CCGE31</UF>
+		<UF>I2CCGE31C</UF>
 		<Responsable>E45</Responsable>
 		<coef>0.25</coef>
 		<Facultatif>false</Facultatif>
@@ -2896,7 +2916,7 @@
 
 	<Matiere_de_l_uf code_apogee="I2ICGA11-01">
 		<nom>EPS</nom>
-		<UF>I2ICGA11</UF>
+		<UF>I2ICGA11C</UF>
 		<Responsable>E08</Responsable>
 		<coef>0.5</coef>
 		<Facultatif>false</Facultatif>
@@ -2913,7 +2933,7 @@
 
 	<Matiere_de_l_uf code_apogee="I2ICGA11-02">
 		<nom>PPI</nom>
-		<UF>I2ICGA11</UF>
+		<UF>I2ICGA11C</UF>
 		<Responsable>E18</Responsable>
 		<coef>0.5</coef>
 		<Facultatif>false</Facultatif>

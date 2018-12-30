@@ -8,8 +8,8 @@
 		<coef>0.5</coef>
 		<Facultatif>false</Facultatif>
 		<presentiel></presentiel>
-		<nbr_CM>16.25</nbr_CM>
-		<nbr_TD>16.25</nbr_TD>
+		<nbr_CM>13</nbr_CM>
+		<nbr_TD>13</nbr_TD>
 		<nbr_TP>0</nbr_TP>
 		<Competence nom="Mathémathiques"/>
 	</Matiere_de_l_uf>
@@ -21,9 +21,9 @@
 		<coef>0.5</coef>
 		<Facultatif>false</Facultatif>
 		<presentiel></presentiel>
-		<nbr_CM>15</nbr_CM>
+		<nbr_CM>12</nbr_CM>
 		<nbr_TD>0</nbr_TD>
-		<nbr_TP>32.5</nbr_TP>
+		<nbr_TP>13</nbr_TP>
 		<Competence nom="Analyse numérique"/>
 	</Matiere_de_l_uf>
 
@@ -35,8 +35,8 @@
 		<coef>0.5</coef>
 		<Facultatif>false</Facultatif>
 		<presentiel></presentiel>
-		<nbr_CM>20</nbr_CM>
-		<nbr_TD>21.25</nbr_TD>
+		<nbr_CM>16</nbr_CM>
+		<nbr_TD>17</nbr_TD>
 		<nbr_TP>0</nbr_TP>
 		<Competence nom="Mécanique"/>
 		<Epreuve nom="CC">
@@ -52,9 +52,9 @@
 		<coef>0.5</coef>
 		<Facultatif>false</Facultatif>
 		<presentiel></presentiel>
-		<nbr_CM>8.75</nbr_CM>
-		<nbr_TD>11.25</nbr_TD>
-		<nbr_TP>8</nbr_TP>
+		<nbr_CM>7</nbr_CM>
+		<nbr_TD>9</nbr_TD>
+		<nbr_TP>3</nbr_TP>
 		<Competence nom="Réseaux et Machines électriques"/>
 		<Epreuve nom="CC">
 			<nature>CC</nature>
@@ -70,9 +70,9 @@
 		<coef>1</coef>
 		<Facultatif>false</Facultatif>
 		<presentiel></presentiel>
-		<nbr_CM>15</nbr_CM>
-		<nbr_TD>10</nbr_TD>
-		<nbr_TP>12</nbr_TP>
+		<nbr_CM>12</nbr_CM>
+		<nbr_TD>8</nbr_TD>
+		<nbr_TP>5</nbr_TP>
 		<Competence nom="Sciences des matériaux"/>
 		<Epreuve nom="CC">
 			<nature>CC</nature>
@@ -89,8 +89,8 @@
 		<Facultatif>false</Facultatif>
 		<presentiel></presentiel>
 		<nbr_CM>0</nbr_CM>
-		<nbr_TD>21</nbr_TD>
-		<nbr_TP>21</nbr_TP>
+		<nbr_TD>17</nbr_TD>
+		<nbr_TP>9</nbr_TP>
 		<Competence nom="SI-CA0-GM"/>
 		<Epreuve nom="Eval-TP">
 			<nature>TP</nature>
@@ -106,8 +106,8 @@
 		<Facultatif>false</Facultatif>
 		<presentiel></presentiel>
 		<nbr_CM>0</nbr_CM>
-		<nbr_TD>15</nbr_TD>
-		<nbr_TP>20</nbr_TP>
+		<nbr_TD>12</nbr_TD>
+		<nbr_TP>8</nbr_TP>
 		<Competence nom="SI-CA0-GM"/>
 		<Epreuve nom="Eval-TP">
 			<nature>TP</nature>
@@ -124,7 +124,7 @@
 		<Facultatif>false</Facultatif>
 		<presentiel></presentiel>
 		<nbr_CM>0</nbr_CM>
-		<nbr_TD>18</nbr_TD>
+		<nbr_TD>14</nbr_TD>
 		<nbr_TP>0</nbr_TP>
 		<Competence nom="Expression"/>
 		<Epreuve nom="CC">
@@ -141,7 +141,7 @@
 		<Facultatif>false</Facultatif>
 		<presentiel></presentiel>
 		<nbr_CM>0</nbr_CM>
-		<nbr_TD>18.75</nbr_TD>
+		<nbr_TD>15</nbr_TD>
 		<nbr_TP>0</nbr_TP>
 		<Competence nom="Gestion"/>
 		<Epreuve nom="CC">
@@ -158,7 +158,7 @@
 		<Facultatif>false</Facultatif>
 		<presentiel></presentiel>
 		<nbr_CM>0</nbr_CM>
-		<nbr_TD>30</nbr_TD>
+		<nbr_TD>24</nbr_TD>
 		<nbr_TP>0</nbr_TP>
 		<Competence nom="LV1"/>
 		<Epreuve nom="CC">

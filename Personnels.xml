@@ -612,4 +612,24 @@
 	    <departement>CSH</departement>
     </Personnel>
 
+    <Personnel id="E62">
+	    <nom>Paredes</nom>
+	    <prenom>Manuel</prenom>
+	    <grade>Enseignant</grade>
+	    <bureau></bureau>
+	    <telephone>05 61 55 97 02</telephone>
+	    <email>manuel.paredes@insa-toulouse.fr</email>
+	    <departement>GM</departement>
+    </Personnel>
+
+    <Personnel id="E63">
+	    <nom>Duprat</nom>
+	    <prenom>Frederic</prenom>
+	    <grade>Enseignant</grade>
+	    <bureau></bureau>
+	    <telephone>05 61 55 99 04</telephone>
+	    <email>frederic.duprat@insa-toulouse.fr</email>
+	    <departement>GC</departement>
+    </Personnel>
+
 </Personnels>

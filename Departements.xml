@@ -26,6 +26,16 @@
 	    <dateCreation>1957-03-01</dateCreation>
 	    <Directeur>E51</Directeur>
     </Departement>
+    <Departement acronyme="GM">
+	    <nom>Génie Mécanique</nom>
+	    <dateCreation>1957-03-01</dateCreation>
+	    <Directeur>E62</Directeur>
+    </Departement>
+    <Departement acronyme="GC">
+	    <nom>Génie Civil</nom>
+	    <dateCreation>1957-03-01</dateCreation>
+	    <Directeur>E63</Directeur>
+    </Departement>
     <Departement acronyme="CSH">
 	    <nom>Centre des Sciences Humaines</nom>
 	    <dateCreation>1957-03-01</dateCreation>

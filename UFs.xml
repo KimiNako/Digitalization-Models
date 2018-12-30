@@ -612,7 +612,7 @@
 		<Semestre>IC_S3</Semestre>
 	</UF>
 
-	<UF code_apogee="I2CCGE31">
+	<UF code_apogee="I2CCGE31C">
 		<Intitule>Connaissance de l'Entreprise et de ses modes de communication</Intitule>
 		<Responsable>E61</Responsable>
 		<Grands_Domaines>UF Transversales</Grands_Domaines>
@@ -627,7 +627,7 @@
 		<Semestre>IC_S3</Semestre>
 	</UF>
 
-	<UF code_apogee=" I2ICGA11">
+	<UF code_apogee="I2ICGA11C">
 		<Intitule>Grandir en autonomie et construire son projet professionnel II</Intitule>
 		<Responsable>E18</Responsable>
 		<Grands_Domaines>UF Transversales</Grands_Domaines>
