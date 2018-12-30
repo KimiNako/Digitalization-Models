@@ -19,4 +19,7 @@
 	<Semestre numero="MIC_GMM_S6">
 		<PO>MIC</PO>
 	</Semestre>
+	<Semestre numero="IC_S3">
+		<PO>IC</PO>
+	</Semestre>
 </Semestres>

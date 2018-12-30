@@ -552,4 +552,74 @@
 	    <departement>GC</departement>
     </Personnel>
 
+    <Personnel id="E56">
+	    <nom>Noble</nom>
+	    <prenom>Pascal</prenom>
+	    <grade>Enseignant-chercheur</grade>
+	    <bureau>B127</bureau>
+	    <telephone>05 61 55 93 28</telephone>
+	    <email>pascal.noble@math.univ-toulouse.fr</email>
+	    <departement>GMM</departement>
+    </Personnel>
+
+    <Personnel id="E57">
+	    <nom>Sartor</nom>
+	    <prenom>Marc</prenom>
+	    <grade>Enseignant-chercheur</grade>
+	    <bureau></bureau>
+	    <telephone>05 61 55 97 10</telephone>
+	    <email>Marc.Sartor@insa-toulouse.fr</email>
+	    <departement>GM</departement>
+    </Personnel>
+
+    <Personnel id="E58">
+	    <nom>Gerard</nom>
+	    <prenom>Pascal</prenom>
+	    <grade>Enseignant-chercheur</grade>
+	    <bureau></bureau>
+	    <telephone>05 61 55 96 47</telephone>
+	    <email>Pascal.Gerard@insa-toulouse.fr</email>
+	    <departement>GP</departement>
+    </Personnel>
+
+    <Personnel id="E59">
+	    <nom>Ippolito</nom>
+	    <prenom>Serge</prenom>
+	    <grade>Enseignant</grade>
+	    <bureau></bureau>
+	    <telephone>05 61 55 97 37</telephone>
+	    <email>Serge.Ippolito@insa-toulouse.fr</email>
+	    <departement>GM</departement>
+    </Personnel>
+
+    <Personnel id="E60">
+	    <nom>Mercadier</nom>
+	    <prenom>Sebastien</prenom>
+	    <grade>Enseignant</grade>
+	    <bureau></bureau>
+	    <telephone>05 61 55 99 20</telephone>
+	    <email>Sebastien.Mercadier@insa-toulouse.fr</email>
+	    <departement>GC</departement>
+    </Personnel>
+
+    <Personnel id="E61">
+	    <nom>Heurte</nom>
+	    <prenom>Claire</prenom>
+	    <grade>Enseignant</grade>
+	    <bureau></bureau>
+	    <telephone>05 61 55 94 96</telephone>
+	    <email>Claire.Heurte@insa-toulouse.fr</email>
+	    <departement>CSH</departement>
+    </Personnel>
+
+    <Personnel id="E62">
+	    <nom>Heurte</nom>
+	    <prenom>Claire</prenom>
+	    <grade>Enseignant</grade>
+	    <bureau></bureau>
+	    <telephone>05 61 55 94 96</telephone>
+	    <email>Claire.Heurte@insa-toulouse.fr</email>
+	    <departement>CSH</departement>
+    </Personnel>
+
 </Personnels>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<UFs>
+	<UF code_apogee="I2ICMT12">
+		<Intitule>Outils mathématiques I</Intitule>
+		<Responsable>E56</Responsable>
+		<Grands_Domaines>UF Scientifiques</Grands_Domaines>
+		<Heterogene>true</Heterogene>
+		<Eval_Par_Competences>true</Eval_Par_Competences>
+		<Continuite>false</Continuite>
+		<ECTS>7</ECTS>
+		<NbTotHeureUF>0.0</NbTotHeureUF>
+		<NbTotCM>0</NbTotCM>
+		<NbTotTD>0</NbTotTD>
+		<NbTotTP>0</NbTotTP>
+		<Semestre>IC_S3</Semestre>
+	</UF>
+
+	<UF code_apogee="I2ICME11">
+		<Intitule>Mécanique I - Réseaux et machines électriques</Intitule>
+		<Responsable>E57</Responsable>
+		<Grands_Domaines>UF Scientifiques</Grands_Domaines>
+		<Heterogene>true</Heterogene>
+		<Eval_Par_Competences>false</Eval_Par_Competences>
+		<Continuite>false</Continuite>
+		<ECTS>7</ECTS>
+		<NbTotHeureUF>0.0</NbTotHeureUF>
+		<NbTotCM>0</NbTotCM>
+		<NbTotTD>0</NbTotTD>
+		<NbTotTP>0</NbTotTP>
+		<Semestre>IC_S3</Semestre>
+	</UF>
+
+	<UF code_apogee="I2ICMX11">
+		<Intitule>Sciences des matériaux</Intitule>
+		<Responsable>E55</Responsable>
+		<Grands_Domaines>UF Scientifiques</Grands_Domaines>
+		<Heterogene>false</Heterogene>
+		<Eval_Par_Competences>false</Eval_Par_Competences>
+		<Continuite>false</Continuite>
+		<ECTS>4</ECTS>
+		<NbTotHeureUF>0.0</NbTotHeureUF>
+		<NbTotCM>0</NbTotCM>
+		<NbTotTD>0</NbTotTD>
+		<NbTotTP>0</NbTotTP>
+		<Semestre>IC_S3</Semestre>
+	</UF>
+
+	<UF code_apogee="I2ICTI12">
+		<Intitule>Sciences industrielles - CAO</Intitule>
+		<Responsable>E59</Responsable>
+		<Grands_Domaines>UF Scientifiques</Grands_Domaines>
+		<Heterogene>true</Heterogene>
+		<Eval_Par_Competences>false</Eval_Par_Competences>
+		<Continuite>false</Continuite>
+		<ECTS>7</ECTS>
+		<NbTotHeureUF>0.0</NbTotHeureUF>
+		<NbTotCM>0</NbTotCM>
+		<NbTotTD>0</NbTotTD>
+		<NbTotTP>0</NbTotTP>
+		<Semestre>IC_S3</Semestre>
+	</UF>
+
+	<UF code_apogee="I2CCGE31">
+		<Intitule>Connaissance de l'Entreprise et de ses modes de communication</Intitule>
+		<Responsable>E61</Responsable>
+		<Grands_Domaines>UF Transversales</Grands_Domaines>
+		<Heterogene>false</Heterogene>
+		<Eval_Par_Competences>false</Eval_Par_Competences>
+		<Continuite>false</Continuite>
+		<ECTS>3</ECTS>
+		<NbTotHeureUF>0.0</NbTotHeureUF>
+		<NbTotCM>0</NbTotCM>
+		<NbTotTD>0</NbTotTD>
+		<NbTotTP>0</NbTotTP>
+		<Semestre>IC_S3</Semestre>
+	</UF>
+
+	<UF code_apogee=" I2ICGA11">
+		<Intitule>Grandir en autonomie et construire son projet professionnel II</Intitule>
+		<Responsable>E18</Responsable>
+		<Grands_Domaines>UF Transversales</Grands_Domaines>
+		<Heterogene>false</Heterogene>
+		<Eval_Par_Competences>true</Eval_Par_Competences>
+		<Continuite>false</Continuite>
+		<ECTS>2</ECTS>
+		<NbTotHeureUF>0.0</NbTotHeureUF>
+		<NbTotCM>0</NbTotCM>
+		<NbTotTD>0</NbTotTD>
+		<NbTotTP>0</NbTotTP>
+		<Semestre>IC_S3</Semestre>
+	</UF>
+
+</UFs>
