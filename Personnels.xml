@@ -612,14 +612,4 @@
 	    <departement>CSH</departement>
     </Personnel>
 
-    <Personnel id="E62">
-	    <nom>Heurte</nom>
-	    <prenom>Claire</prenom>
-	    <grade>Enseignant</grade>
-	    <bureau></bureau>
-	    <telephone>05 61 55 94 96</telephone>
-	    <email>Claire.Heurte@insa-toulouse.fr</email>
-	    <departement>CSH</departement>
-    </Personnel>
-
 </Personnels>
