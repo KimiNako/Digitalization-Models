@@ -45,8 +45,7 @@ POUR XSLT
 2. Pour chaque PO, le nombre total de cours + Infos sur cours (nom, responsable) -------------- DONE XSLT1
 3. Pour chaque cours, liste des épreuves 										-------------- DONE XSLT1
 4. Pour chaque personne, liste de ses responsabilités (Département, UFs, Cours) -------------- DONE XSLT2
-
-5. Pour chaque PO, liste des compétences 
+5. Pour chaque PO, liste des compétences 										-------------- DONE XSLT1
 
 
 ------------

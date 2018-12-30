@@ -39,6 +39,9 @@
 
 		<p>Liste des cours</p>
 		<ul><xsl:apply-templates select="//Matiere_de_l_uf[./UF=//UF[./Semestre=//Semestre[./PO=$PO]/@numero]/@code_apogee]"/></ul>
+
+		<p> Liste des compétences</p>
+		<ul> <xsl:apply-templates select="//Matiere_de_l_uf[./UF=//UF[./Semestre=//Semestre[./PO=$PO]/@numero]/@code_apogee]/Competence"/></ul>
 </xsl:template>
 
 
@@ -70,5 +73,9 @@
      <li><xsl:value-of select="."/></li>
 </xsl:template>
 
-
+<xsl:template match="//Matiere_de_l_uf[./UF=//UF[./Semestre=//Semestre[./PO=$PO]/@numero]/@code_apogee]/Competence" >
+	<li>
+		<xsl:value-of select="./@nom"/> 
+	</li>
+</xsl:template>
 </xsl:stylesheet>
