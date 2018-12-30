@@ -42,12 +42,22 @@
 
 		<p> Liste des compétences</p>
 		<ul> <xsl:apply-templates select="//Matiere_de_l_uf[./UF=//UF[./Semestre=//Semestre[./PO=$PO]/@numero]/@code_apogee]/Competence"/></ul>
+
+
 </xsl:template>
 
 
 <xsl:template match="//UF[./Semestre=//Semestre[./PO=$PO]/@numero]">
+		<xsl:variable name="UF">
+   		  <xsl:value-of select="./@code_apogee"/>
+		</xsl:variable>
 	<li>
-		<xsl:value-of select="./Intitule"/> : / ECTS : <xsl:value-of select="./ECTS"/>
+		<xsl:value-of select="./Intitule"/> : 
+		<ul>
+			<li>Nombre d'heures : <xsl:value-of select="1.25*(sum(//Matiere_de_l_uf[./UF=$UF]/nbr_CM)+sum(//Matiere_de_l_uf[./UF=$UF]/nbr_TD))+2.5*sum(//Matiere_de_l_uf[./UF=$UF]/nbr_TP)"/> heures</li>
+			<li>ECTS : <xsl:value-of select="./ECTS"/></li>
+		</ul>
+		<br></br>
 	</li>
 </xsl:template>
 
