@@ -552,6 +552,76 @@
 	    <departement>GC</departement>
     </Personnel>
 
+    <Personnel id="E56">
+	    <nom>Noble</nom>
+	    <prenom>Pascal</prenom>
+	    <grade>Enseignant-chercheur</grade>
+	    <bureau>B127</bureau>
+	    <telephone>05 61 55 93 28</telephone>
+	    <email>pascal.noble@math.univ-toulouse.fr</email>
+	    <departement>GMM</departement>
+    </Personnel>
+
+    <Personnel id="E57">
+	    <nom>Sartor</nom>
+	    <prenom>Marc</prenom>
+	    <grade>Enseignant-chercheur</grade>
+	    <bureau/>
+	    <telephone>05 61 55 97 10</telephone>
+	    <email>Marc.Sartor@insa-toulouse.fr</email>
+	    <departement>GM</departement>
+    </Personnel>
+
+    <Personnel id="E58">
+	    <nom>Gerard</nom>
+	    <prenom>Pascal</prenom>
+	    <grade>Enseignant-chercheur</grade>
+	    <bureau/>
+	    <telephone>05 61 55 96 47</telephone>
+	    <email>Pascal.Gerard@insa-toulouse.fr</email>
+	    <departement>GP</departement>
+    </Personnel>
+
+    <Personnel id="E59">
+	    <nom>Ippolito</nom>
+	    <prenom>Serge</prenom>
+	    <grade>Enseignant</grade>
+	    <bureau/>
+	    <telephone>05 61 55 97 37</telephone>
+	    <email>Serge.Ippolito@insa-toulouse.fr</email>
+	    <departement>GM</departement>
+    </Personnel>
+
+    <Personnel id="E60">
+	    <nom>Mercadier</nom>
+	    <prenom>Sebastien</prenom>
+	    <grade>Enseignant</grade>
+	    <bureau/>
+	    <telephone>05 61 55 99 20</telephone>
+	    <email>Sebastien.Mercadier@insa-toulouse.fr</email>
+	    <departement>GC</departement>
+    </Personnel>
+
+    <Personnel id="E61">
+	    <nom>Heurte</nom>
+	    <prenom>Claire</prenom>
+	    <grade>Enseignant</grade>
+	    <bureau/>
+	    <telephone>05 61 55 94 96</telephone>
+	    <email>Claire.Heurte@insa-toulouse.fr</email>
+	    <departement>CSH</departement>
+    </Personnel>
+
+    <Personnel id="E62">
+	    <nom>Heurte</nom>
+	    <prenom>Claire</prenom>
+	    <grade>Enseignant</grade>
+	    <bureau/>
+	    <telephone>05 61 55 94 96</telephone>
+	    <email>Claire.Heurte@insa-toulouse.fr</email>
+	    <departement>CSH</departement>
+    </Personnel>
+
 </Personnels>
     <Departements>
     <Departement acronyme="STPI">
@@ -632,9 +702,12 @@
 	<Semestre numero="MIC_GMM_S6">
 		<PO>MIC</PO>
 	</Semestre>
+	<Semestre numero="IC_S3">
+		<PO>IC</PO>
+	</Semestre>
 </Semestres>
     <UFs>
-	<UF code_apogee="I2MIMT11">
+	<UF code_apogee="I2MIMT11">				<!-- S3 MIC -->
 		<Intitule>Analyse et Algèbre</Intitule>
 		<Responsable>E02</Responsable>
 		<Grands_Domaines>UF Scientifiques</Grands_Domaines>
@@ -741,7 +814,7 @@
 		<Semestre>MIC_S3</Semestre>
 	</UF>
 
-	<UF code_apogee="I2MIMT21">
+	<UF code_apogee="I2MIMT21">				<!-- S4 MIC -->
 		<Intitule>Analyse et Signal</Intitule>
 		<Responsable>E09</Responsable>
 		<Grands_Domaines>UF Scientifiques</Grands_Domaines>
@@ -849,7 +922,7 @@
 		<Semestre>MIC_S4</Semestre>
 	</UF>
 
-	<UF code_apogee="I3MIMT11">
+	<UF code_apogee="I3MIMT11">				<!-- S5 MIC -->
 		<Intitule>Analyse Numérique, Optimisation, chaînes de Markov</Intitule>
 		<Responsable>E20</Responsable>
 		<Grands_Domaines>Tronc Commun</Grands_Domaines>
@@ -976,7 +1049,7 @@
 		<Semestre>MIC_S5</Semestre>
 	</UF>
 
-	<UF code_apogee="I3MIIF21">
+	<UF code_apogee="I3MIIF21">				<!-- S6 IR -->
 		<Intitule>Programmation système et réseaux</Intitule>
 		<Responsable>E22</Responsable>
 		<Grands_Domaines>UF Scientifique</Grands_Domaines>
@@ -1066,7 +1139,7 @@
 		<Semestre>MIC_IR_S6</Semestre>
 	</UF>
 
-	<UF code_apogee="I3MIPH12">
+	<UF code_apogee="I3MIPH12">				<!-- S6 GMM -->
 		<Intitule>Mécanique et matériaux</Intitule>
 		<Responsable>E34</Responsable>
 		<Grands_Domaines>UF Scientifiques</Grands_Domaines>
@@ -1184,6 +1257,96 @@
 		<NbTotTD>0</NbTotTD>
 		<NbTotTP>0</NbTotTP>
         <Semestre>MIC_GMM_S6</Semestre>
+	</UF>
+
+	<UF code_apogee="I2ICMT12">				<!-- S3 IC -->
+		<Intitule>Outils mathématiques I</Intitule>
+		<Responsable>E56</Responsable>
+		<Grands_Domaines>UF Scientifiques</Grands_Domaines>
+		<Heterogene>true</Heterogene>
+		<Eval_Par_Competences>true</Eval_Par_Competences>
+		<Continuite>false</Continuite>
+		<ECTS>7</ECTS>
+		<NbTotHeureUF>0.0</NbTotHeureUF>
+		<NbTotCM>0</NbTotCM>
+		<NbTotTD>0</NbTotTD>
+		<NbTotTP>0</NbTotTP>
+		<Semestre>IC_S3</Semestre>
+	</UF>
+
+	<UF code_apogee="I2ICME11">
+		<Intitule>Mécanique I - Réseaux et machines électriques</Intitule>
+		<Responsable>E57</Responsable>
+		<Grands_Domaines>UF Scientifiques</Grands_Domaines>
+		<Heterogene>true</Heterogene>
+		<Eval_Par_Competences>false</Eval_Par_Competences>
+		<Continuite>false</Continuite>
+		<ECTS>7</ECTS>
+		<NbTotHeureUF>0.0</NbTotHeureUF>
+		<NbTotCM>0</NbTotCM>
+		<NbTotTD>0</NbTotTD>
+		<NbTotTP>0</NbTotTP>
+		<Semestre>IC_S3</Semestre>
+	</UF>
+
+	<UF code_apogee="I2ICMX11">
+		<Intitule>Sciences des matériaux</Intitule>
+		<Responsable>E55</Responsable>
+		<Grands_Domaines>UF Scientifiques</Grands_Domaines>
+		<Heterogene>false</Heterogene>
+		<Eval_Par_Competences>false</Eval_Par_Competences>
+		<Continuite>false</Continuite>
+		<ECTS>4</ECTS>
+		<NbTotHeureUF>0.0</NbTotHeureUF>
+		<NbTotCM>0</NbTotCM>
+		<NbTotTD>0</NbTotTD>
+		<NbTotTP>0</NbTotTP>
+		<Semestre>IC_S3</Semestre>
+	</UF>
+
+	<UF code_apogee="I2ICTI12">
+		<Intitule>Sciences industrielles - CAO</Intitule>
+		<Responsable>E59</Responsable>
+		<Grands_Domaines>UF Scientifiques</Grands_Domaines>
+		<Heterogene>true</Heterogene>
+		<Eval_Par_Competences>false</Eval_Par_Competences>
+		<Continuite>false</Continuite>
+		<ECTS>7</ECTS>
+		<NbTotHeureUF>0.0</NbTotHeureUF>
+		<NbTotCM>0</NbTotCM>
+		<NbTotTD>0</NbTotTD>
+		<NbTotTP>0</NbTotTP>
+		<Semestre>IC_S3</Semestre>
+	</UF>
+
+	<UF code_apogee="I2CCGE31">
+		<Intitule>Connaissance de l'Entreprise et de ses modes de communication</Intitule>
+		<Responsable>E61</Responsable>
+		<Grands_Domaines>UF Transversales</Grands_Domaines>
+		<Heterogene>false</Heterogene>
+		<Eval_Par_Competences>false</Eval_Par_Competences>
+		<Continuite>false</Continuite>
+		<ECTS>3</ECTS>
+		<NbTotHeureUF>0.0</NbTotHeureUF>
+		<NbTotCM>0</NbTotCM>
+		<NbTotTD>0</NbTotTD>
+		<NbTotTP>0</NbTotTP>
+		<Semestre>IC_S3</Semestre>
+	</UF>
+
+	<UF code_apogee=" I2ICGA11">
+		<Intitule>Grandir en autonomie et construire son projet professionnel II</Intitule>
+		<Responsable>E18</Responsable>
+		<Grands_Domaines>UF Transversales</Grands_Domaines>
+		<Heterogene>false</Heterogene>
+		<Eval_Par_Competences>true</Eval_Par_Competences>
+		<Continuite>false</Continuite>
+		<ECTS>2</ECTS>
+		<NbTotHeureUF>0.0</NbTotHeureUF>
+		<NbTotCM>0</NbTotCM>
+		<NbTotTD>0</NbTotTD>
+		<NbTotTP>0</NbTotTP>
+		<Semestre>IC_S3</Semestre>
 	</UF>
 
 </UFs>
@@ -2543,5 +2706,227 @@
 		</Epreuve>
 	</Matiere_de_l_uf>
 
+	<Matiere_de_l_uf code_apogee="I2ICMT12-Maths"> 		<!--S3 IC-->
+		<nom>Mathématiques</nom>
+		<UF>I2ICMT12</UF>
+		<Responsable>E56</Responsable>
+		<coef>0.5</coef>
+		<Facultatif>false</Facultatif>
+		<presentiel/>
+		<nbr_CM>16.25</nbr_CM>
+		<nbr_TD>16.25</nbr_TD>
+		<nbr_TP>0</nbr_TP>
+		<Competence nom="Mathémathiques"/>
+	</Matiere_de_l_uf>
+
+	<Matiere_de_l_uf code_apogee="I2ICMT12-AN">
+		<nom>Analyse numérique</nom>
+		<UF>I2ICMT12</UF>
+		<Responsable>E56</Responsable>
+		<coef>0.5</coef>
+		<Facultatif>false</Facultatif>
+		<presentiel/>
+		<nbr_CM>15</nbr_CM>
+		<nbr_TD>0</nbr_TD>
+		<nbr_TP>32.5</nbr_TP>
+		<Competence nom="Analyse numérique"/>
+	</Matiere_de_l_uf>
+
+	
+	<Matiere_de_l_uf code_apogee="I2ICME11-Méca">
+		<nom>Mécanique</nom>
+		<UF>I2ICME11</UF>
+		<Responsable>E57</Responsable>
+		<coef>0.5</coef>
+		<Facultatif>false</Facultatif>
+		<presentiel/>
+		<nbr_CM>20</nbr_CM>
+		<nbr_TD>21.25</nbr_TD>
+		<nbr_TP>0</nbr_TP>
+		<Competence nom="Mécanique"/>
+		<Epreuve nom="CC">
+			<nature>CC</nature>
+			<coef>0.5</coef>
+		</Epreuve>
+	</Matiere_de_l_uf>
+
+	<Matiere_de_l_uf code_apogee="I2ICME11-Réseaux">
+		<nom>Réseaux et Machines électriques</nom>
+		<UF>I2ICME11</UF>
+		<Responsable>E58</Responsable>
+		<coef>0.5</coef>
+		<Facultatif>false</Facultatif>
+		<presentiel/>
+		<nbr_CM>8.75</nbr_CM>
+		<nbr_TD>11.25</nbr_TD>
+		<nbr_TP>8</nbr_TP>
+		<Competence nom="Réseaux et Machines électriques"/>
+		<Epreuve nom="CC">
+			<nature>CC</nature>
+			<coef>0.5</coef>
+		</Epreuve>
+	</Matiere_de_l_uf>
+
+
+	<Matiere_de_l_uf code_apogee="I2ICMX11">
+		<nom>Sciences des matériaux</nom>
+		<UF>I2ICMX11</UF>
+		<Responsable>E55</Responsable>
+		<coef>1</coef>
+		<Facultatif>false</Facultatif>
+		<presentiel/>
+		<nbr_CM>15</nbr_CM>
+		<nbr_TD>10</nbr_TD>
+		<nbr_TP>12</nbr_TP>
+		<Competence nom="Sciences des matériaux"/>
+		<Epreuve nom="CC">
+			<nature>CC</nature>
+			<coef>0.5</coef>
+		</Epreuve>
+	</Matiere_de_l_uf>
+
+
+	<Matiere_de_l_uf code_apogee="I2ICTI12-GM">
+		<nom>SI-CA0-GM</nom>
+		<UF>I2ICTI12</UF>
+		<Responsable>E59</Responsable>
+		<coef>0.5</coef>
+		<Facultatif>false</Facultatif>
+		<presentiel/>
+		<nbr_CM>0</nbr_CM>
+		<nbr_TD>21</nbr_TD>
+		<nbr_TP>21</nbr_TP>
+		<Competence nom="SI-CA0-GM"/>
+		<Epreuve nom="Eval-TP">
+			<nature>TP</nature>
+			<coef>0.5</coef>
+		</Epreuve>
+	</Matiere_de_l_uf>
+
+	<Matiere_de_l_uf code_apogee="I2ICTI12-GC">
+		<nom>SI-CA0-GC</nom>
+		<UF>I2ICTI12</UF>
+		<Responsable>E60</Responsable>
+		<coef>0.5</coef>
+		<Facultatif>false</Facultatif>
+		<presentiel/>
+		<nbr_CM>0</nbr_CM>
+		<nbr_TD>15</nbr_TD>
+		<nbr_TP>20</nbr_TP>
+		<Competence nom="SI-CA0-GM"/>
+		<Epreuve nom="Eval-TP">
+			<nature>TP</nature>
+			<coef>0.5</coef>
+		</Epreuve>
+	</Matiere_de_l_uf>
+
+
+	<Matiere_de_l_uf code_apogee="I2CCGE31-01">
+		<nom>Expression</nom>
+		<UF>I2CCGE31</UF>
+		<Responsable>E45</Responsable>
+		<coef>0.25</coef>
+		<Facultatif>false</Facultatif>
+		<presentiel/>
+		<nbr_CM>0</nbr_CM>
+		<nbr_TD>18</nbr_TD>
+		<nbr_TP>0</nbr_TP>
+		<Competence nom="Expression"/>
+		<Epreuve nom="CC">
+			<nature>CC</nature>
+			<coef>0.25</coef>
+		</Epreuve>
+	</Matiere_de_l_uf>
+
+	<Matiere_de_l_uf code_apogee="I2CCGE31-02">
+		<nom>Gestion</nom>
+		<UF>I2CCGE31</UF>
+		<Responsable>E45</Responsable>
+		<coef>0.25</coef>
+		<Facultatif>false</Facultatif>
+		<presentiel/>
+		<nbr_CM>0</nbr_CM>
+		<nbr_TD>18.75</nbr_TD>
+		<nbr_TP>0</nbr_TP>
+		<Competence nom="Gestion"/>
+		<Epreuve nom="CC">
+			<nature>CC</nature>
+			<coef>0.25</coef>
+		</Epreuve>
+	</Matiere_de_l_uf>
+
+	<Matiere_de_l_uf code_apogee="I2CCGE31-03">
+		<nom>LV1</nom>
+		<UF>I2CCGE31</UF>
+		<Responsable>E61</Responsable>
+		<coef>0.25</coef>
+		<Facultatif>false</Facultatif>
+		<presentiel/>
+		<nbr_CM>0</nbr_CM>
+		<nbr_TD>30</nbr_TD>
+		<nbr_TP>0</nbr_TP>
+		<Competence nom="LV1"/>
+		<Epreuve nom="CC">
+			<nature>CC</nature>
+			<coef>0.25</coef>
+		</Epreuve>
+	</Matiere_de_l_uf>
+
+	<Matiere_de_l_uf code_apogee="I2CCGE31-04">
+		<nom>Stage</nom>
+		<UF>I2CCGE31</UF>
+		<Responsable>E45</Responsable>
+		<coef>0.25</coef>
+		<Facultatif>false</Facultatif>
+		<presentiel/>
+		<nbr_CM>0</nbr_CM>
+		<nbr_TD>3</nbr_TD>
+		<nbr_TP>0</nbr_TP>
+		<Competence nom="Stage"/>
+		<Epreuve nom="rapport">
+			<nature>rapport</nature>
+			<coef>0.125</coef>
+		</Epreuve>
+		<Epreuve nom="soutenance">
+			<nature>oral</nature>
+			<coef>0.125</coef>
+		</Epreuve>
+	</Matiere_de_l_uf>
+
+
+	<Matiere_de_l_uf code_apogee="I2ICGA11-01">
+		<nom>EPS</nom>
+		<UF>I2ICGA11</UF>
+		<Responsable>E08</Responsable>
+		<coef>0.5</coef>
+		<Facultatif>false</Facultatif>
+		<presentiel/>
+		<nbr_CM>0</nbr_CM>
+		<nbr_TD>26</nbr_TD>
+		<nbr_TP>0</nbr_TP>
+		<Competence nom="Sport"/>
+		<Epreuve nom="Eval Sport">
+			<nature>Sport</nature>
+			<coef>0.5</coef>
+		</Epreuve>
+	</Matiere_de_l_uf>
+
+	<Matiere_de_l_uf code_apogee="I2ICGA11-02">
+		<nom>PPI</nom>
+		<UF>I2ICGA11</UF>
+		<Responsable>E18</Responsable>
+		<coef>0.5</coef>
+		<Facultatif>false</Facultatif>
+		<presentiel/>
+		<nbr_CM>0</nbr_CM>
+		<nbr_TD>6</nbr_TD>
+		<nbr_TP>0</nbr_TP>
+		<Competence nom="PPI"/>
+		<Epreuve nom="Eval PPI">
+			<nature>PPI</nature>
+			<coef>0.5</coef>
+		</Epreuve>
+	</Matiere_de_l_uf>
+	
 </Matieres>
 </Maquettes>
