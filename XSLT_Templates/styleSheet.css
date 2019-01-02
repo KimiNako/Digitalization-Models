@@ -1,5 +1,50 @@
 body{
 	margin: 0;
 	padding: 0;
-	background-color: red;
+	background-color:antiquewhite;
+}
+
+table {
+	border:3px solid #6495ed;
+	border-spacing: 0 0;
+	width:90%;
+	margin:auto;
+}
+caption {
+	background-color:#D0E3FA;
+	border:1px solid #6495ed;
+	font-family:verdana;
+	padding:5px;
+}
+
+th {
+	font-family:verdana;
+	border:1px dotted #6495ed;
+	padding:5px;
+	background-color:#EFF6FF;
+}
+td {
+	font-family:verdana;
+	font-size:100%;
+	border:1px solid #6495ed;
+	padding:5px;
+	text-align:left;
+	margin:0;
+}
+tr {
+	background-color:#FFFFFF;
+}
+ul {
+	margin-left:2.5%;
+}
+p {
+	margin-left:5%;
+}
+td >ul{
+	list-style-type: none; 
+	margin-left:-40px;
+}
+
+h1 {
+	text-align:center;
 }

@@ -24,35 +24,33 @@
 		<xsl:variable name="PO">
 			<xsl:value-of select="."/>
 		</xsl:variable>
+		<ul>Nombre total de PO : <xsl:value-of select="count (//POs/PO)" /> </ul>
+		<ul>PO étudiée : <xsl:value-of select="$PO"/></ul>
+		<ul>Nombre total d'UFs : <xsl:value-of select="count (//UF[./Semestre=//Semestre[./PO=$PO]/@numero])"/></ul>
 		<table>
-			<tr>Nombre total de PO : <xsl:value-of select="count (//POs/PO)" /> </tr>
-			<tr>PO étudiée : <xsl:value-of select="$PO"/></tr>
-			<tr>Nombre total d'UFs : <xsl:value-of select="count (//UF[./Semestre=//Semestre[./PO=$PO]/@numero])"/></tr>
-		</table>
-		<table>
-			<tr>Liste des UFs</tr>
+			<caption>Liste des UFs</caption>
 			<tr>
-				<td>Intitulé de l'UF</td>
-				<td>Nombre d'heures</td>
-				<td>ECTS</td>
+				<th>Intitulé de l'UF</th>
+				<th>Nombre d'heures</th>
+				<th>ECTS</th>
 			</tr>
 			<xsl:apply-templates select="//UF[./Semestre=//Semestre[./PO=$PO]/@numero]"/>
 		</table>
 		<table>
-			<tr>Liste des UFs avec ECTS > 5 </tr>
+			<caption>Liste des UFs avec ECTS > 5 </caption>
 			<tr>
-				<td> nom de l'UF</td>
-				<td>nombre d'ECTS</td>
+				<th> nom de l'UF</th>
+				<th>nombre d'ECTS</th>
 			</tr>
 				<xsl:apply-templates mode="mode1" select="//UF[(./Semestre=//Semestre[./PO=$PO]/@numero) and ECTS>=5]"/>
 		</table>
 		<p>Nombre total de cours :  <xsl:value-of select="count (//Matiere_de_l_uf[./UF=//UF[./Semestre=//Semestre[./PO=$PO]/@numero]/@code_apogee])" /></p>
 		<table>
-			<tr>Liste des cours</tr>
+			<caption>Liste des cours</caption>
 			<tr>
-				<td> nom du cours</td>
-				<td>responsable</td>
-				<td>épreuves</td>
+				<th> nom du cours</th>
+				<th>responsable</th>
+				<th>épreuves</th>
 			</tr>
 			<xsl:apply-templates select="//Matiere_de_l_uf[./UF=//UF[./Semestre=//Semestre[./PO=$PO]/@numero]/@code_apogee]"/>
 		</table>
