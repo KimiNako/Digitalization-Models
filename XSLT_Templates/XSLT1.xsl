@@ -12,34 +12,50 @@
      </head>
     <body>
        <h1>
-          Nombre total de PO : <xsl:value-of select="count (//POs/PO)" /> 
+          XSLT REQUESTS
        </h1>
        <xsl:apply-templates select="//Semestre/PO[not(preceding::PO/. = .)]"/>
    </body>
  </html>
 </xsl:template>
-
-<xsl:template match="//Semestre/PO[not(preceding::PO/. = .)]">
- 
-		PO étudié :
-		<xsl:variable name="PO">
-     	<xsl:value-of select="."/>
-		</xsl:variable>
-	
-		<xsl:value-of select="$PO"/>
-
-
-		<p>Nombre total d'UFs : <xsl:value-of select="count (//UF[./Semestre=//Semestre[./PO=$PO]/@numero])"/></p>
 		
-		<p>Liste des UFs</p>
-		<ul><xsl:apply-templates select="//UF[./Semestre=//Semestre[./PO=$PO]/@numero]"/></ul>
+<xsl:template match="//Semestre/PO[not(preceding::PO/. = .)]">
 
-		<p>Liste des UFs avec ECTS > 5 </p>
-		<ul><xsl:apply-templates mode="mode1" select="//UF[(./Semestre=//Semestre[./PO=$PO]/@numero) and ECTS>=5]"/></ul>
+		<xsl:variable name="PO">
+			<xsl:value-of select="."/>
+		</xsl:variable>
+		<table>
+			<tr>Nombre total de PO : <xsl:value-of select="count (//POs/PO)" /> </tr>
+			<tr>PO étudiée : <xsl:value-of select="$PO"/></tr>
+			<tr>Nombre total d'UFs : <xsl:value-of select="count (//UF[./Semestre=//Semestre[./PO=$PO]/@numero])"/></tr>
+		</table>
+		<table>
+			<tr>Liste des UFs</tr>
+			<tr>
+				<td>Intitulé de l'UF</td>
+				<td>Nombre d'heures</td>
+				<td>ECTS</td>
+			</tr>
+			<xsl:apply-templates select="//UF[./Semestre=//Semestre[./PO=$PO]/@numero]"/>
+		</table>
+		<table>
+			<tr>Liste des UFs avec ECTS > 5 </tr>
+			<tr>
+				<td> nom de l'UF</td>
+				<td>nombre d'ECTS</td>
+			</tr>
+				<xsl:apply-templates mode="mode1" select="//UF[(./Semestre=//Semestre[./PO=$PO]/@numero) and ECTS>=5]"/>
+		</table>
 		<p>Nombre total de cours :  <xsl:value-of select="count (//Matiere_de_l_uf[./UF=//UF[./Semestre=//Semestre[./PO=$PO]/@numero]/@code_apogee])" /></p>
-
-		<p>Liste des cours</p>
-		<ul><xsl:apply-templates select="//Matiere_de_l_uf[./UF=//UF[./Semestre=//Semestre[./PO=$PO]/@numero]/@code_apogee]"/></ul>
+		<table>
+			<tr>Liste des cours</tr>
+			<tr>
+				<td> nom du cours</td>
+				<td>responsable</td>
+				<td>épreuves</td>
+			</tr>
+			<xsl:apply-templates select="//Matiere_de_l_uf[./UF=//UF[./Semestre=//Semestre[./PO=$PO]/@numero]/@code_apogee]"/>
+		</table>
 
 		<p> Liste des compétences</p>
 		<ul> <xsl:apply-templates select="//Matiere_de_l_uf[./UF=//UF[./Semestre=//Semestre[./PO=$PO]/@numero]/@code_apogee]/Competence"/></ul>
@@ -52,31 +68,30 @@
 		<xsl:variable name="UF">
    		  <xsl:value-of select="./@code_apogee"/>
 		</xsl:variable>
-	<li>
-		<xsl:value-of select="./Intitule"/> : 
-		<ul>
-			<li>Nombre d'heures : <xsl:value-of select="1.25*(sum(//Matiere_de_l_uf[./UF=$UF]/nbr_CM)+sum(//Matiere_de_l_uf[./UF=$UF]/nbr_TD))+2.5*sum(//Matiere_de_l_uf[./UF=$UF]/nbr_TP)"/> heures</li>
-			<li>ECTS : <xsl:value-of select="./ECTS"/></li>
-		</ul>
+		<tr>
+			<td><xsl:value-of select="./Intitule"/></td>
+			<td><xsl:value-of select="1.25*(sum(//Matiere_de_l_uf[./UF=$UF]/nbr_CM)+sum(//Matiere_de_l_uf[./UF=$UF]/nbr_TD))+2.5*sum(//Matiere_de_l_uf[./UF=$UF]/nbr_TP)"/></td>
+			<td><xsl:value-of select="./ECTS"/></td>
+		</tr>
 		<br></br>
-	</li>
 </xsl:template>
 
 <xsl:template mode="mode1" match="//UF[./Semestre=//Semestre[./PO=$PO]/@numero and ECTS>=5]" >
-	<li>
-		<xsl:value-of select="./Intitule"/> (ECTS : <xsl:value-of select="./ECTS"/>)
-	</li>
+	<tr>
+		<td><xsl:value-of select="./Intitule"/></td>
+		<td><xsl:value-of select="./ECTS"/></td>
+	</tr>
 </xsl:template>
 
 <xsl:template match="//Matiere_de_l_uf[./UF=//UF[./Semestre=//Semestre[./PO=$PO]/@numero]/@code_apogee]">
-	
-		<li> Nom : <xsl:value-of select="./nom"/> 	</li>
-		<xsl:variable name="Respo">
+	<xsl:variable name="Respo">
      	<xsl:value-of select="./Responsable"/>
-		</xsl:variable>
-		<li> Responsable : <xsl:value-of select="//Personnel[./@id=$Respo]/nom"/><xsl:text> </xsl:text><xsl:value-of select="//Personnel[./@id=$Respo]/prenom"/></li>
-		<li> Epreuves:  <ul><xsl:apply-templates  select=".//Epreuve/@nom"/></ul></li>
-
+	</xsl:variable>
+	<tr>
+		<td><xsl:value-of select="./nom"/></td>
+		<td><xsl:value-of select="//Personnel[./@id=$Respo]/nom"/><xsl:text> </xsl:text><xsl:value-of select="//Personnel[./@id=$Respo]/prenom"/></td>
+		<td><ul><xsl:apply-templates  select=".//Epreuve/@nom"/></ul></td>
+	</tr>
 <br></br>
 
 </xsl:template>
