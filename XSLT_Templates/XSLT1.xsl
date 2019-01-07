@@ -72,7 +72,6 @@
 			<td><xsl:value-of select="1.25*(sum(//Matiere_de_l_uf[./UF=$UF]/nbr_CM)+sum(//Matiere_de_l_uf[./UF=$UF]/nbr_TD))+2.5*sum(//Matiere_de_l_uf[./UF=$UF]/nbr_TP)"/></td>
 			<td><xsl:value-of select="./ECTS"/></td>
 		</tr>
-		<br></br>
 </xsl:template>
 
 <xsl:template mode="mode1" match="//UF[./Semestre=//Semestre[./PO=$PO]/@numero and ECTS>=5]" >
@@ -91,7 +90,6 @@
 		<td><xsl:value-of select="//Personnel[./@id=$Respo]/nom"/><xsl:text> </xsl:text><xsl:value-of select="//Personnel[./@id=$Respo]/prenom"/></td>
 		<td><ul><xsl:apply-templates  select=".//Epreuve/@nom"/></ul></td>
 	</tr>
-<br></br>
 
 </xsl:template>
 <xsl:template match="Epreuve/@nom">
