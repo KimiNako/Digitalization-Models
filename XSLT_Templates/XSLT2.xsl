@@ -4,6 +4,7 @@
 <xsl:template match="/">
    <html>
       <head>
+			<link href="styleSheet.css" rel="stylesheet" type="text/css"></link>
          <title>
              XSLT REQUESTS
          </title>
