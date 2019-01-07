@@ -2833,7 +2833,7 @@
 		<nbr_CM>0</nbr_CM>
 		<nbr_TD>12</nbr_TD>
 		<nbr_TP>8</nbr_TP>
-		<Competence nom="SI-CA0-GM"/>
+		<Competence nom="SI-CA0-GC"/>
 		<Epreuve nom="Eval-TP">
 			<nature>TP</nature>
 			<coef>0.5</coef>
